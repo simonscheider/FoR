@@ -1,0 +1,36 @@
+1) "At Rannoch station we stepped down from the train and on to the Moor" => ZF D0
+ "at [GO] [target location]" (target location may be absent)
+
+2) "between the lochs and the peat hags bog streams wriggle" => BF
+"between [GO1] and [GO2] [target location]" (but with a whole clause as target)
+
+3) "when I glanced up at the mountains" => this is dangerous, it is not a ZF, but rather the verb "glance at" (should be excluded from the ZF scheme if possible)
+
+4) "the mountains west of the Moor" => EF C:
+"[target location] [cardinal direction] of [GO]"
+
+5) "we stopped for shelter in a ruin named on our map as Tigh Na Cruaiche" => TF P
+"[target location] in a [NP] ... named ... [GO]" 
+
+6) "Beyond the series of wooden islands slung across the center of Loch Laidon we could see" => ZF C 
+"[target location] the center of [GO]"
+
+7) "On top of a fifty foot high knoll, we sat" => EF G
+"On top of [GO] [target location]" 
+
+8) "miles away in the mouth of Glen Coe" => TF SP
+"the/a [NP] of [GO]" 
+
+9) "the Moor's center" => ZF C
+"the [GO]'s center" 
+
+10) "the point where the River Ba flows into Loch Laidon" => TF I
+"[target location] where [GO1] flows into [GO2]"
+
+11) "a shelter in the middle of the Moor's great place" => ZF C
+"[target location] in the middle of [GO]"
+
+
+
+
+

@@ -1,0 +1,32 @@
+Definite FoR types:
+
+Zonal Frame (ZF):
+- ZF D0 (zonal frame with zero distance modifier)
+- ZF D+ (zonal frame with distance modifier)
+- ZF C (Zonal frame center)
+
+Euclidean frame (EF):
+- EF CP (Euclidean frame with cardinal part)
+- EF CD (Euclidean frame with cardinal distance)
+- EF G (Euclidean frame with gravitation axis)
+- EF C (Euclidean frame with cardinal direction without distance)
+
+Topological frame (TF):
+- TF SP (Topological frame with specific parthood)
+- TF P (Topological frame with unspecific parthood)
+- TF I (Topological frame with intersect)
+- TF T (Topological frame with touch)
+
+Betweeness frame (BF):
+- BF 
+
+Linear construction frame (LCF):
+- LCF S (Linear construction frame using shape)
+- LCF M (Linear construction frame using movement from to)
+
+
+--------------------
+
+
+
+

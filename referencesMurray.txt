@@ -1,0 +1,50 @@
+1) "I arrived by road at the south-west side of the moor" => EF CP
+[target location] the [cardinal direction] side of [GO]
+
+2) "Camped between Lochan na Stainge and Loch Ba" => BF
+"[target location] between [GO1] and [GO2]"
+
+3) "We pitched the tent well to the east of Loch Ba" => EF CD 
+"[target location] [distance modifier] to the [cardinal direction] of [GO]"
+
+4) "I pitched the tent on top of thick heather" => EF G
+"[target location] on top of [GO]" 
+
+5) "ten miles north-east to Rannoch station" This reference identifies a path, not a target location. Difficult to resolve because of co-referencing
+
+6) "along the east side of Loch Ba"  => LCF S
+"[target object] along the [cardinal direction] side of [GO]" 
+
+7) "a short and twisted river linked Loch Ba to Loch Laidon" => TF T
+"[target location] linked [GO1] to [GO2]"
+
+8) "On reaching Loch Laidon"  => ZF D0
+"[target location][motion verb] [GO]"
+
+9) "On the line I chose, always close to the Loch" => ZF D+
+"[target location] [distance modifier] [GO]"
+
+10) "Away from the waterway" => ZF D+
+"[target location] [distance modifier] [GO]"
+
+11) "We could travel close to the shore" => ZF D+
+"[target location] [distance modifier] [GO]"
+
+12) "We came to the north-east end of Loch Laidon" => EF CP
+"[target location] the [cardinal direction] end of [GO]"
+
+13) "the [cardinal direction] side of [GO]" => EF CP
+
+14) "where the River Gaur ..." => ZF D0
+"[target location] where [GO]" 
+
+15) "the road from Black Corries Lodge to Kingshouse" => LCF M
+"[targetlocation] from [GO1] to [GO2]"
+
+
+
+
+
+
+
+
