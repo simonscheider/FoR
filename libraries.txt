@@ -1,0 +1,18 @@
+https://github.com/Toblerity/Fiona
+
+Shapely
+
+
+
+operations:
+
+1) Find medial line of polygon (Voronoi diagrams) (Yao, Rokne: Computing the medial axis of a polygon)
+
+2) Compute outer inner buffer
+
+3) Overlay operations (Clip, intersect, difference)
+
+4) Convex hull (between)
+
+5) direction cones
+
