@@ -7,16 +7,15 @@ import operations as ops
 
 import plot_utils
 
-def test_voronoi_of_lattice(debug=True):
-    points = np.array([(1, 1), (1, 2), (2, 2.5), (3, 2), (3, 1), (2, 1.5)])
+def test_voronoi_of_lattice(debug=False):
+    points = np.array([(1, 1), (1, 1.5), (1, 2), (1, 3), (2, 3), (2, 2), (2, 1.5), (2, 1), (1.5, 1.5)])
     polygon = Polygon(points)
 
     medial_line = ops.medial_line(polygon)
 
-    plt.figure()
-    axes = plt.subplot(111)
-    plot_utils.plot_polygon(axes, polygon, mark_color='r')
-    
-    plot_utils.plot_line_string(axes, medial_line)
-    
-    plt.show()
+    if debug:
+        plt.figure()
+        axes = plt.subplot(111)
+        plot_utils.plot(axes, polygon, color='grey')
+        plot_utils.plot(axes, medial_line, color='r')
+        plt.show()

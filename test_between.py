@@ -1,5 +1,7 @@
 from operations import between
 
+import plot_utils
+
 from shapely.geometry import Polygon, LineString
 from numpy import array
 
@@ -16,11 +18,10 @@ def test_between_triangles(debug=False):
 
     if debug:
         plt.figure()
-        plt.ylim(0, 3)
-        plt.xlim(0, 7)
-        plt.gca().add_patch(plt.Polygon(array(left.exterior.coords), color='red'))
-        plt.gca().add_patch(plt.Polygon(array(right.exterior.coords), color='green'))
-        plt.gca().add_patch(plt.Polygon(array(between_result.exterior.coords), color='blue'))
+        axes = plt.subplot(111)
+        plot_utils.plot(axes, left, color='red')
+        plot_utils.plot(axes, right, color='green')
+        plot_utils.plot(axes, between_result, color='blue')
         plt.show()
 
 def test_between_polygon_and_line(debug=False):
@@ -33,9 +34,8 @@ def test_between_polygon_and_line(debug=False):
 
     if debug:
         plt.figure()
-        plt.ylim(0, 3)
-        plt.xlim(0, 7)
-        plt.gca().add_patch(plt.Polygon(array(left.exterior.coords), color='red'))
-        plt.gca().add_line(mlines.Line2D(array(right.coords).T[0, :], array(right.coords).T[1, :], color='green', linewidth=4))
-        plt.gca().add_patch(plt.Polygon(array(between_result.exterior.coords), color='blue'))
+        axes = plt.subplot(111)
+        plot_utils.plot(axes, left, color='red')
+        plot_utils.plot(axes, right, color='green')
+        plot_utils.plot(axes, between_result, color='blue')
         plt.show()
