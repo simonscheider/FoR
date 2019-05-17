@@ -1,12 +1,8 @@
-from operations import between
-
-import plot_utils
-
 from shapely.geometry import Polygon, LineString
-from numpy import array
-
 import matplotlib.pyplot as plt
-import matplotlib.lines as mlines
+
+from operations import between
+import plot_utils
 
 def test_between_triangles(debug=False):
     left = Polygon([(1, 1), (2, 2), (3, 1)])
@@ -14,7 +10,7 @@ def test_between_triangles(debug=False):
 
     between_result = between(left, right)
 
-    assert(between_result.equals(Polygon([(2, 2), (3, 1), (5, 1), (4, 2)])))
+    assert between_result.equals(Polygon([(2, 2), (3, 1), (5, 1), (4, 2)]))
 
     if debug:
         plt.figure()
@@ -30,7 +26,7 @@ def test_between_polygon_and_line(debug=False):
 
     between_result = between(left, right)
 
-    assert(between_result.equals(Polygon([(2, 2), (3, 1), (4, 1), (4, 2)])))
+    assert between_result.equals(Polygon([(2, 2), (3, 1), (4, 1), (4, 2)]))
 
     if debug:
         plt.figure()
