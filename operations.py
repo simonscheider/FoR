@@ -13,6 +13,15 @@ def between(a, b):
     return a.union(b).convex_hull.difference(a).difference(b)
 
 
+def outer_inner_buffer(a, r):
+    """
+    :param a: The `shapely.geometry.Polygon`
+    :param r: The size of the buffer
+    :returns: `shapely.geometry.Polygon` (in general with holes) that is the outer part of `a`.
+    """
+    return a.exterior.buffer(r).intersection(a)
+
+
 def medial_line(a):
     points = np.array(a.exterior.coords)
     vor = Voronoi(points)
