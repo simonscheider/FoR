@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from matplotlib.path import Path
 from matplotlib.patches import PathPatch
 import numpy as np
-from shapely.geometry import Polygon, LineString, MultiLineString
+from shapely.geometry import Polygon, LineString, MultiLineString, MultiPolygon
 
 def plot(axes, thing, **kwargs):
     if isinstance(thing, LineString):
@@ -12,6 +12,9 @@ def plot(axes, thing, **kwargs):
     elif isinstance(thing, MultiLineString):
         for line_string in thing.geoms:
             plot_line_string(axes, line_string, **kwargs)
+    elif isinstance(thing, MultiPolygon):
+        for polygon in thing.geoms:
+            plot_polygon(axes, polygon, **kwargs)
 
 
 def plot_polygon(axes, polygon, marker='', mark_color='k', fill=True, color='k'):
