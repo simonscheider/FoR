@@ -18,6 +18,35 @@ def test_medial_line_of_polygon_1(debug=False):
     if debug:
         plt.figure()
         axes = plt.subplot(111)
-        plot_utils.plot(axes, polygon, color='grey')
+        plot_utils.plot(axes, polygon, color='grey', marker='x')
+        plot_utils.plot(axes, medial_line, color='r')
+        plt.show()
+
+
+def test_medial_line_of_polygon_2(debug=False):
+    polygon = Point(1, 1).buffer(2).union(Point(2, 2).buffer(2))
+
+    medial_line = ops.medial_line(polygon)
+
+    assert medial_line.within(polygon)
+
+    if debug:
+        plt.figure()
+        axes = plt.subplot(111)
+        plot_utils.plot(axes, polygon, color='grey', marker='x')
+        plot_utils.plot(axes, medial_line, color='r')
+        plt.show()
+
+def test_medial_line_of_polygon_3(debug=False):
+    polygon = Polygon([(1, 1), (2, 1.5), (0, 3), (-1, 4), (-2, 3), (-0.5, 2)])
+
+    medial_line = ops.medial_line(polygon)
+
+    assert medial_line.within(polygon)
+
+    if debug:
+        plt.figure()
+        axes = plt.subplot(111)
+        plot_utils.plot(axes, polygon, color='grey', marker='x')
         plot_utils.plot(axes, medial_line, color='r')
         plt.show()
