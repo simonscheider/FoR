@@ -15,9 +15,9 @@ def test_between_triangles(debug=False):
     if debug:
         plt.figure()
         axes = plt.subplot(111)
-        plot_utils.plot(axes, left, color='red')
-        plot_utils.plot(axes, right, color='green')
-        plot_utils.plot(axes, between_result, color='blue')
+        plot_utils.plot(axes, left, color='lightcoral')
+        plot_utils.plot(axes, right, color='lightblue')
+        plot_utils.plot(axes, between_result, color='lightgrey')
         plt.show()
 
 def test_between_polygon_and_line(debug=False):
@@ -31,7 +31,7 @@ def test_between_polygon_and_line(debug=False):
     if debug:
         plt.figure()
         axes = plt.subplot(111)
-        plot_utils.plot(axes, left, color='red')
-        plot_utils.plot(axes, right, color='green')
-        plot_utils.plot(axes, between_result, color='blue')
+        plot_utils.plot(axes, left, color='lightcoral')
+        plot_utils.plot(axes, right, color='blue')
+        plot_utils.plot(axes, between_result, color='lightgrey')
         plt.show()

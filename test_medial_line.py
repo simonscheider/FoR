@@ -18,8 +18,8 @@ def test_medial_line_of_polygon_1(debug=False):
     if debug:
         plt.figure()
         axes = plt.subplot(111)
-        plot_utils.plot(axes, polygon, color='grey', marker='x')
-        plot_utils.plot(axes, medial_line, color='r')
+        plot_utils.plot(axes, polygon, color='lightgrey', marker='x')
+        plot_utils.plot(axes, medial_line, color='lightcoral')
         plt.show()
 
 
@@ -33,8 +33,8 @@ def test_medial_line_of_polygon_2(debug=False):
     if debug:
         plt.figure()
         axes = plt.subplot(111)
-        plot_utils.plot(axes, polygon, color='grey', marker='x')
-        plot_utils.plot(axes, medial_line, color='r')
+        plot_utils.plot(axes, polygon, color='lightgrey', marker='x')
+        plot_utils.plot(axes, medial_line, color='lightcoral')
         plt.show()
 
 def test_medial_line_of_polygon_3(debug=False):
@@ -47,6 +47,6 @@ def test_medial_line_of_polygon_3(debug=False):
     if debug:
         plt.figure()
         axes = plt.subplot(111)
-        plot_utils.plot(axes, polygon, color='grey', marker='x')
-        plot_utils.plot(axes, medial_line, color='r')
+        plot_utils.plot(axes, polygon, color='lightgrey', marker='x')
+        plot_utils.plot(axes, medial_line, color='lightcoral')
         plt.show()
