@@ -1,0 +1,471 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.FoR|FrameType
+#T_SP=webanno.custom.Groundobject|
+#T_SP=webanno.custom.Target|
+
+
+#Text=A community group has been set up to fight against plans to build a windfarm on the north-east edge of Rannoch Moor .
+1-1	0-1	A	_	_	_	
+1-2	2-11	community	_	_	_	
+1-3	12-17	group	_	_	_	
+1-4	18-21	has	_	_	_	
+1-5	22-26	been	_	_	_	
+1-6	27-30	set	_	_	_	
+1-7	31-33	up	_	_	_	
+1-8	34-36	to	_	_	_	
+1-9	37-42	fight	_	_	_	
+1-10	43-50	against	_	_	_	
+1-11	51-56	plans	_	_	_	
+1-12	57-59	to	_	_	_	
+1-13	60-65	build	_	_	_	
+1-14	66-67	a	_	_	_	
+1-15	68-76	windfarm	_	_	_	
+1-16	77-79	on	_	_	_	
+1-17	80-83	the	_	_	_	
+1-18	84-94	north-east	_	_	_	
+1-19	95-99	edge	_	_	_	
+1-20	100-102	of	_	_	_	
+1-21	103-110	Rannoch	_	_	_	
+1-22	111-115	Moor	_	_	_	
+1-23	116-117	.	_	_	_	
+
+#Text=The group , who have named themselves Keep Rannoch Wild , are opposing the proposed Talladh-a-Bheithe windfarm which would be built near Loch Ericht .
+2-1	118-121	The	_	_	_	
+2-2	122-127	group	_	_	_	
+2-3	128-129	,	_	_	_	
+2-4	130-133	who	_	_	_	
+2-5	134-138	have	_	_	_	
+2-6	139-144	named	_	_	_	
+2-7	145-155	themselves	_	_	_	
+2-8	156-160	Keep	_	_	_	
+2-9	161-168	Rannoch	_	_	_	
+2-10	169-173	Wild	_	_	_	
+2-11	174-175	,	_	_	_	
+2-12	176-179	are	_	_	_	
+2-13	180-188	opposing	_	_	_	
+2-14	189-192	the	_	_	_	
+2-15	193-201	proposed	_	_	_	
+2-16	202-219	Talladh-a-Bheithe	_	_	_	
+2-17	220-228	windfarm	_	_	_	
+2-18	229-234	which	_	_	_	
+2-19	235-240	would	_	_	_	
+2-20	241-243	be	_	_	_	
+2-21	244-249	built	_	_	_	
+2-22	250-254	near	_	_	_	
+2-23	255-259	Loch	_	_	_	
+2-24	260-266	Ericht	_	_	_	
+2-25	267-268	.	_	_	_	
+
+#Text=Group spokesman Douglas Wynn of Rannoch has warned that the development would be destructive to the surrounding area , which inlcudes Rannoch Moor and munro Ben Alder .
+3-1	269-274	Group	_	_	_	
+3-2	275-284	spokesman	_	_	_	
+3-3	285-292	Douglas	_	_	_	
+3-4	293-297	Wynn	_	_	_	
+3-5	298-300	of	_	_	_	
+3-6	301-308	Rannoch	_	_	_	
+3-7	309-312	has	_	_	_	
+3-8	313-319	warned	_	_	_	
+3-9	320-324	that	_	_	_	
+3-10	325-328	the	_	_	_	
+3-11	329-340	development	_	_	_	
+3-12	341-346	would	_	_	_	
+3-13	347-349	be	_	_	_	
+3-14	350-361	destructive	_	_	_	
+3-15	362-364	to	_	_	_	
+3-16	365-368	the	_	_	_	
+3-17	369-380	surrounding	_	_	_	
+3-18	381-385	area	_	_	_	
+3-19	386-387	,	_	_	_	
+3-20	388-393	which	_	_	_	
+3-21	394-402	inlcudes	_	_	_	
+3-22	403-410	Rannoch	_	_	_	
+3-23	411-415	Moor	_	_	_	
+3-24	416-419	and	_	_	_	
+3-25	420-425	munro	_	_	_	
+3-26	426-429	Ben	_	_	_	
+3-27	430-435	Alder	_	_	_	
+3-28	436-437	.	_	_	_	
+
+#Text=Around 200 people have already backed the campaign .
+4-1	438-444	Around	_	_	_	
+4-2	445-448	200	_	_	_	
+4-3	449-455	people	_	_	_	
+4-4	456-460	have	_	_	_	
+4-5	461-468	already	_	_	_	
+4-6	469-475	backed	_	_	_	
+4-7	476-479	the	_	_	_	
+4-8	480-488	campaign	_	_	_	
+4-9	489-490	.	_	_	_	
+
+#Text=The windfarm would include turbines standing at 410ft tall , on the estate of the same name .
+5-1	491-494	The	_	_	_	
+5-2	495-503	windfarm	_	_	_	
+5-3	504-509	would	_	_	_	
+5-4	510-517	include	_	_	_	
+5-5	518-526	turbines	_	_	_	
+5-6	527-535	standing	_	_	_	
+5-7	536-538	at	_	_	_	
+5-8	539-544	410ft	_	_	_	
+5-9	545-549	tall	_	_	_	
+5-10	550-551	,	_	_	_	
+5-11	552-554	on	_	_	_	
+5-12	555-558	the	_	_	_	
+5-13	559-565	estate	_	_	_	
+5-14	566-568	of	_	_	_	
+5-15	569-572	the	_	_	_	
+5-16	573-577	same	_	_	_	
+5-17	578-582	name	_	_	_	
+5-18	583-584	.	_	_	_	
+
+#Text=The plan has been put forward by Dutch company Eventus .
+6-1	585-588	The	_	_	_	
+6-2	589-593	plan	_	_	_	
+6-3	594-597	has	_	_	_	
+6-4	598-602	been	_	_	_	
+6-5	603-606	put	_	_	_	
+6-6	607-614	forward	_	_	_	
+6-7	615-617	by	_	_	_	
+6-8	618-623	Dutch	_	_	_	
+6-9	624-631	company	_	_	_	
+6-10	632-639	Eventus	_	_	_	
+6-11	640-641	.	_	_	_	
+
+#Text=Mr Wynn said : A windfarm would be totally destructive for the landscape around Rannoch Moor and further afield .
+7-1	642-644	Mr	_	_	_	
+7-2	645-649	Wynn	_	_	_	
+7-3	650-654	said	_	_	_	
+7-4	655-656	:	_	_	_	
+7-5	657-658	A	_	_	_	
+7-6	659-667	windfarm	_	_	_	
+7-7	668-673	would	_	_	_	
+7-8	674-676	be	_	_	_	
+7-9	677-684	totally	_	_	_	
+7-10	685-696	destructive	_	_	_	
+7-11	697-700	for	_	_	_	
+7-12	701-704	the	_	_	_	
+7-13	705-714	landscape	_	_	_	
+7-14	715-721	around	_	_	_	
+7-15	722-729	Rannoch	_	_	_	
+7-16	730-734	Moor	_	_	_	
+7-17	735-738	and	_	_	_	
+7-18	739-746	further	_	_	_	
+7-19	747-753	afield	_	_	_	
+7-20	754-755	.	_	_	_	
+
+#Text=We believe that it will be possible to see the turbines from the Glencoe road and the West Highland Way , as well as the Ben Alder hills which are much closer .
+8-1	756-758	We	_	_	_	
+8-2	759-766	believe	_	_	_	
+8-3	767-771	that	_	_	_	
+8-4	772-774	it	_	_	_	
+8-5	775-779	will	_	_	_	
+8-6	780-782	be	_	_	_	
+8-7	783-791	possible	_	_	_	
+8-8	792-794	to	_	_	_	
+8-9	795-798	see	_	_	_	
+8-10	799-802	the	_	_	_	
+8-11	803-811	turbines	_	_	_	
+8-12	812-816	from	_	_	_	
+8-13	817-820	the	_	_	_	
+8-14	821-828	Glencoe	_	_	_	
+8-15	829-833	road	_	_	_	
+8-16	834-837	and	_	_	_	
+8-17	838-841	the	_	_	_	
+8-18	842-846	West	_	_	_	
+8-19	847-855	Highland	_	_	_	
+8-20	856-859	Way	_	_	_	
+8-21	860-861	,	_	_	_	
+8-22	862-864	as	_	_	_	
+8-23	865-869	well	_	_	_	
+8-24	870-872	as	_	_	_	
+8-25	873-876	the	_	_	_	
+8-26	877-880	Ben	_	_	_	
+8-27	881-886	Alder	_	_	_	
+8-28	887-892	hills	_	_	_	
+8-29	893-898	which	_	_	_	
+8-30	899-902	are	_	_	_	
+8-31	903-907	much	_	_	_	
+8-32	908-914	closer	_	_	_	
+8-33	915-916	.	_	_	_	
+
+#Text=The impact will be immense visually and on wildlife in the area .
+9-1	917-920	The	_	_	_	
+9-2	921-927	impact	_	_	_	
+9-3	928-932	will	_	_	_	
+9-4	933-935	be	_	_	_	
+9-5	936-943	immense	_	_	_	
+9-6	944-952	visually	_	_	_	
+9-7	953-956	and	_	_	_	
+9-8	957-959	on	_	_	_	
+9-9	960-968	wildlife	_	_	_	
+9-10	969-971	in	_	_	_	
+9-11	972-975	the	_	_	_	
+9-12	976-980	area	_	_	_	
+9-13	981-982	.	_	_	_	
+
+#Text=This is a part of the country which has so far remained as a wild land and we hope to keep it that way .
+10-1	983-987	This	_	_	_	
+10-2	988-990	is	_	_	_	
+10-3	991-992	a	_	_	_	
+10-4	993-997	part	_	_	_	
+10-5	998-1000	of	_	_	_	
+10-6	1001-1004	the	_	_	_	
+10-7	1005-1012	country	_	_	_	
+10-8	1013-1018	which	_	_	_	
+10-9	1019-1022	has	_	_	_	
+10-10	1023-1025	so	_	_	_	
+10-11	1026-1029	far	_	_	_	
+10-12	1030-1038	remained	_	_	_	
+10-13	1039-1041	as	_	_	_	
+10-14	1042-1043	a	_	_	_	
+10-15	1044-1048	wild	_	_	_	
+10-16	1049-1053	land	_	_	_	
+10-17	1054-1057	and	_	_	_	
+10-18	1058-1060	we	_	_	_	
+10-19	1061-1065	hope	_	_	_	
+10-20	1066-1068	to	_	_	_	
+10-21	1069-1073	keep	_	_	_	
+10-22	1074-1076	it	_	_	_	
+10-23	1077-1081	that	_	_	_	
+10-24	1082-1085	way	_	_	_	
+10-25	1086-1087	.	_	_	_	
+
+#Text=The campaigners have been backed by outdoor charities the John Muir Trust and the Mountaineering Council of Scotland ( MCoS ) who both objected to the proposals .
+11-1	1088-1091	The	_	_	_	
+11-2	1092-1103	campaigners	_	_	_	
+11-3	1104-1108	have	_	_	_	
+11-4	1109-1113	been	_	_	_	
+11-5	1114-1120	backed	_	_	_	
+11-6	1121-1123	by	_	_	_	
+11-7	1124-1131	outdoor	_	_	_	
+11-8	1132-1141	charities	_	_	_	
+11-9	1142-1145	the	_	_	_	
+11-10	1146-1150	John	_	_	_	
+11-11	1151-1155	Muir	_	_	_	
+11-12	1156-1161	Trust	_	_	_	
+11-13	1162-1165	and	_	_	_	
+11-14	1166-1169	the	_	_	_	
+11-15	1170-1184	Mountaineering	_	_	_	
+11-16	1185-1192	Council	_	_	_	
+11-17	1193-1195	of	_	_	_	
+11-18	1196-1204	Scotland	_	_	_	
+11-19	1205-1206	(	_	_	_	
+11-20	1207-1211	MCoS	_	_	_	
+11-21	1212-1213	)	_	_	_	
+11-22	1214-1217	who	_	_	_	
+11-23	1218-1222	both	_	_	_	
+11-24	1223-1231	objected	_	_	_	
+11-25	1232-1234	to	_	_	_	
+11-26	1235-1238	the	_	_	_	
+11-27	1239-1248	proposals	_	_	_	
+11-28	1249-1250	.	_	_	_	
+
+#Text=The site about 15 miles south of Dalwhinnie in a remote region between Loch Ericht and Loch Rannoch .
+12-1	1251-1254	The	_	_	_	
+12-2	1255-1259	site	_	_	_	
+12-3	1260-1265	about	_	_	_	
+12-4	1266-1268	15	_	_	_	
+12-5	1269-1274	miles	_	_	_	
+12-6	1275-1280	south	euclidean frame[1]	_	_	
+12-7	1281-1283	of	euclidean frame[1]	_	_	
+12-8	1284-1294	Dalwhinnie	euclidean frame[1]	*[2]	_	
+12-9	1295-1297	in	_	_	_	
+12-10	1298-1299	a	_	_	_	
+12-11	1300-1306	remote	_	_	_	
+12-12	1307-1313	region	_	_	_	
+12-13	1314-1321	between	betweeness frame[3]	_	_	
+12-14	1322-1326	Loch	betweeness frame[3]	*[4]	_	
+12-15	1327-1333	Ericht	betweeness frame[3]	*[4]	_	
+12-16	1334-1337	and	betweeness frame[3]	_	_	
+12-17	1338-1342	Loch	betweeness frame[3]	*[5]	_	
+12-18	1343-1350	Rannoch	betweeness frame[3]	*[5]	_	
+12-19	1351-1352	.	_	_	_	
+
+#Text=David Gibson , MCoS chief officer , said : This proposal would affect an area which has a unique landscape character offering panoramic views over a fantastic area of wild land .
+13-1	1353-1358	David	_	_	_	
+13-2	1359-1365	Gibson	_	_	_	
+13-3	1366-1367	,	_	_	_	
+13-4	1368-1372	MCoS	_	_	_	
+13-5	1373-1378	chief	_	_	_	
+13-6	1379-1386	officer	_	_	_	
+13-7	1387-1388	,	_	_	_	
+13-8	1389-1393	said	_	_	_	
+13-9	1394-1395	:	_	_	_	
+13-10	1396-1400	This	_	_	_	
+13-11	1401-1409	proposal	_	_	_	
+13-12	1410-1415	would	_	_	_	
+13-13	1416-1422	affect	_	_	_	
+13-14	1423-1425	an	_	_	_	
+13-15	1426-1430	area	_	_	_	
+13-16	1431-1436	which	_	_	_	
+13-17	1437-1440	has	_	_	_	
+13-18	1441-1442	a	_	_	_	
+13-19	1443-1449	unique	_	_	_	
+13-20	1450-1459	landscape	_	_	_	
+13-21	1460-1469	character	_	_	_	
+13-22	1470-1478	offering	_	_	_	
+13-23	1479-1488	panoramic	_	_	_	
+13-24	1489-1494	views	_	_	_	
+13-25	1495-1499	over	_	_	_	
+13-26	1500-1501	a	_	_	_	
+13-27	1502-1511	fantastic	_	_	_	
+13-28	1512-1516	area	topological frame[6]	_	_	
+13-29	1517-1519	of	topological frame[6]	_	_	
+13-30	1520-1524	wild	topological frame[6]	*[7]	_	
+13-31	1525-1529	land	topological frame[6]	*[7]	_	
+13-32	1530-1531	.	_	_	_	
+
+#Text=It is a stunning landscape vista which is very sensitive to any form of intrusive human activity and an increasingly rare and valuable experience in Scotland .
+14-1	1532-1534	It	_	_	_	
+14-2	1535-1537	is	_	_	_	
+14-3	1538-1539	a	_	_	_	
+14-4	1540-1548	stunning	_	_	_	
+14-5	1549-1558	landscape	_	_	_	
+14-6	1559-1564	vista	_	_	_	
+14-7	1565-1570	which	_	_	_	
+14-8	1571-1573	is	_	_	_	
+14-9	1574-1578	very	_	_	_	
+14-10	1579-1588	sensitive	_	_	_	
+14-11	1589-1591	to	_	_	_	
+14-12	1592-1595	any	_	_	_	
+14-13	1596-1600	form	_	_	_	
+14-14	1601-1603	of	_	_	_	
+14-15	1604-1613	intrusive	_	_	_	
+14-16	1614-1619	human	_	_	_	
+14-17	1620-1628	activity	_	_	_	
+14-18	1629-1632	and	_	_	_	
+14-19	1633-1635	an	_	_	_	
+14-20	1636-1648	increasingly	_	_	_	
+14-21	1649-1653	rare	_	_	_	
+14-22	1654-1657	and	_	_	_	
+14-23	1658-1666	valuable	_	_	_	
+14-24	1667-1677	experience	_	_	_	
+14-25	1678-1680	in	_	_	_	
+14-26	1681-1689	Scotland	_	_	_	
+14-27	1690-1691	.	_	_	_	
+
+#Text=Any presumed benefit from this development would be far outweighed by the damage it would do to such a distinctive landscape which is vital not only to highland Perthshire 's identity but also to Scotland 's international image .
+15-1	1692-1695	Any	_	_	_	
+15-2	1696-1704	presumed	_	_	_	
+15-3	1705-1712	benefit	_	_	_	
+15-4	1713-1717	from	_	_	_	
+15-5	1718-1722	this	_	_	_	
+15-6	1723-1734	development	_	_	_	
+15-7	1735-1740	would	_	_	_	
+15-8	1741-1743	be	_	_	_	
+15-9	1744-1747	far	_	_	_	
+15-10	1748-1758	outweighed	_	_	_	
+15-11	1759-1761	by	_	_	_	
+15-12	1762-1765	the	_	_	_	
+15-13	1766-1772	damage	_	_	_	
+15-14	1773-1775	it	_	_	_	
+15-15	1776-1781	would	_	_	_	
+15-16	1782-1784	do	_	_	_	
+15-17	1785-1787	to	_	_	_	
+15-18	1788-1792	such	_	_	_	
+15-19	1793-1794	a	_	_	_	
+15-20	1795-1806	distinctive	_	_	_	
+15-21	1807-1816	landscape	_	_	_	
+15-22	1817-1822	which	_	_	_	
+15-23	1823-1825	is	_	_	_	
+15-24	1826-1831	vital	_	_	_	
+15-25	1832-1835	not	_	_	_	
+15-26	1836-1840	only	_	_	_	
+15-27	1841-1843	to	_	_	_	
+15-28	1844-1852	highland	_	_	_	
+15-29	1853-1863	Perthshire	_	_	_	
+15-30	1864-1866	's	_	_	_	
+15-31	1867-1875	identity	_	_	_	
+15-32	1876-1879	but	_	_	_	
+15-33	1880-1884	also	_	_	_	
+15-34	1885-1887	to	_	_	_	
+15-35	1888-1896	Scotland	_	_	_	
+15-36	1897-1899	's	_	_	_	
+15-37	1900-1913	international	_	_	_	
+15-38	1914-1919	image	_	_	_	
+15-39	1920-1921	.	_	_	_	
+
+#Text=A spokesman for developer Talladh-a-Bheithe Wind Farm Limited said : Having worked closely with the local community , we are greatly encouraged by the response we have received to date .
+16-1	1922-1923	A	_	_	_	
+16-2	1924-1933	spokesman	_	_	_	
+16-3	1934-1937	for	_	_	_	
+16-4	1938-1947	developer	_	_	_	
+16-5	1948-1965	Talladh-a-Bheithe	_	_	_	
+16-6	1966-1970	Wind	_	_	_	
+16-7	1971-1975	Farm	_	_	_	
+16-8	1976-1983	Limited	_	_	_	
+16-9	1984-1988	said	_	_	_	
+16-10	1989-1990	:	_	_	_	
+16-11	1991-1997	Having	_	_	_	
+16-12	1998-2004	worked	_	_	_	
+16-13	2005-2012	closely	_	_	_	
+16-14	2013-2017	with	_	_	_	
+16-15	2018-2021	the	_	_	_	
+16-16	2022-2027	local	_	_	_	
+16-17	2028-2037	community	_	_	_	
+16-18	2038-2039	,	_	_	_	
+16-19	2040-2042	we	_	_	_	
+16-20	2043-2046	are	_	_	_	
+16-21	2047-2054	greatly	_	_	_	
+16-22	2055-2065	encouraged	_	_	_	
+16-23	2066-2068	by	_	_	_	
+16-24	2069-2072	the	_	_	_	
+16-25	2073-2081	response	_	_	_	
+16-26	2082-2084	we	_	_	_	
+16-27	2085-2089	have	_	_	_	
+16-28	2090-2098	received	_	_	_	
+16-29	2099-2101	to	_	_	_	
+16-30	2102-2106	date	_	_	_	
+16-31	2107-2108	.	_	_	_	
+
+#Text=Our plans would make a valuable contribution towards Scottish and UK government targets for energy from renewable sources .
+17-1	2109-2112	Our	_	_	_	
+17-2	2113-2118	plans	_	_	_	
+17-3	2119-2124	would	_	_	_	
+17-4	2125-2129	make	_	_	_	
+17-5	2130-2131	a	_	_	_	
+17-6	2132-2140	valuable	_	_	_	
+17-7	2141-2153	contribution	_	_	_	
+17-8	2154-2161	towards	_	_	_	
+17-9	2162-2170	Scottish	_	_	_	
+17-10	2171-2174	and	_	_	_	
+17-11	2175-2177	UK	_	_	_	
+17-12	2178-2188	government	_	_	_	
+17-13	2189-2196	targets	_	_	_	
+17-14	2197-2200	for	_	_	_	
+17-15	2201-2207	energy	_	_	_	
+17-16	2208-2212	from	_	_	_	
+17-17	2213-2222	renewable	_	_	_	
+17-18	2223-2230	sources	_	_	_	
+17-19	2231-2232	.	_	_	_	
+
+#Text=We are very eager to continue to explore a range of community benefits , including a commitment to making an annual contribution to a community trust fund .
+18-1	2233-2235	We	_	_	_	
+18-2	2236-2239	are	_	_	_	
+18-3	2240-2244	very	_	_	_	
+18-4	2245-2250	eager	_	_	_	
+18-5	2251-2253	to	_	_	_	
+18-6	2254-2262	continue	_	_	_	
+18-7	2263-2265	to	_	_	_	
+18-8	2266-2273	explore	_	_	_	
+18-9	2274-2275	a	_	_	_	
+18-10	2276-2281	range	_	_	_	
+18-11	2282-2284	of	_	_	_	
+18-12	2285-2294	community	_	_	_	
+18-13	2295-2303	benefits	_	_	_	
+18-14	2304-2305	,	_	_	_	
+18-15	2306-2315	including	_	_	_	
+18-16	2316-2317	a	_	_	_	
+18-17	2318-2328	commitment	_	_	_	
+18-18	2329-2331	to	_	_	_	
+18-19	2332-2338	making	_	_	_	
+18-20	2339-2341	an	_	_	_	
+18-21	2342-2348	annual	_	_	_	
+18-22	2349-2361	contribution	_	_	_	
+18-23	2362-2364	to	_	_	_	
+18-24	2365-2366	a	_	_	_	
+18-25	2367-2376	community	_	_	_	
+18-26	2377-2382	trust	_	_	_	
+18-27	2383-2387	fund	_	_	_	
+18-28	2388-2389	.	_	_	_	
+
+#Text=

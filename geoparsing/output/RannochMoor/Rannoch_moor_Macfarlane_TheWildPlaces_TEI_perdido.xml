@@ -1,0 +1,2023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <s>
+    <term type="offset" subtype="time">
+      <w lemma="by" type="PREP" xml:id="w1">By</w>
+      <w lemma="the" type="DET" xml:id="w2">the</w>
+      <w lemma="time" type="N" xml:id="w3">time</w>
+    </term>
+    <w lemma="i" type="PRO" xml:id="w4">I</w>
+    <w lemma="set" type="V" xml:id="w5">set</w>
+    <w lemma="out" type="PREP" xml:id="w6">out</w>
+    <w lemma="to" type="PREP" xml:id="w7">to</w>
+    <FoR type="ZF" subtype="Do">
+      <motion type="median">
+        <w lemma="cross" type="V" xml:id="w8">cross</w>
+      </motion>
+      <GO>
+        <w lemma="the" type="DET" xml:id="w9">the</w>
+        <term type="geo">
+          <w lemma="moor" type="N" xml:id="w10">Moor</w>
+        </term>
+      </GO>
+    </FoR>
+    <phr>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w11">in</w>
+      </term>
+      <rs type="date">
+        <name type="date">
+          <w lemma="november" type="NPr" xml:id="w12">November</w>
+        </name>
+      </rs>
+      <w type="PUN" lemma="" xml:id="w13">,</w>
+      <rs type="unknown">
+        <name type="unknown">
+          <w lemma="null" type="NPr" xml:id="w14">Coruisk</w>
+        </name>
+      </rs>
+    </phr>
+    <w lemma="'s" type="POS" xml:id="w15">'s</w>
+    <w lemma="rich" type="A" xml:id="w16">rich</w>
+    <w lemma="summer" type="N" xml:id="w17">summer</w>
+    <w lemma="light" type="N" xml:id="w18">light</w>
+    <phr type="verbal">
+      <w lemma="have" type="V" xml:id="w19">had</w>
+      <w lemma="cede" type="V" xml:id="w20">ceded</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="to" type="PREP" xml:id="w21">to</w>
+      </term>
+      <term type="N">
+        <w lemma="autumn" type="N" xml:id="w22">autumn</w>
+        <w lemma="'s" type="POS" xml:id="w23">'s</w>
+        <w lemma="brown" type="N" xml:id="w24">browns</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w25">.</w>
+  </s>
+  <s>
+    <w lemma="the" type="DET" xml:id="w26">The</w>
+    <w lemma="air" type="N" xml:id="w27">air</w>
+    <w lemma="be" type="V" xml:id="w28">was</w>
+    <w lemma="cool" type="A" xml:id="w29">cooler</w>
+    <w type="PUN" lemma="" xml:id="w30">,</w>
+    <w lemma="and" type="CONJC" xml:id="w31">and</w>
+    <phr>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w32">in</w>
+      </term>
+      <w lemma="place" type="N" xml:id="w33">place</w>
+      <w lemma="of" type="PREP" xml:id="w34">of</w>
+      <term type="offset" subtype="time">
+        <w lemma="the" type="DET" xml:id="w35">the</w>
+        <w lemma="long" type="A" xml:id="w36">long</w>
+        <w lemma="evening" type="N" xml:id="w37">evenings</w>
+        <w lemma="of" type="PREP" xml:id="w38">of</w>
+      </term>
+      <rs type="date">
+        <name type="date">
+          <w lemma="july" type="NPr" xml:id="w39">July</w>
+        </name>
+      </rs>
+      <w lemma="and" type="CONJC" xml:id="w40">and</w>
+      <rs type="date">
+        <name type="date">
+          <w lemma="august" type="NPr" xml:id="w41">August</w>
+        </name>
+      </rs>
+    </phr>
+    <phr type="verbal">
+      <w lemma="be" type="V" xml:id="w42">were</w>
+      <w lemma="quick" type="A" xml:id="w43">quick</w>
+      <term type="N">
+        <w lemma="dusk" type="N" xml:id="w44">dusks</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w45">.</w>
+  </s>
+  <s>
+    <w lemma="i" type="PRO" xml:id="w46">I</w>
+    <phr type="verbal">
+      <w lemma="have" type="V" xml:id="w47">had</w>
+      <w lemma="hope" type="V" xml:id="w48">hoped</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="for" type="PREP" xml:id="w49">for</w>
+      </term>
+      <term type="offset" subtype="time">
+        <w lemma="an" type="DET" xml:id="w50">an</w>
+        <w lemma="early" type="A" xml:id="w51">early</w>
+        <w lemma="onset" type="N" xml:id="w52">onset</w>
+        <w lemma="of" type="PREP" xml:id="w53">of</w>
+        <w lemma="winter" type="N" xml:id="w54">winter</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w55">,</w>
+    <w lemma="because" type="PREP" xml:id="w56">because</w>
+    <w lemma="i" type="PRO" xml:id="w57">I</w>
+    <w lemma="want" type="V" xml:id="w58">wanted</w>
+    <w lemma="to" type="PREP" xml:id="w59">to</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="make" type="V" xml:id="w60">make</w>
+      <w lemma="an" type="DET" xml:id="w61">an</w>
+      <w lemma="null" type="A" xml:id="w62">ice-bound</w>
+      <w lemma="traverse" type="N" xml:id="w63">traverse</w>
+      <w lemma="of" type="PREP" xml:id="w64">of</w>
+      <w lemma="the" type="DET" xml:id="w65">the</w>
+      <term type="geo">
+        <w lemma="moor" type="N" xml:id="w66">Moor</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w67">,</w>
+    <phr type="verbal" subtype="motion" role="geo">
+      <motion type="median">
+        <w lemma="follow" type="V" xml:id="w68">following</w>
+      </motion>
+      <w lemma="its" type="PRO" xml:id="w69">its</w>
+      <term type="geo">
+        <w lemma="frozen" type="A" xml:id="w70">frozen</w>
+        <w lemma="waterway" type="N" xml:id="w71">waterways</w>
+      </term>
+      <term type="offset" subtype="orientation">
+        <w lemma="from" type="PREP" xml:id="w72">from</w>
+      </term>
+      <term type="N">
+        <w lemma="one" type="N" xml:id="w73">one</w>
+      </term>
+    </phr>
+    <term type="offset" subtype="inclusion" role="spatial">
+      <w lemma="side" type="N" xml:id="w74">side</w>
+    </term>
+    <w lemma="to" type="PREP" xml:id="w75">to</w>
+    <w lemma="the" type="DET" xml:id="w76">the</w>
+    <w lemma="other" type="A" xml:id="w77">other</w>
+    <w type="PUN" lemma="" xml:id="w78">,</w>
+    <phr>
+      <term type="offset" subtype="orientation">
+        <w lemma="on" type="PREP" xml:id="w79">on</w>
+      </term>
+      <term type="N">
+        <w lemma="ski" type="N" xml:id="w80">skis</w>
+      </term>
+    </phr>
+    <w lemma="or" type="CONJC" xml:id="w81">or</w>
+    <w lemma="even" type="ADV" xml:id="w82">even</w>
+    <w lemma="ice-skate" type="V" xml:id="w83">ice-skates</w>
+    <w type="PUN" lemma="" xml:id="w84">.</w>
+  </s>
+  <s>
+    <w lemma="this" type="DET" xml:id="w85">This</w>
+    <phr type="verbal">
+      <w lemma="be" type="V" xml:id="w86">was</w>
+      <term type="N">
+        <w lemma="something" type="N" xml:id="w87">something</w>
+      </term>
+    </phr>
+    <w lemma="which" type="DET" xml:id="w88">which</w>
+    <w lemma="i" type="PRO" xml:id="w89">I</w>
+    <phr type="verbal">
+      <w lemma="know" type="V" xml:id="w90">knew</w>
+      <w lemma="have" type="V" xml:id="w91">had</w>
+      <w lemma="be" type="V" xml:id="w92">been</w>
+      <w lemma="do" type="V" xml:id="w93">done</w>
+      <term type="offset" subtype="time">
+        <w lemma="once" type="ADV" xml:id="w94">once</w>
+        <w lemma="before" type="ADV" xml:id="w95">before</w>
+      </term>
+      <w type="PUN" lemma="" xml:id="w96">,</w>
+      <term type="offset" subtype="time">
+        <w lemma="in" type="PREP" xml:id="w97">in</w>
+        <w lemma="the" type="DET" xml:id="w98">the</w>
+        <w lemma="1950s" type="N" xml:id="w99">1950s</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w100">,</w>
+    <w lemma="and" type="CONJC" xml:id="w101">and</w>
+    <w lemma="i" type="PRO" xml:id="w102">I</w>
+    <w lemma="greatly" type="ADV" xml:id="w103">greatly</w>
+    <phr type="verbal">
+      <w lemma="like" type="V" xml:id="w104">liked</w>
+      <w lemma="the" type="DET" xml:id="w105">the</w>
+      <term type="N">
+        <w lemma="idea" type="N" xml:id="w106">idea</w>
+      </term>
+    </phr>
+    <w lemma="of" type="PREP" xml:id="w107">of</w>
+    <phr type="verbal">
+      <w lemma="keep" type="V" xml:id="w108">keeping</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="to" type="PREP" xml:id="w109">to</w>
+      </term>
+      <w lemma="a" type="DET" xml:id="w110">a</w>
+      <w lemma="single" type="A" xml:id="w111">single</w>
+      <w lemma="element" type="N" xml:id="w112">element</w>
+      <w lemma="for" type="PREP" xml:id="w113">for</w>
+      <w lemma="the" type="DET" xml:id="w114">the</w>
+      <term type="N">
+        <w lemma="crossing" type="N" xml:id="w115">crossing</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w116">,</w>
+    <w lemma="of" type="PREP" xml:id="w117">of</w>
+    <phr type="verbal">
+      <w lemma="use" type="V" xml:id="w118">using</w>
+      <w lemma="only" type="A" xml:id="w119">only</w>
+      <term type="N">
+        <w lemma="water" type="N" xml:id="w120">water</w>
+      </term>
+    </phr>
+    <w lemma="to" type="PREP" xml:id="w121">to</w>
+    <phr type="verbal" subtype="motion" role="geo">
+      <motion type="median">
+        <w lemma="cross" type="V" xml:id="w122">cross</w>
+      </motion>
+      <w lemma="such" type="DET" xml:id="w123">such</w>
+      <w lemma="an" type="DET" xml:id="w124">an</w>
+      <w lemma="expanse" type="N" xml:id="w125">expanse</w>
+      <w lemma="of" type="PREP" xml:id="w126">of</w>
+      <term type="geo">
+        <w lemma="earth" type="N" xml:id="w127">earth</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w128">.</w>
+  </s>
+  <s>
+    <w lemma="but" type="CONJC" xml:id="w129">But</w>
+    <w lemma="my" type="PRO" xml:id="w130">my</w>
+    <w lemma="father" type="N" xml:id="w131">father</w>
+    <w type="PUN" lemma="" xml:id="w132">,</w>
+    <w lemma="who" type="PRO" xml:id="w133">who</w>
+    <w lemma="have" type="V" xml:id="w134">had</w>
+    <w lemma="agree" type="V" xml:id="w135">agreed</w>
+    <w lemma="to" type="PREP" xml:id="w136">to</w>
+    <phr type="verbal">
+      <w lemma="accompany" type="V" xml:id="w137">accompany</w>
+      <w lemma="me" type="PRO" xml:id="w138">me</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="on" type="PREP" xml:id="w139">on</w>
+      </term>
+      <w lemma="the" type="DET" xml:id="w140">the</w>
+      <term type="N">
+        <w lemma="crossing" type="N" xml:id="w141">crossing</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w142">,</w>
+    <phr type="verbal">
+      <w lemma="point" type="V" xml:id="w143">pointed</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="out" type="PREP" xml:id="w144">out</w>
+      </term>
+      <w lemma="two" type="N" xml:id="w145">two</w>
+      <w lemma="minor" type="A" xml:id="w146">minor</w>
+      <w lemma="problem" type="N" xml:id="w147">problems</w>
+      <w lemma="with" type="PREP" xml:id="w148">with</w>
+      <w lemma="my" type="PRO" xml:id="w149">my</w>
+      <term type="N">
+        <w lemma="plan" type="N" xml:id="w150">plan</w>
+      </term>
+    </phr>
+    <w lemma=":" type="PUN" xml:id="w151">:</w>
+    <w lemma="neither" type="CONJC" xml:id="w152">neither</w>
+    <w lemma="of" type="PREP" xml:id="w153">of</w>
+    <w lemma="us" type="PRO" xml:id="w154">us</w>
+    <w lemma="could" type="V" xml:id="w155">could</w>
+    <w lemma="ice-skate" type="V" xml:id="w156">ice-skate</w>
+    <w type="PUN" lemma="" xml:id="w157">,</w>
+    <w lemma="and" type="CONJC" xml:id="w158">and</w>
+    <w lemma="the" type="DET" xml:id="w159">the</w>
+    <w lemma="weather" type="N" xml:id="w160">weather</w>
+    <w lemma="be" type="V" xml:id="w161">was</w>
+    <w lemma="damp" type="A" xml:id="w162">damp</w>
+    <w type="PUN" lemma="" xml:id="w163">,</w>
+    <w lemma="so" type="ADV" xml:id="w164">so</w>
+    <w lemma="we" type="PRO" xml:id="w165">we</w>
+    <w lemma="would" type="V" xml:id="w166">would</w>
+    <w lemma="sink" type="V" xml:id="w167">sink</w>
+    <w type="PUN" lemma="" xml:id="w168">.</w>
+  </s>
+  <s>
+    <w lemma="i" type="PRO" xml:id="w169">I</w>
+    <phr type="verbal">
+      <w lemma="acknowledge" type="V" xml:id="w170">acknowledged</w>
+      <w lemma="the" type="DET" xml:id="w171">the</w>
+      <w lemma="force" type="N" xml:id="w172">force</w>
+      <w lemma="of" type="PREP" xml:id="w173">of</w>
+      <w lemma="his" type="PRO" xml:id="w174">his</w>
+      <term type="N">
+        <w lemma="logic" type="N" xml:id="w175">logic</w>
+      </term>
+    </phr>
+    <w lemma=";" type="PUN" xml:id="w176">;</w>
+    <motion type="median">
+      <w lemma="walk" type="V" xml:id="w177">walking</w>
+    </motion>
+    <w lemma="it" type="PRO" xml:id="w178">it</w>
+    <w lemma="would" type="V" xml:id="w179">would</w>
+    <w lemma="have" type="V" xml:id="w180">have</w>
+    <w lemma="to" type="PREP" xml:id="w181">to</w>
+    <w lemma="be" type="V" xml:id="w182">be</w>
+    <w type="PUN" lemma="" xml:id="w183">.</w>
+  </s>
+  <s>
+    <w lemma="we" type="PRO" xml:id="w184">We</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="catch" type="V" xml:id="w185">caught</w>
+      <w lemma="the" type="DET" xml:id="w186">the</w>
+      <w lemma="null" type="N" xml:id="w187">sleeper-train</w>
+      <term type="offset" subtype="orientation" role="spatial">
+        <w lemma="north" type="ADV" xml:id="w188">north</w>
+      </term>
+      <w lemma="together" type="ADV" xml:id="w189">together</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="from" type="PREP" xml:id="w190">from</w>
+      </term>
+      <rs type="unknown">
+        <name type="unknown">
+          <w lemma="london" type="NPr" xml:id="w191">London</w>
+        </name>
+      </rs>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w192">.</w>
+  </s>
+  <s>
+    <w lemma="the" type="DET" xml:id="w193">The</w>
+    <w lemma="romance" type="N" xml:id="w194">romance</w>
+    <w lemma="of" type="PREP" xml:id="w195">of</w>
+    <w lemma="the" type="DET" xml:id="w196">the</w>
+    <w lemma="train" type="N" xml:id="w197">train</w>
+    <w type="PUN" lemma="" xml:id="w198">,</w>
+    <w lemma="its" type="PRO" xml:id="w199">its</w>
+    <w lemma="edwardian" type="A" xml:id="w200">Edwardian</w>
+    <w lemma="miracle" type="N" xml:id="w201">miracle</w>
+    <w lemma="of" type="PREP" xml:id="w202">of</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="conjure" type="V" xml:id="w203">conjuring</w>
+      <w lemma="you" type="PRO" xml:id="w204">you</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="to" type="PREP" xml:id="w205">to</w>
+      </term>
+      <w lemma="a" type="DET" xml:id="w206">a</w>
+      <term type="geo">
+        <w lemma="different" type="A" xml:id="w207">different</w>
+        <w lemma="land" type="N" xml:id="w208">land</w>
+      </term>
+    </phr>
+    <w lemma="while" type="PREP" xml:id="w209">while</w>
+    <w lemma="you" type="PRO" xml:id="w210">you</w>
+    <w lemma="sleep" type="V" xml:id="w211">sleep</w>
+    <w type="PUN" lemma="" xml:id="w212">,</w>
+    <w lemma="be" type="V" xml:id="w213">was</w>
+    <w lemma="still" type="ADV" xml:id="w214">still</w>
+    <w lemma="perceptible" type="A" xml:id="w215">perceptible</w>
+    <w type="PUN" lemma="" xml:id="w216">.</w>
+  </s>
+  <s>
+    <w lemma="we" type="PRO" xml:id="w217">We</w>
+    <FoR type="ZF" subtype="Do">
+      <motion type="initial">
+        <w lemma="leave" type="V" xml:id="w218">left</w>
+      </motion>
+      <GO>
+        <rs type="ene" subtype="place">
+          <rs type="place" subtype="ene">
+            <rs type="unknown">
+              <name type="unknown">
+                <w lemma="null" type="NPr" xml:id="w219">Euston</w>
+              </name>
+            </rs>
+            <term type="place">
+              <w lemma="station" type="NPr" xml:id="w220">Station</w>
+            </term>
+          </rs>
+        </rs>
+      </GO>
+    </FoR>
+    <w lemma="null" type="PUN" xml:id="w221">-</w>
+    <w lemma="fast-food" type="N" xml:id="w222">fast-food</w>
+    <w lemma="outlet" type="N" xml:id="w223">outlets</w>
+    <w type="PUN" lemma="" xml:id="w224">,</w>
+    <w lemma="the" type="DET" xml:id="w225">the</w>
+    <w lemma="tannoy" type="N" xml:id="w226">tannoy</w>
+    <w lemma="'s" type="POS" xml:id="w227">'s</w>
+    <w lemma="null" type="N" xml:id="w228">squash-ball</w>
+    <w lemma="null" type="N" xml:id="w229">bing-bong</w>
+    <w type="PUN" lemma="" xml:id="w230">,</w>
+    <phr type="verbal">
+      <w lemma="crush" type="V" xml:id="w231">crushed</w>
+      <w lemma="beer" type="N" xml:id="w232">beer</w>
+      <w lemma="can" type="N" xml:id="w233">cans</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w234">in</w>
+      </term>
+      <term type="N">
+        <w lemma="corner" type="N" xml:id="w235">corners</w>
+      </term>
+      <w type="PUN" lemma="" xml:id="w236">,</w>
+      <w lemma="the" type="DET" xml:id="w237">the</w>
+      <w lemma="shifty" type="A" xml:id="w238">shifty</w>
+      <w lemma="null" type="N" xml:id="w239">body-mass</w>
+      <w lemma="of" type="PREP" xml:id="w240">of</w>
+      <w lemma="the" type="DET" xml:id="w241">the</w>
+      <term type="N">
+        <w lemma="crowd" type="N" xml:id="w242">crowds</w>
+      </term>
+    </phr>
+    <w lemma="null" type="PUN" xml:id="w243">-</w>
+    <w lemma="and" type="CONJC" xml:id="w244">and</w>
+    <phr type="verbal">
+      <w lemma="wake" type="V" xml:id="w245">woke</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="to" type="PREP" xml:id="w246">to</w>
+      </term>
+      <w lemma="chilly" type="A" xml:id="w247">chilly</w>
+      <term type="N">
+        <w lemma="air" type="N" xml:id="w248">air</w>
+      </term>
+      <w type="PUN" lemma="" xml:id="w249">,</w>
+      <w lemma="white" type="A" xml:id="w250">white</w>
+      <w lemma="mist" type="N" xml:id="w251">mist</w>
+      <w lemma="and" type="CONJC" xml:id="w252">and</w>
+      <w lemma="a" type="DET" xml:id="w253">a</w>
+      <term type="N">
+        <w lemma="stag" type="N" xml:id="w254">stag</w>
+      </term>
+    </phr>
+    <phr type="verbal">
+      <w lemma="disappear" type="V" xml:id="w255">disappearing</w>
+      <w lemma="into" type="PREP" xml:id="w256">into</w>
+      <w lemma="the" type="DET" xml:id="w257">the</w>
+      <term type="N">
+        <w lemma="drizzle" type="N" xml:id="w258">drizzle</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w259">.</w>
+  </s>
+  <s>
+    <w lemma="fog" type="N" xml:id="w260">Fog</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="pool" type="V" xml:id="w261">pooled</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w262">in</w>
+      </term>
+      <w lemma="the" type="DET" xml:id="w263">the</w>
+      <term type="geo">
+        <w lemma="low" type="A" xml:id="w264">low</w>
+        <w lemma="ground" type="N" xml:id="w265">ground</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w266">.</w>
+  </s>
+  <s>
+    <FoR type="ZF" subtype="Do">
+      <w lemma="at" type="PREP" xml:id="w267">At</w>
+      <GO>
+        <rs type="ene" subtype="place">
+          <rs type="place" subtype="ene">
+            <rs type="unknown">
+              <name type="unknown">
+                <w lemma="null" type="NPr" xml:id="w268">Rannoch</w>
+              </name>
+            </rs>
+            <term type="place">
+              <w lemma="station" type="NPr" xml:id="w269">Station</w>
+            </term>
+          </rs>
+        </rs>
+      </GO>
+    </FoR>
+    <w type="PUN" lemma="" xml:id="w270">,</w>
+    <w lemma="we" type="PRO" xml:id="w271">we</w>
+    <phr type="verbal" subtype="motion" role="geo">
+      <motion type="median">
+        <w lemma="step" type="V" xml:id="w272">stepped</w>
+      </motion>
+      <term type="offset" subtype="orientation">
+        <w lemma="down" type="PREP" xml:id="w273">down</w>
+      </term>
+      <w lemma="from" type="PREP" xml:id="w274">from</w>
+      <w lemma="the" type="DET" xml:id="w275">the</w>
+      <w lemma="train" type="N" xml:id="w276">train</w>
+      <w lemma="and" type="CONJC" xml:id="w277">and</w>
+      <w lemma="on" type="PREP" xml:id="w278">on</w>
+      <w lemma="to" type="PREP" xml:id="w279">to</w>
+      <w lemma="the" type="DET" xml:id="w280">the</w>
+      <term type="geo">
+        <w lemma="moor" type="N" xml:id="w281">Moor</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w282">.</w>
+  </s>
+  <s>
+    <term type="offset" subtype="time">
+      <w lemma="that" type="DET" xml:id="w283">That</w>
+      <w lemma="morning" type="N" xml:id="w284">morning</w>
+    </term>
+    <w type="PUN" lemma="" xml:id="w285">,</w>
+    <w lemma="we" type="PRO" xml:id="w286">we</w>
+    <w lemma="begin" type="V" xml:id="w287">began</w>
+    <w lemma="to" type="PREP" xml:id="w288">to</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="learn" type="V" xml:id="w289">learn</w>
+      <w lemma="the" type="DET" xml:id="w290">the</w>
+      <w lemma="habit" type="N" xml:id="w291">habits</w>
+      <w lemma="and" type="CONJC" xml:id="w292">and</w>
+      <w lemma="the" type="DET" xml:id="w293">the</w>
+      <w lemma="obligation" type="N" xml:id="w294">obligations</w>
+      <w lemma="of" type="PREP" xml:id="w295">of</w>
+      <w lemma="the" type="DET" xml:id="w296">the</w>
+      <term type="geo">
+        <w lemma="moor" type="N" xml:id="w297">Moor</w>
+      </term>
+      <w type="PUN" lemma="" xml:id="w298">,</w>
+      <w lemma="its" type="PRO" xml:id="w299">its</w>
+      <w lemma="resistance" type="N" xml:id="w300">resistance</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="to" type="PREP" xml:id="w301">to</w>
+      </term>
+      <w lemma="straight" type="A" xml:id="w302">straight</w>
+      <w lemma="line" type="N" xml:id="w303">lines</w>
+      <w lemma="of" type="PREP" xml:id="w304">of</w>
+      <term type="N">
+        <w lemma="progress" type="N" xml:id="w305">progress</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w306">.</w>
+  </s>
+  <s>
+    <w lemma="as" type="PREP" xml:id="w307">As</w>
+    <rs type="unknown">
+      <name type="unknown">
+        <w lemma="murray" type="NPr" xml:id="w308">Murray</w>
+      </name>
+    </rs>
+    <w lemma="know" type="V" xml:id="w309">knew</w>
+    <w type="PUN" lemma="" xml:id="w310">,</w>
+    <phr type="verbal" subtype="motion" role="geo">
+      <motion type="median">
+        <w lemma="go" type="V" xml:id="w311">going</w>
+      </motion>
+      <term type="offset" subtype="orientation">
+        <w lemma="on" type="PREP" xml:id="w312">on</w>
+      </term>
+      <w lemma="the" type="DET" xml:id="w313">the</w>
+      <term type="geo">
+        <w lemma="moor" type="N" xml:id="w314">Moor</w>
+      </term>
+      <term type="offset" subtype="time">
+        <w lemma="be" type="V" xml:id="w315">is</w>
+        <w lemma="slow" type="A" xml:id="w316">slow</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w317">,</w>
+    <w lemma="to" type="PREP" xml:id="w318">to</w>
+    <phr type="verbal">
+      <w lemma="be" type="V" xml:id="w319">be</w>
+      <w lemma="measure" type="V" xml:id="w320">measured</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w321">in</w>
+      </term>
+      <term type="N">
+        <w lemma="hour" type="N" xml:id="w322">hours</w>
+      </term>
+      <w type="PUN" lemma="" xml:id="w323">,</w>
+      <w lemma="not" type="ADV" xml:id="w324">not</w>
+      <term type="N">
+        <w lemma="mile" type="N" xml:id="w325">miles</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w326">.</w>
+  </s>
+  <s>
+    <w lemma="much" type="ADV" xml:id="w327">Much</w>
+    <w lemma="of" type="PREP" xml:id="w328">of</w>
+    <w lemma="the" type="DET" xml:id="w329">the</w>
+    <term type="geo">
+      <w lemma="moor" type="N" xml:id="w330">Moor</w>
+    </term>
+    <phr type="verbal" subtype="geo">
+      <w lemma="be" type="V" xml:id="w331">is</w>
+      <term type="geo">
+        <w lemma="loch" type="N" xml:id="w332">loch</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w333">,</w>
+    <w lemma="and" type="CONJC" xml:id="w334">and</w>
+    <w lemma="much" type="ADV" xml:id="w335">much</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="be" type="V" xml:id="w336">is</w>
+      <term type="geo">
+        <w lemma="peat" type="N" xml:id="w337">peat</w>
+        <w lemma="hag" type="N" xml:id="w338">hag</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w339">,</w>
+    <w lemma="and" type="CONJC" xml:id="w340">and</w>
+    <FoR type="BF">
+      <w lemma="between" type="PREP" xml:id="w341">between</w>
+      <GO>
+        <w lemma="the" type="DET" xml:id="w342">the</w>
+        <term type="geo">
+          <w lemma="null" type="N" xml:id="w343">lochs</w>
+        </term>
+      </GO>
+      <w lemma="and" type="CONJC" xml:id="w344">and</w>
+      <GO>
+        <w lemma="the" type="DET" xml:id="w345">the</w>
+        <term type="geo">
+          <w lemma="peat" type="N" xml:id="w346">peat</w>
+          <w lemma="hag" type="N" xml:id="w347">hags</w>
+        </term>
+      </GO>
+    </FoR>
+    <w lemma="bog" type="N" xml:id="w348">bog</w>
+    <term type="geo">
+      <w lemma="stream" type="N" xml:id="w349">streams</w>
+    </term>
+    <w lemma="wriggle" type="N" xml:id="w350">wriggle</w>
+    <w type="PUN" lemma="" xml:id="w351">,</w>
+    <w lemma="their" type="PRO" xml:id="w352">their</w>
+    <w lemma="water" type="N" xml:id="w353">water</w>
+    <phr type="verbal">
+      <w lemma="dye" type="V" xml:id="w354">dyed</w>
+      <w lemma="black" type="A" xml:id="w355">black</w>
+      <w lemma="and" type="CONJC" xml:id="w356">and</w>
+      <w lemma="shiny" type="A" xml:id="w357">shiny</w>
+      <w lemma="as" type="PREP" xml:id="w358">as</w>
+      <term type="N">
+        <w lemma="oil" type="N" xml:id="w359">oil</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w360">.</w>
+  </s>
+  <s>
+    <w lemma="we" type="PRO" xml:id="w361">We</w>
+    <w lemma="leap" type="V" xml:id="w362">leapt</w>
+    <FoR type="LCF" subtype="M">
+      <w lemma="from" type="PREP" xml:id="w363">from</w>
+      <GO>
+        <term type="geo">
+          <w lemma="hag" type="N" xml:id="w364">hag</w>
+        </term>
+      </GO>
+      <w lemma="to" type="PREP" xml:id="w365">to</w>
+      <GO>
+        <term type="geo">
+          <w lemma="hag" type="N" xml:id="w366">hag</w>
+        </term>
+      </GO>
+    </FoR>
+    <w type="PUN" lemma="" xml:id="w367">,</w>
+    <FoR type="ZF" subtype="Do">
+      <motion type="median">
+        <w lemma="jump" type="V" xml:id="w368">jumped</w>
+      </motion>
+      <GO>
+        <term type="geo">
+          <w lemma="peat" type="N" xml:id="w369">peat</w>
+          <w lemma="crevasse" type="N" xml:id="w370">crevasses</w>
+        </term>
+      </GO>
+    </FoR>
+    <w lemma="and" type="CONJC" xml:id="w371">and</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="pick" type="V" xml:id="w372">picked</w>
+      <w lemma="our" type="PRO" xml:id="w373">our</w>
+      <term type="geo">
+        <w lemma="way" type="N" xml:id="w374">way</w>
+      </term>
+      <term type="offset" subtype="inclusion" role="spatial">
+        <w lemma="through" type="PREP" xml:id="w375">through</w>
+      </term>
+      <w lemma="the" type="DET" xml:id="w376">the</w>
+      <w lemma="null" type="N" xml:id="w377">maze-work</w>
+      <w lemma="of" type="PREP" xml:id="w378">of</w>
+      <term type="geo">
+        <w lemma="stream" type="N" xml:id="w379">stream</w>
+      </term>
+      <w lemma="and" type="CONJC" xml:id="w380">and</w>
+      <term type="geo">
+        <w lemma="tussock" type="N" xml:id="w381">tussock</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w382">.</w>
+  </s>
+  <s>
+    <term type="offset" subtype="time">
+      <w lemma="later" type="ADV" xml:id="w383">Later</w>
+    </term>
+    <w type="PUN" lemma="" xml:id="w384">,</w>
+    <FoR type="ZF" subtype="Do">
+      <motion type="median">
+        <w lemma="cross" type="V" xml:id="w385">crossing</w>
+      </motion>
+      <GO>
+        <w lemma="a" type="DET" xml:id="w386">a</w>
+        <term type="geo">
+          <w lemma="nameless" type="A" xml:id="w387">nameless</w>
+          <w lemma="river" type="N" xml:id="w388">river</w>
+        </term>
+      </GO>
+    </FoR>
+    <w type="PUN" lemma="" xml:id="w389">,</w>
+    <w lemma="i" type="PRO" xml:id="w390">I</w>
+    <phr type="verbal" subtype="perception">
+      <perception>
+        <w lemma="see" type="V" xml:id="w391">saw</w>
+      </perception>
+      <w lemma="a" type="DET" xml:id="w392">a</w>
+      <w lemma="big" type="A" xml:id="w393">big</w>
+      <w lemma="trout" type="N" xml:id="w394">trout</w>
+      <w lemma="arrow" type="N" xml:id="w395">arrow</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="across" type="PREP" xml:id="w396">across</w>
+      </term>
+      <w lemma="its" type="PRO" xml:id="w397">its</w>
+      <w lemma="pool" type="N" xml:id="w398">pool</w>
+      <w lemma="and" type="CONJC" xml:id="w399">and</w>
+      <w lemma="set" type="N" xml:id="w400">set</w>
+      <term type="N">
+        <w lemma="chevron" type="N" xml:id="w401">chevrons</w>
+      </term>
+    </phr>
+    <phr type="verbal" subtype="geo">
+      <w lemma="ripple" type="V" xml:id="w402">rippling</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="out" type="PREP" xml:id="w403">out</w>
+      </term>
+      <w lemma="over" type="PREP" xml:id="w404">over</w>
+      <w lemma="the" type="DET" xml:id="w405">the</w>
+      <term type="geo">
+        <w lemma="surface" type="N" xml:id="w406">surface</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w407">.</w>
+  </s>
+  <s>
+    <w lemma="here" type="ADV" xml:id="w408">Here</w>
+    <w lemma="and" type="CONJC" xml:id="w409">and</w>
+    <w lemma="there" type="ADV" xml:id="w410">there</w>
+    <w type="PUN" lemma="" xml:id="w411">,</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="sink" type="V" xml:id="w412">sunk</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w413">in</w>
+      </term>
+      <w lemma="the" type="DET" xml:id="w414">the</w>
+      <term type="geo">
+        <w lemma="peat" type="N" xml:id="w415">peat</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w416">,</w>
+    <w lemma="we" type="PRO" xml:id="w417">we</w>
+    <motion type="median">
+      <w lemma="come" type="V" xml:id="w418">came</w>
+    </motion>
+    <w lemma="across" type="PREP" xml:id="w419">across</w>
+    <w lemma="the" type="DET" xml:id="w420">the</w>
+    <w lemma="big" type="A" xml:id="w421">big</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="swoop" type="V" xml:id="w422">swooping</w>
+      <term type="geo">
+        <w lemma="root" type="N" xml:id="w423">roots</w>
+      </term>
+    </phr>
+    <w lemma="of" type="PREP" xml:id="w424">of</w>
+    <w lemma="ancient" type="A" xml:id="w425">ancient</w>
+    <w lemma="pine" type="N" xml:id="w426">pine</w>
+    <w lemma="tree" type="N" xml:id="w427">trees</w>
+    <w type="PUN" lemma="" xml:id="w428">,</w>
+    <w lemma="thousand" type="N" xml:id="w429">thousands</w>
+    <w lemma="of" type="PREP" xml:id="w430">of</w>
+    <w lemma="year" type="N" xml:id="w431">years</w>
+    <w lemma="old" type="A" xml:id="w432">old</w>
+    <w type="PUN" lemma="" xml:id="w433">.</w>
+  </s>
+  <s>
+    <w lemma="how" type="ADV" xml:id="w434">How</w>
+    <w lemma="i" type="PRO" xml:id="w435">I</w>
+    <w lemma="would" type="V" xml:id="w436">would</w>
+    <w lemma="love" type="V" xml:id="w437">love</w>
+    <w lemma="to" type="PREP" xml:id="w438">to</w>
+    <phr type="verbal">
+      <w lemma="have" type="V" xml:id="w439">have</w>
+      <w lemma="climb" type="V" xml:id="w440">climbed</w>
+      <w lemma="one" type="N" xml:id="w441">one</w>
+      <w lemma="of" type="PREP" xml:id="w442">of</w>
+      <w lemma="those" type="DET" xml:id="w443">those</w>
+      <w lemma="great" type="A" xml:id="w444">great</w>
+      <term type="N">
+        <w lemma="pine" type="N" xml:id="w445">pines</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w446">,</w>
+    <w lemma="i" type="PRO" xml:id="w447">I</w>
+    <w lemma="think" type="V" xml:id="w448">thought</w>
+    <w type="PUN" lemma="" xml:id="w449">.</w>
+  </s>
+  <s>
+    <w lemma="null" type="N" xml:id="w450">Peatbogs</w>
+    <phr type="verbal">
+      <w lemma="be" type="V" xml:id="w451">are</w>
+      <w lemma="so" type="ADV" xml:id="w452">so</w>
+      <w lemma="preservative" type="A" xml:id="w453">preservative</w>
+      <w lemma="of" type="PREP" xml:id="w454">of</w>
+      <term type="N">
+        <w lemma="wood" type="N" xml:id="w455">wood</w>
+      </term>
+    </phr>
+    <w lemma="that" type="PREP" xml:id="w456">that</w>
+    <w type="PUN" lemma="" xml:id="w457">,</w>
+    <w lemma="during" type="PREP" xml:id="w458">during</w>
+    <w lemma="the" type="DET" xml:id="w459">the</w>
+    <rs type="unknown">
+      <name type="unknown">
+        <w lemma="second" type="NPr" xml:id="w460">Second</w>
+        <w lemma="world" type="NPr" xml:id="w461">World</w>
+        <w lemma="war" type="NPr" xml:id="w462">War</w>
+      </name>
+    </rs>
+    <w type="PUN" lemma="" xml:id="w463">,</w>
+    <w lemma="the" type="DET" xml:id="w464">the</w>
+    <rs type="unknown">
+      <name type="unknown">
+        <w lemma="us" type="NPr" xml:id="w465">US</w>
+        <w lemma="navy" type="NPr" xml:id="w466">Navy</w>
+      </name>
+    </rs>
+    <phr type="verbal">
+      <w lemma="use" type="V" xml:id="w467">used</w>
+      <w lemma="000-year-old,null" type="A" xml:id="w468">3</w>
+      <w lemma="white" type="A" xml:id="w469">white</w>
+      <w lemma="cedar" type="N" xml:id="w470">cedar</w>
+      <term type="N">
+        <w lemma="log" type="N" xml:id="w471">logs</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w472">,</w>
+    <phr type="verbal">
+      <w lemma="recover" type="V" xml:id="w473">recovered</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="from" type="PREP" xml:id="w474">from</w>
+      </term>
+      <w lemma="sphagnum" type="N" xml:id="w475">sphagnum</w>
+      <w lemma="bog" type="N" xml:id="w476">bog</w>
+      <w lemma="in" type="PREP" xml:id="w477">in</w>
+      <rs type="unknown">
+        <name type="unknown">
+          <w lemma="new" type="NPr" xml:id="w478">New</w>
+          <w lemma="jersey" type="NPr" xml:id="w479">Jersey</w>
+        </name>
+      </rs>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w480">,</w>
+    <w lemma="to" type="PREP" xml:id="w481">to</w>
+    <phr type="verbal">
+      <w lemma="build" type="V" xml:id="w482">build</w>
+      <w lemma="the" type="DET" xml:id="w483">the</w>
+      <w lemma="hull" type="N" xml:id="w484">hulls</w>
+      <w lemma="of" type="PREP" xml:id="w485">of</w>
+      <w lemma="their" type="PRO" xml:id="w486">their</w>
+      <w lemma="null" type="N" xml:id="w487">motor-torpedo</w>
+      <term type="N">
+        <w lemma="boat" type="N" xml:id="w488">boats</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w489">.</w>
+  </s>
+  <s>
+    <phr>
+      <term type="offset" subtype="orientation">
+        <w lemma="from" type="PREP" xml:id="w490">From</w>
+      </term>
+      <w lemma="one" type="N" xml:id="w491">one</w>
+      <w lemma="of" type="PREP" xml:id="w492">of</w>
+      <w lemma="the" type="DET" xml:id="w493">the</w>
+      <term type="N">
+        <w lemma="stump" type="N" xml:id="w494">stumps</w>
+      </term>
+    </phr>
+    <w lemma="i" type="PRO" xml:id="w495">I</w>
+    <phr type="verbal" subtype="motion">
+      <motion type="median">
+        <w lemma="take" type="V" xml:id="w496">took</w>
+      </motion>
+      <w lemma="a" type="DET" xml:id="w497">a</w>
+      <w lemma="loose" type="A" xml:id="w498">loose</w>
+      <w lemma="null" type="A" xml:id="w499">dolphin-shaped</w>
+      <w lemma="fragment" type="N" xml:id="w500">fragment</w>
+      <w lemma="of" type="PREP" xml:id="w501">of</w>
+      <term type="N">
+        <w lemma="wood" type="N" xml:id="w502">wood</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w503">,</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="stain" type="V" xml:id="w504">stained</w>
+      <w lemma="a" type="DET" xml:id="w505">a</w>
+      <w lemma="deep" type="A" xml:id="w506">deep</w>
+      <w lemma="brown" type="N" xml:id="w507">brown</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="by" type="PREP" xml:id="w508">by</w>
+      </term>
+      <w lemma="the" type="DET" xml:id="w509">the</w>
+      <term type="geo">
+        <w lemma="peat" type="N" xml:id="w510">peat</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w511">.</w>
+  </s>
+  <s>
+    <phr>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w512">In</w>
+      </term>
+      <w lemma="another" type="DET" xml:id="w513">another</w>
+      <w lemma="black" type="A" xml:id="w514">black</w>
+      <term type="N">
+        <w lemma="bank" type="N" xml:id="w515">bank</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w516">,</w>
+    <w lemma="i" type="PRO" xml:id="w517">I</w>
+    <phr type="verbal">
+      <w lemma="find" type="V" xml:id="w518">found</w>
+      <w lemma="a" type="DET" xml:id="w519">a</w>
+      <w lemma="white" type="A" xml:id="w520">white</w>
+      <term type="N">
+        <w lemma="stone" type="N" xml:id="w521">stone</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w522">,</w>
+    <phr type="verbal">
+      <w lemma="bed" type="V" xml:id="w523">bedded</w>
+      <w lemma="like" type="PREP" xml:id="w524">like</w>
+      <w lemma="an" type="DET" xml:id="w525">an</w>
+      <term type="N">
+        <w lemma="eyeball" type="N" xml:id="w526">eyeball</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w527">.</w>
+  </s>
+  <s>
+    <w lemma="i" type="PRO" xml:id="w528">I</w>
+    <w lemma="brush" type="V" xml:id="w529">brushed</w>
+    <w lemma="it" type="PRO" xml:id="w530">it</w>
+    <w lemma="clean" type="V" xml:id="w531">clean</w>
+    <w type="PUN" lemma="" xml:id="w532">,</w>
+    <w lemma="and" type="CONJC" xml:id="w533">and</w>
+    <phr type="verbal" subtype="motion">
+      <motion type="median">
+        <w lemma="turn" type="V" xml:id="w534">turned</w>
+      </motion>
+      <w lemma="it" type="PRO" xml:id="w535">it</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w536">in</w>
+      </term>
+      <w lemma="my" type="PRO" xml:id="w537">my</w>
+      <term type="N">
+        <w lemma="hand" type="N" xml:id="w538">hand</w>
+      </term>
+    </phr>
+    <w lemma="as" type="PREP" xml:id="w539">as</w>
+    <w lemma="i" type="PRO" xml:id="w540">I</w>
+    <motion type="median">
+      <w lemma="walk" type="V" xml:id="w541">walked</w>
+    </motion>
+    <w type="PUN" lemma="" xml:id="w542">.</w>
+  </s>
+  <s>
+    <w lemma="the" type="DET" xml:id="w543">The</w>
+    <term type="geo">
+      <w lemma="moor" type="N" xml:id="w544">Moor</w>
+    </term>
+    <w lemma="'s" type="POS" xml:id="w545">'s</w>
+    <w lemma="vastness" type="N" xml:id="w546">vastness</w>
+    <w lemma="and" type="CONJC" xml:id="w547">and</w>
+    <w lemma="null" type="N" xml:id="w548">self-similarity</w>
+    <phr type="verbal">
+      <w lemma="affect" type="V" xml:id="w549">affected</w>
+      <w lemma="our" type="PRO" xml:id="w550">our</w>
+      <w lemma="perception" type="N" xml:id="w551">perception</w>
+      <w lemma="of" type="PREP" xml:id="w552">of</w>
+      <term type="N">
+        <w lemma="distance" type="N" xml:id="w553">distance</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w554">.</w>
+  </s>
+  <s>
+    <w lemma="object" type="N" xml:id="w555">Objects</w>
+    <w lemma="and" type="CONJC" xml:id="w556">and</w>
+    <w lemma="movement" type="N" xml:id="w557">movements</w>
+    <phr type="verbal">
+      <w lemma="show" type="V" xml:id="w558">showed</w>
+      <w lemma="more" type="ADV" xml:id="w559">more</w>
+      <w lemma="clearly" type="ADV" xml:id="w560">clearly</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w561">in</w>
+      </term>
+      <w lemma="its" type="PRO" xml:id="w562">its</w>
+      <term type="N">
+        <w lemma="spareness" type="N" xml:id="w563">spareness</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w564">.</w>
+  </s>
+  <s>
+    <w lemma="so" type="ADV" xml:id="w565">So</w>
+    <w lemma="extensive" type="A" xml:id="w566">extensive</w>
+    <phr type="verbal">
+      <w lemma="be" type="V" xml:id="w567">was</w>
+      <w lemma="the" type="DET" xml:id="w568">the</w>
+      <term type="N">
+        <w lemma="space" type="N" xml:id="w569">space</w>
+      </term>
+    </phr>
+    <w lemma="within" type="PREP" xml:id="w570">within</w>
+    <w lemma="which" type="DET" xml:id="w571">which</w>
+    <w lemma="we" type="PRO" xml:id="w572">we</w>
+    <w lemma="be" type="V" xml:id="w573">were</w>
+    <motion type="median">
+      <w lemma="move" type="V" xml:id="w574">moving</w>
+    </motion>
+    <w lemma="that" type="PREP" xml:id="w575">that</w>
+    <w lemma="when" type="ADV" xml:id="w576">when</w>
+    <w lemma="i" type="PRO" xml:id="w577">I</w>
+    <phr type="verbal" subtype="perception" role="geo">
+      <phr type="perception">
+        <perception>
+          <w lemma="glance" type="V" xml:id="w578">glanced</w>
+        </perception>
+        <w lemma="up" type="PREP" xml:id="w579">up</w>
+        <w lemma="at" type="PREP" xml:id="w580">at</w>
+        <w lemma="the" type="DET" xml:id="w581">the</w>
+        <term type="geo">
+          <w lemma="mountain" type="N" xml:id="w582">mountains</w>
+        </term>
+      </phr>
+      <term type="offset" subtype="orientation" role="spatial">
+        <w lemma="west" type="N" xml:id="w583">west</w>
+        <w lemma="of" type="PREP" xml:id="w584">of</w>
+      </term>
+      <w lemma="the" type="DET" xml:id="w585">the</w>
+      <term type="geo">
+        <w lemma="moor" type="N" xml:id="w586">Moor</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w587">,</w>
+    <w lemma="to" type="PREP" xml:id="w588">to</w>
+    <w lemma="try" type="V" xml:id="w589">try</w>
+    <w lemma="to" type="PREP" xml:id="w590">to</w>
+    <phr type="verbal">
+      <w lemma="gauge" type="V" xml:id="w591">gauge</w>
+      <w lemma="the" type="DET" xml:id="w592">the</w>
+      <term type="N">
+        <w lemma="distance" type="N" xml:id="w593">distance</w>
+      </term>
+    </phr>
+    <w lemma="we" type="PRO" xml:id="w594">we</w>
+    <w lemma="have" type="V" xml:id="w595">had</w>
+    <motion type="median">
+      <w lemma="come" type="V" xml:id="w596">come</w>
+    </motion>
+    <w type="PUN" lemma="" xml:id="w597">,</w>
+    <w lemma="it" type="PRO" xml:id="w598">it</w>
+    <w lemma="seem" type="V" xml:id="w599">seemed</w>
+    <w lemma="as" type="ADV" xml:id="w600">as</w>
+    <w lemma="though" type="PREP" xml:id="w601">though</w>
+    <w lemma="we" type="PRO" xml:id="w602">we</w>
+    <w lemma="have" type="V" xml:id="w603">had</w>
+    <w lemma="not" type="ADV" xml:id="w604">not</w>
+    <w lemma="advance" type="V" xml:id="w605">advanced</w>
+    <w lemma="at" type="PREP" xml:id="w606">at</w>
+    <w lemma="all" type="DET" xml:id="w607">all</w>
+    <w lemma=":" type="PUN" xml:id="w608">:</w>
+    <w lemma="that" type="PREP" xml:id="w609">that</w>
+    <w type="PUN" lemma="" xml:id="w610">,</w>
+    <w lemma="like" type="PREP" xml:id="w611">like</w>
+    <w lemma="explorer" type="N" xml:id="w612">explorers</w>
+    <phr type="verbal" subtype="motion">
+      <motion type="median">
+        <w lemma="walk" type="V" xml:id="w613">walking</w>
+      </motion>
+      <w lemma="against" type="PREP" xml:id="w614">against</w>
+      <w lemma="the" type="DET" xml:id="w615">the</w>
+      <w lemma="spin" type="N" xml:id="w616">spin</w>
+      <w lemma="of" type="PREP" xml:id="w617">of</w>
+      <w lemma="pack" type="N" xml:id="w618">pack</w>
+      <term type="N">
+        <w lemma="ice" type="N" xml:id="w619">ice</w>
+      </term>
+      <w type="PUN" lemma="" xml:id="w620">,</w>
+      <w lemma="our" type="PRO" xml:id="w621">our</w>
+      <term type="N">
+        <w lemma="foot" type="N" xml:id="w622">feet</w>
+      </term>
+    </phr>
+    <w lemma="fall" type="V" xml:id="w623">fell</w>
+    <w lemma="exactly" type="ADV" xml:id="w624">exactly</w>
+    <w lemma="where" type="ADV" xml:id="w625">where</w>
+    <w lemma="we" type="PRO" xml:id="w626">we</w>
+    <w lemma="have" type="V" xml:id="w627">had</w>
+    <w lemma="lift" type="V" xml:id="w628">lifted</w>
+    <w lemma="them" type="PRO" xml:id="w629">them</w>
+    <w type="PUN" lemma="" xml:id="w630">.</w>
+  </s>
+  <s>
+    <w lemma="hour" type="N" xml:id="w631">Hours</w>
+    <w lemma="into" type="PREP" xml:id="w632">into</w>
+    <w lemma="the" type="DET" xml:id="w633">the</w>
+    <w lemma="day" type="N" xml:id="w634">day</w>
+    <w type="PUN" lemma="" xml:id="w635">,</w>
+    <w lemma="we" type="PRO" xml:id="w636">we</w>
+    <w lemma="stop" type="V" xml:id="w637">stopped</w>
+    <w lemma="for" type="PREP" xml:id="w638">for</w>
+    <FoR type="TF" subtype="P">
+      <target>
+        <term type="geo">
+          <w lemma="shelter" type="N" xml:id="w639">shelter</w>
+        </term>
+      </target>
+      <w lemma="in" type="PREP" xml:id="w640">in</w>
+      <w lemma="a" type="DET" xml:id="w641">a</w>
+      <term type="geo">
+        <w lemma="ruin" type="N" xml:id="w642">ruin</w>
+      </term>
+      <w lemma="name" type="V" xml:id="w643">named</w>
+      <w lemma="on" type="PREP" xml:id="w644">on</w>
+      <w lemma="our" type="PRO" xml:id="w645">our</w>
+      <w lemma="map" type="N" xml:id="w646">map</w>
+      <w lemma="as" type="PREP" xml:id="w647">as</w>
+      <GO>
+        <rs type="unknown">
+          <name type="unknown">
+            <w lemma="null" type="NPr" xml:id="w648">Tigh</w>
+            <w lemma="na" type="NPr" xml:id="w649">Na</w>
+            <w lemma="null" type="NPr" xml:id="w650">Cruaiche</w>
+          </name>
+        </rs>
+      </GO>
+    </FoR>
+    <w type="PUN" lemma="" xml:id="w651">.</w>
+  </s>
+  <s>
+    <w lemma="a" type="DET" xml:id="w652">A</w>
+    <phr type="verbal">
+      <w lemma="rust" type="V" xml:id="w653">rusted</w>
+      <w lemma="iron" type="N" xml:id="w654">iron</w>
+      <term type="N">
+        <w lemma="brazier" type="N" xml:id="w655">brazier</w>
+      </term>
+    </phr>
+    <phr type="verbal">
+      <w lemma="stand" type="V" xml:id="w656">stood</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w657">in</w>
+      </term>
+      <term type="N">
+        <w lemma="one" type="N" xml:id="w658">one</w>
+      </term>
+    </phr>
+    <term type="offset" subtype="inclusion" role="spatial">
+      <w lemma="corner" type="N" xml:id="w659">corner</w>
+    </term>
+    <w type="PUN" lemma="" xml:id="w660">.</w>
+  </s>
+  <s>
+    <w lemma="otherwise" type="ADV" xml:id="w661">Otherwise</w>
+    <w type="PUN" lemma="" xml:id="w662">,</w>
+    <w lemma="the" type="DET" xml:id="w663">the</w>
+    <w lemma="interior" type="N" xml:id="w664">interior</w>
+    <w lemma="be" type="V" xml:id="w665">was</w>
+    <w lemma="empty" type="A" xml:id="w666">empty</w>
+    <w type="PUN" lemma="" xml:id="w667">.</w>
+  </s>
+  <s>
+    <w lemma="it" type="PRO" xml:id="w668">It</w>
+    <w lemma="smell" type="V" xml:id="w669">smelt</w>
+    <w lemma="green" type="A" xml:id="w670">green</w>
+    <w type="PUN" lemma="" xml:id="w671">.</w>
+  </s>
+  <s>
+    <w lemma="we" type="PRO" xml:id="w672">We</w>
+    <phr type="verbal">
+      <w lemma="sit" type="V" xml:id="w673">sat</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="on" type="PREP" xml:id="w674">on</w>
+      </term>
+      <term type="N">
+        <w lemma="stone" type="N" xml:id="w675">stones</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w676">,</w>
+    <w lemma="and" type="CONJC" xml:id="w677">and</w>
+    <perception>
+      <w lemma="look" type="V" xml:id="w678">looked</w>
+    </perception>
+    <w lemma="out" type="PREP" xml:id="w679">out</w>
+    <term type="offset" subtype="inclusion" role="spatial">
+      <w lemma="through" type="PREP" xml:id="w680">through</w>
+    </term>
+    <w lemma="the" type="DET" xml:id="w681">the</w>
+    <w lemma="null" type="A" xml:id="w682">doorless</w>
+    <term type="offset" subtype="inclusion" role="spatial">
+      <w lemma="entrance" type="N" xml:id="w683">entrance</w>
+    </term>
+    <w type="PUN" lemma="" xml:id="w684">.</w>
+  </s>
+  <s>
+    <w lemma="beyond" type="PREP" xml:id="w685">Beyond</w>
+    <w lemma="the" type="DET" xml:id="w686">the</w>
+    <w lemma="series" type="N" xml:id="w687">series</w>
+    <w lemma="of" type="PREP" xml:id="w688">of</w>
+    <w lemma="wooded" type="A" xml:id="w689">wooded</w>
+    <w lemma="island" type="N" xml:id="w690">islands</w>
+    <w lemma="sling" type="V" xml:id="w691">slung</w>
+    <w lemma="across" type="PREP" xml:id="w692">across</w>
+    <FoR type="ZF" subtype="C">
+      <term type="offset" subtype="central" role="spatial">
+        <w lemma="the" type="DET" xml:id="w693">the</w>
+        <w lemma="center" type="N" xml:id="w694">center</w>
+        <w lemma="of" type="PREP" xml:id="w695">of</w>
+      </term>
+      <GO>
+        <rs type="unknown">
+          <name type="unknown">
+            <w lemma="loch" type="NPr" xml:id="w696">Loch</w>
+            <w lemma="null" type="NPr" xml:id="w697">Laidon</w>
+          </name>
+        </rs>
+      </GO>
+    </FoR>
+    <w lemma="we" type="PRO" xml:id="w698">we</w>
+    <phr type="verbal" subtype="perception">
+      <w lemma="could" type="V" xml:id="w699">could</w>
+      <perception>
+        <w lemma="see" type="V" xml:id="w700">see</w>
+      </perception>
+      <w lemma="the" type="DET" xml:id="w701">the</w>
+      <rs type="unknown">
+        <name type="unknown">
+          <w lemma="black" type="NPr" xml:id="w702">Black</w>
+        </name>
+      </rs>
+    </phr>
+    <w lemma="corrie" type="N" xml:id="w703">Corries</w>
+    <w lemma="null" type="PUN" xml:id="w704">-</w>
+    <w lemma="the" type="DET" xml:id="w705">the</w>
+    <w lemma="high" type="A" xml:id="w706">high</w>
+    <w lemma="holding" type="N" xml:id="w707">holding</w>
+    <term type="geo">
+      <w lemma="ground" type="N" xml:id="w708">grounds</w>
+    </term>
+    <w lemma="of" type="PREP" xml:id="w709">of</w>
+    <w lemma="deer" type="N" xml:id="w710">deer</w>
+    <w type="PUN" lemma="" xml:id="w711">,</w>
+    <w lemma="snow" type="N" xml:id="w712">snow</w>
+    <w lemma="and" type="CONJC" xml:id="w713">and</w>
+    <w lemma="fog" type="N" xml:id="w714">fog</w>
+    <w lemma="null" type="PUN" xml:id="w715">-</w>
+    <w lemma="and" type="CONJC" xml:id="w716">and</w>
+    <w lemma="the" type="DET" xml:id="w717">the</w>
+    <w lemma="air" type="N" xml:id="w718">air</w>
+    <w lemma="which" type="DET" xml:id="w719">which</w>
+    <w lemma="gather" type="V" xml:id="w720">gathered</w>
+    <w lemma="in" type="PREP" xml:id="w721">in</w>
+    <w lemma="them" type="PRO" xml:id="w722">them</w>
+    <phr type="verbal">
+      <w lemma="have" type="V" xml:id="w723">had</w>
+      <w lemma="a" type="DET" xml:id="w724">a</w>
+      <w lemma="deep" type="A" xml:id="w725">deep</w>
+      <w lemma="cold" type="A" xml:id="w726">cold</w>
+      <w lemma="blueness" type="N" xml:id="w727">blueness</w>
+      <w lemma="of" type="PREP" xml:id="w728">of</w>
+      <term type="N">
+        <w lemma="tone" type="N" xml:id="w729">tone</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w730">.</w>
+  </s>
+  <s>
+    <w lemma="i" type="PRO" xml:id="w731">I</w>
+    <phr type="verbal">
+      <w lemma="think" type="V" xml:id="w732">thought</w>
+      <w lemma="enviously" type="ADV" xml:id="w733">enviously</w>
+      <w lemma="of" type="PREP" xml:id="w734">of</w>
+      <rs type="unknown">
+        <name type="unknown">
+          <w lemma="murray" type="NPr" xml:id="w735">Murray</w>
+        </name>
+      </rs>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w736">,</w>
+    <w lemma="who" type="PRO" xml:id="w737">who</w>
+    <phr type="verbal">
+      <w lemma="have" type="V" xml:id="w738">had</w>
+      <w lemma="return" type="V" xml:id="w739">returned</w>
+      <w lemma="after" type="PREP" xml:id="w740">after</w>
+      <w lemma="the" type="DET" xml:id="w741">the</w>
+      <term type="N">
+        <w lemma="war" type="N" xml:id="w742">war</w>
+      </term>
+    </phr>
+    <w lemma="to" type="PREP" xml:id="w743">to</w>
+    <FoR type="ZF" subtype="Do">
+      <motion type="median">
+        <w lemma="cross" type="V" xml:id="w744">cross</w>
+      </motion>
+      <GO>
+        <w lemma="the" type="DET" xml:id="w745">the</w>
+        <term type="geo">
+          <w lemma="moor" type="N" xml:id="w746">Moor</w>
+        </term>
+      </GO>
+    </FoR>
+    <phr>
+      <term type="offset" subtype="orientation">
+        <w lemma="on" type="PREP" xml:id="w747">on</w>
+      </term>
+      <rs type="date">
+        <w lemma="a" type="DET" xml:id="w748">a</w>
+        <w lemma="hot" type="A" xml:id="w749">hot</w>
+        <name type="date">
+          <w lemma="august" type="NPr" xml:id="w750">August</w>
+        </name>
+      </rs>
+    </phr>
+    <w lemma="day" type="N" xml:id="w751">day</w>
+    <w type="PUN" lemma="" xml:id="w752">,</w>
+    <w lemma="with" type="PREP" xml:id="w753">with</w>
+    <w lemma="only" type="ADV" xml:id="w754">only</w>
+    <w lemma="his" type="PRO" xml:id="w755">his</w>
+    <w lemma="dog" type="N" xml:id="w756">dog</w>
+    <phr>
+      <term type="offset" subtype="orientation">
+        <w lemma="for" type="PREP" xml:id="w757">for</w>
+      </term>
+      <term type="N">
+        <w lemma="company" type="N" xml:id="w758">company</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w759">.</w>
+  </s>
+  <s>
+    <w lemma="halfway" type="ADV" xml:id="w760">Halfway</w>
+    <w lemma="across" type="PREP" xml:id="w761">across</w>
+    <w type="PUN" lemma="" xml:id="w762">,</w>
+    <w lemma="he" type="PRO" xml:id="w763">he</w>
+    <phr type="verbal" subtype="motion">
+      <w lemma="have" type="V" xml:id="w764">had</w>
+      <motion type="median">
+        <w lemma="take" type="V" xml:id="w765">taken</w>
+      </motion>
+      <w lemma="off" type="PREP" xml:id="w766">off</w>
+      <w lemma="all" type="DET" xml:id="w767">all</w>
+      <w lemma="his" type="PRO" xml:id="w768">his</w>
+      <term type="N">
+        <w lemma="clothes" type="N" xml:id="w769">clothes</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w770">,</w>
+    <phr type="verbal">
+      <w lemma="put" type="V" xml:id="w771">put</w>
+      <w lemma="them" type="PRO" xml:id="w772">them</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w773">in</w>
+      </term>
+      <w lemma="his" type="PRO" xml:id="w774">his</w>
+      <term type="N">
+        <w lemma="pack" type="N" xml:id="w775">pack</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w776">,</w>
+    <phr type="verbal" subtype="motion">
+      <motion type="median">
+        <w lemma="walk" type="V" xml:id="w777">walking</w>
+      </motion>
+      <w lemma="naked" type="A" xml:id="w778">naked</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="for" type="PREP" xml:id="w779">for</w>
+      </term>
+      <w lemma="the" type="DET" xml:id="w780">the</w>
+      <w lemma="rest" type="N" xml:id="w781">rest</w>
+      <w lemma="of" type="PREP" xml:id="w782">of</w>
+      <w lemma="the" type="DET" xml:id="w783">the</w>
+      <term type="N">
+        <w lemma="day" type="N" xml:id="w784">day</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w785">,</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="bath" type="V" xml:id="w786">bathing</w>
+      <w lemma="here" type="ADV" xml:id="w787">here</w>
+      <w lemma="and" type="CONJC" xml:id="w788">and</w>
+      <w lemma="there" type="ADV" xml:id="w789">there</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w790">in</w>
+      </term>
+      <w lemma="pool" type="N" xml:id="w791">pools</w>
+      <w lemma="and" type="CONJC" xml:id="w792">and</w>
+      <term type="geo">
+        <w lemma="loch" type="N" xml:id="w793">loch</w>
+      </term>
+    </phr>
+    <w lemma="bay" type="N" xml:id="w794">bays</w>
+    <w type="PUN" lemma="" xml:id="w795">.</w>
+  </s>
+  <s>
+    <w lemma="perhaps" type="ADV" xml:id="w796">Perhaps</w>
+    <w type="PUN" lemma="" xml:id="w797">,</w>
+    <w lemma="i" type="PRO" xml:id="w798">I</w>
+    <w lemma="daydream" type="V" xml:id="w799">daydreamed</w>
+    <w type="PUN" lemma="" xml:id="w800">,</w>
+    <phr>
+      <term type="offset" subtype="orientation">
+        <w lemma="on" type="PREP" xml:id="w801">on</w>
+      </term>
+      <w lemma="the" type="DET" xml:id="w802">the</w>
+      <w lemma="right" type="A" xml:id="w803">right</w>
+      <w lemma="winter" type="N" xml:id="w804">winter</w>
+      <w lemma="day" type="N" xml:id="w805">day</w>
+      <w lemma="bright" type="A" xml:id="w806">bright</w>
+      <term type="N">
+        <w lemma="sun" type="N" xml:id="w807">sun</w>
+      </term>
+      <w type="PUN" lemma="" xml:id="w808">,</w>
+      <w lemma="no" type="DET" xml:id="w809">no</w>
+      <term type="N">
+        <w lemma="wind" type="N" xml:id="w810">wind</w>
+      </term>
+    </phr>
+    <w lemma="null" type="PUN" xml:id="w811">-</w>
+    <w lemma="it" type="PRO" xml:id="w812">it</w>
+    <w lemma="might" type="V" xml:id="w813">might</w>
+    <w lemma="be" type="V" xml:id="w814">be</w>
+    <w lemma="possible" type="A" xml:id="w815">possible</w>
+    <w lemma="to" type="PREP" xml:id="w816">to</w>
+    <phr type="verbal">
+      <w lemma="combine" type="V" xml:id="w817">combine</w>
+      <w lemma="the" type="DET" xml:id="w818">the</w>
+      <term type="N">
+        <w lemma="traverse" type="N" xml:id="w819">traverses</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w820">,</w>
+    <w lemma="and" type="CONJC" xml:id="w821">and</w>
+    <phr type="verbal">
+      <w lemma="ice-skate" type="V" xml:id="w822">ice-skate</w>
+      <w lemma="naked" type="A" xml:id="w823">naked</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="from" type="PREP" xml:id="w824">from</w>
+      </term>
+      <term type="N">
+        <w lemma="one" type="N" xml:id="w825">one</w>
+      </term>
+    </phr>
+    <FoR type="TF" subtype="P">
+      <term type="offset" subtype="inclusion" role="spatial">
+        <w lemma="side" type="N" xml:id="w826">side</w>
+        <w lemma="of" type="PREP" xml:id="w827">of</w>
+      </term>
+      <GO>
+        <w lemma="the" type="DET" xml:id="w828">the</w>
+        <term type="geo">
+          <w lemma="moor" type="N" xml:id="w829">Moor</w>
+        </term>
+      </GO>
+    </FoR>
+    <w lemma="to" type="PREP" xml:id="w830">to</w>
+    <w lemma="the" type="DET" xml:id="w831">the</w>
+    <w lemma="other" type="A" xml:id="w832">other</w>
+    <csc>
+      <form>...</form>
+      <code>...PUN</code>
+    </csc>
+    <term type="offset" subtype="time">
+      <w lemma="late" type="A" xml:id="w833">Later</w>
+    </term>
+    <w type="PUN" lemma="" xml:id="w834">,</w>
+    <FoR type="EF" subtype="G">
+      <modifier type="gravity">
+        <w lemma="on" type="PREP" xml:id="w835">on</w>
+        <w lemma="the" type="DET" xml:id="w836">the</w>
+        <w lemma="top" type="N" xml:id="w837">top</w>
+        <w lemma="of" type="PREP" xml:id="w838">of</w>
+      </modifier>
+      <GO>
+        <w lemma="a" type="DET" xml:id="w839">a</w>
+        <term type="geo">
+          <w lemma="null" type="A" xml:id="w840">fifty-foot-high</w>
+          <w lemma="knoll" type="N" xml:id="w841">knoll</w>
+        </term>
+      </GO>
+    </FoR>
+    <w type="PUN" lemma="" xml:id="w842">,</w>
+    <w lemma="we" type="PRO" xml:id="w843">we</w>
+    <w lemma="sit" type="V" xml:id="w844">sat</w>
+    <w lemma="and" type="CONJC" xml:id="w845">and</w>
+    <phr type="verbal">
+      <w lemma="eat" type="V" xml:id="w846">ate</w>
+      <w lemma="black" type="A" xml:id="w847">black</w>
+      <w lemma="rye" type="N" xml:id="w848">rye</w>
+      <w lemma="bread" type="N" xml:id="w849">bread</w>
+      <w lemma="with" type="PREP" xml:id="w850">with</w>
+      <term type="N">
+        <w lemma="cheese" type="N" xml:id="w851">cheese</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w852">,</w>
+    <phr type="verbal" subtype="perception">
+      <perception>
+        <w lemma="watch" type="V" xml:id="w853">watching</w>
+      </perception>
+      <w lemma="rain" type="N" xml:id="w854">rain</w>
+      <term type="N">
+        <w lemma="front" type="N" xml:id="w855">fronts</w>
+      </term>
+    </phr>
+    <phr type="verbal">
+      <w lemma="gather" type="V" xml:id="w856">gather</w>
+      <term type="N">
+        <w lemma="mile" type="N" xml:id="w857">miles</w>
+      </term>
+    </phr>
+    <w lemma="away" type="ADV" xml:id="w858">away</w>
+    <w lemma="in" type="PREP" xml:id="w859">in</w>
+    <FoR type="TF" subtype="SP">
+      <w lemma="the" type="DET" xml:id="w860">the</w>
+      <modifier type="topological">
+        <w lemma="mouth" type="N" xml:id="w861">mouth</w>
+        <w lemma="of" type="PREP" xml:id="w862">of</w>
+      </modifier>
+      <GO>
+        <rs type="unknown">
+          <name type="unknown">
+            <w lemma="glen" type="NPr" xml:id="w863">Glen</w>
+            <w lemma="coe" type="NPr" xml:id="w864">Coe</w>
+          </name>
+        </rs>
+      </GO>
+    </FoR>
+    <w lemma="and" type="CONJC" xml:id="w865">and</w>
+    <w lemma="then" type="ADV" xml:id="w866">then</w>
+    <w lemma="billow" type="N" xml:id="w867">billow</w>
+    <w lemma="towards" type="PREP" xml:id="w868">towards</w>
+    <w lemma="us" type="PRO" xml:id="w869">us</w>
+    <w lemma="over" type="PREP" xml:id="w870">over</w>
+    <w lemma="the" type="DET" xml:id="w871">the</w>
+    <term type="geo">
+      <w lemma="ground" type="N" xml:id="w872">ground</w>
+    </term>
+    <w type="PUN" lemma="" xml:id="w873">.</w>
+  </s>
+  <s>
+    <w lemma="velvety" type="A" xml:id="w874">Velvety</w>
+    <w lemma="rag" type="N" xml:id="w875">rags</w>
+    <w lemma="of" type="PREP" xml:id="w876">of</w>
+    <w lemma="lichen" type="N" xml:id="w877">lichen</w>
+    <phr type="verbal">
+      <w lemma="hang" type="V" xml:id="w878">hung</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="from" type="PREP" xml:id="w879">from</w>
+      </term>
+      <w lemma="the" type="DET" xml:id="w880">the</w>
+      <w lemma="rock" type="N" xml:id="w881">rocks</w>
+      <w lemma="on" type="PREP" xml:id="w882">on</w>
+      <w lemma="the" type="DET" xml:id="w883">the</w>
+      <term type="N">
+        <w lemma="drumlin" type="N" xml:id="w884">drumlin</w>
+      </term>
+    </phr>
+    <w lemma="and" type="CONJC" xml:id="w885">and</w>
+    <phr type="verbal">
+      <w lemma="ripple" type="V" xml:id="w886">rippled</w>
+      <w lemma="as" type="PREP" xml:id="w887">as</w>
+      <term type="N">
+        <w lemma="wind" type="N" xml:id="w888">wind</w>
+      </term>
+    </phr>
+    <motion type="median">
+      <w lemma="pass" type="V" xml:id="w889">passed</w>
+    </motion>
+    <w lemma="over" type="PREP" xml:id="w890">over</w>
+    <w lemma="them" type="PRO" xml:id="w891">them</w>
+    <w type="PUN" lemma="" xml:id="w892">.</w>
+  </s>
+  <s>
+    <w lemma="my" type="PRO" xml:id="w893">My</w>
+    <w lemma="father" type="N" xml:id="w894">father</w>
+    <w lemma="point" type="V" xml:id="w895">pointed</w>
+    <term type="offset" subtype="orientation" role="spatial">
+      <w lemma="west" type="ADV" xml:id="w896">west</w>
+    </term>
+    <w lemma=":" type="PUN" xml:id="w897">:</w>
+    <w lemma="a" type="DET" xml:id="w898">a</w>
+    <w lemma="kestrel" type="N" xml:id="w899">kestrel</w>
+    <w type="PUN" lemma="" xml:id="w900">,</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="hunt" type="V" xml:id="w901">hunting</w>
+      <w lemma="fast" type="ADV" xml:id="w902">fast</w>
+      <w lemma="over" type="PREP" xml:id="w903">over</w>
+      <w lemma="the" type="DET" xml:id="w904">the</w>
+      <term type="geo">
+        <w lemma="ground" type="N" xml:id="w905">ground</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w906">.</w>
+  </s>
+  <s>
+    <w lemma="then" type="ADV" xml:id="w907">Then</w>
+    <w lemma="it" type="PRO" xml:id="w908">it</w>
+    <w lemma="stop" type="V" xml:id="w909">stopped</w>
+    <w type="PUN" lemma="" xml:id="w910">,</w>
+    <w lemma="hang" type="V" xml:id="w911">hung</w>
+    <w type="PUN" lemma="" xml:id="w912">,</w>
+    <phr type="verbal">
+      <w lemma="collapse" type="V" xml:id="w913">collapsed</w>
+      <w lemma="its" type="PRO" xml:id="w914">its</w>
+      <term type="N">
+        <w lemma="wing" type="N" xml:id="w915">wings</w>
+      </term>
+    </phr>
+    <w lemma="and" type="CONJC" xml:id="w916">and</w>
+    <phr type="verbal" subtype="motion" role="geo">
+      <motion type="median">
+        <w lemma="drop" type="V" xml:id="w917">dropped</w>
+      </motion>
+      <w lemma="hard" type="ADV" xml:id="w918">hard</w>
+      <w lemma="into" type="PREP" xml:id="w919">into</w>
+      <w lemma="the" type="DET" xml:id="w920">the</w>
+      <term type="geo">
+        <w lemma="heather" type="N" xml:id="w921">heather</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w922">.</w>
+  </s>
+  <s>
+    <w lemma="that" type="PREP" xml:id="w923">That</w>
+    <w lemma="far" type="ADV" xml:id="w924">far</w>
+    <w lemma="into" type="PREP" xml:id="w925">into</w>
+    <w lemma="the" type="DET" xml:id="w926">the</w>
+    <rs type="unknown">
+      <name type="unknown">
+        <w lemma="moor" type="NPr" xml:id="w927">Moor</w>
+      </name>
+    </rs>
+    <w type="PUN" lemma="" xml:id="w928">,</w>
+    <w lemma="the" type="DET" xml:id="w929">the</w>
+    <w lemma="vast" type="A" xml:id="w930">vast</w>
+    <w lemma="space" type="N" xml:id="w931">space</w>
+    <w lemma="we" type="PRO" xml:id="w932">we</w>
+    <w lemma="be" type="V" xml:id="w933">were</w>
+    <w lemma="in" type="ADV" xml:id="w934">in</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="resolve" type="V" xml:id="w935">resolved</w>
+      <w lemma="the" type="DET" xml:id="w936">the</w>
+      <term type="geo">
+        <w lemma="land" type="N" xml:id="w937">land</w>
+      </term>
+      <term type="offset" subtype="adjacence" role="spatial">
+        <w lemma="around" type="PREP" xml:id="w938">around</w>
+      </term>
+      <w lemma="us" type="PRO" xml:id="w939">us</w>
+      <w lemma="into" type="PREP" xml:id="w940">into</w>
+      <w lemma="null" type="A" xml:id="w941">bacon-like</w>
+      <term type="N">
+        <w lemma="band" type="N" xml:id="w942">bands</w>
+      </term>
+    </phr>
+    <w lemma=":" type="PUN" xml:id="w943">:</w>
+    <w lemma="a" type="DET" xml:id="w944">a</w>
+    <w lemma="stripe" type="N" xml:id="w945">stripe</w>
+    <w lemma="of" type="PREP" xml:id="w946">of</w>
+    <w lemma="sky" type="N" xml:id="w947">sky</w>
+    <w type="PUN" lemma="" xml:id="w948">,</w>
+    <w lemma="a" type="DET" xml:id="w949">a</w>
+    <w lemma="stripe" type="N" xml:id="w950">stripe</w>
+    <w lemma="of" type="PREP" xml:id="w951">of</w>
+    <w lemma="white" type="A" xml:id="w952">white</w>
+    <w lemma="cloud" type="N" xml:id="w953">cloud</w>
+    <w type="PUN" lemma="" xml:id="w954">,</w>
+    <w lemma="a" type="DET" xml:id="w955">a</w>
+    <w lemma="stripe" type="N" xml:id="w956">stripe</w>
+    <w lemma="of" type="PREP" xml:id="w957">of</w>
+    <term type="geo">
+      <w lemma="dark" type="A" xml:id="w958">dark</w>
+      <w lemma="land" type="N" xml:id="w959">land</w>
+    </term>
+    <w type="PUN" lemma="" xml:id="w960">,</w>
+    <w lemma="and" type="CONJC" xml:id="w961">and</w>
+    <w lemma="below" type="PREP" xml:id="w962">below</w>
+    <w lemma="everything" type="N" xml:id="w963">everything</w>
+    <w lemma="the" type="DET" xml:id="w964">the</w>
+    <term type="geo">
+      <w lemma="tawny" type="A" xml:id="w965">tawny</w>
+      <w lemma="moor" type="N" xml:id="w966">Moor</w>
+    </term>
+    <w type="PUN" lemma="" xml:id="w967">.</w>
+  </s>
+  <s>
+    <w lemma="the" type="DET" xml:id="w968">The</w>
+    <term type="geo">
+      <w lemma="moor" type="N" xml:id="w969">Moor</w>
+    </term>
+    <w lemma="'s" type="POS" xml:id="w970">'s</w>
+    <w lemma="colour" type="N" xml:id="w971">colours</w>
+    <phr>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w972">in</w>
+      </term>
+      <w lemma="that" type="DET" xml:id="w973">that</w>
+      <term type="N">
+        <w lemma="season" type="N" xml:id="w974">season</w>
+      </term>
+    </phr>
+    <w lemma="be" type="V" xml:id="w975">were</w>
+    <w lemma="subtle" type="A" xml:id="w976">subtle</w>
+    <w lemma="and" type="CONJC" xml:id="w977">and</w>
+    <w lemma="multiple" type="A" xml:id="w978">multiple</w>
+    <w type="PUN" lemma="" xml:id="w979">.</w>
+  </s>
+  <s>
+    <phr type="verbal" subtype="perception">
+      <perception>
+        <w lemma="see" type="V" xml:id="w980">Seen</w>
+      </perception>
+      <term type="offset" subtype="orientation">
+        <w lemma="from" type="PREP" xml:id="w981">from</w>
+      </term>
+      <w lemma="a" type="DET" xml:id="w982">a</w>
+      <term type="N">
+        <w lemma="distance" type="N" xml:id="w983">distance</w>
+      </term>
+    </phr>
+    <w lemma="it" type="PRO" xml:id="w984">it</w>
+    <w lemma="be" type="V" xml:id="w985">was</w>
+    <w lemma="brindled" type="A" xml:id="w986">brindled</w>
+    <w lemma=";" type="PUN" xml:id="w987">;</w>
+    <term type="offset" subtype="adjacence" role="spatial">
+      <w lemma="close" type="V" xml:id="w988">close</w>
+    </term>
+    <w lemma="up" type="PREP" xml:id="w989">up</w>
+    <w type="PUN" lemma="" xml:id="w990">,</w>
+    <w lemma="it" type="PRO" xml:id="w991">it</w>
+    <phr type="verbal">
+      <w lemma="break" type="V" xml:id="w992">broke</w>
+      <w lemma="into" type="PREP" xml:id="w993">into</w>
+      <w lemma="its" type="PRO" xml:id="w994">its</w>
+      <w lemma="separate" type="A" xml:id="w995">separate</w>
+      <term type="N">
+        <w lemma="colour" type="N" xml:id="w996">colours</w>
+      </term>
+    </phr>
+    <w lemma=":" type="PUN" xml:id="w997">:</w>
+    <w lemma="orange" type="A" xml:id="w998">orange</w>
+    <w type="PUN" lemma="" xml:id="w999">,</w>
+    <w lemma="ochre" type="A" xml:id="w1000">ochre</w>
+    <w type="PUN" lemma="" xml:id="w1001">,</w>
+    <w lemma="red" type="A" xml:id="w1002">red</w>
+    <w type="PUN" lemma="" xml:id="w1003">,</w>
+    <w lemma="a" type="DET" xml:id="w1004">a</w>
+    <w lemma="null" type="N" xml:id="w1005">mustardy</w>
+    <w lemma="yellow" type="N" xml:id="w1006">yellow</w>
+    <w lemma="and" type="CONJC" xml:id="w1007">and</w>
+    <w type="PUN" lemma="" xml:id="w1008">,</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="lace" type="V" xml:id="w1009">lacing</w>
+      <term type="N">
+        <w lemma="everything" type="N" xml:id="w1010">everything</w>
+      </term>
+      <w type="PUN" lemma="" xml:id="w1011">,</w>
+      <w lemma="the" type="DET" xml:id="w1012">the</w>
+      <w lemma="glossy" type="A" xml:id="w1013">glossy</w>
+      <w lemma="black" type="N" xml:id="w1014">black</w>
+      <w lemma="of" type="PREP" xml:id="w1015">of</w>
+      <w lemma="the" type="DET" xml:id="w1016">the</w>
+      <term type="geo">
+        <w lemma="peat" type="N" xml:id="w1017">peat</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w1018">.</w>
+  </s>
+  <s>
+    <w lemma="it" type="PRO" xml:id="w1019">It</w>
+    <phr type="verbal" subtype="motion">
+      <motion type="median">
+        <w lemma="take" type="V" xml:id="w1020">took</w>
+      </motion>
+      <w lemma="us" type="PRO" xml:id="w1021">us</w>
+      <w lemma="all" type="DET" xml:id="w1022">all</w>
+      <w lemma="that" type="DET" xml:id="w1023">that</w>
+      <term type="N">
+        <w lemma="day" type="N" xml:id="w1024">day</w>
+      </term>
+    </phr>
+    <w lemma="to" type="PREP" xml:id="w1025">to</w>
+    <motion type="final">
+      <w lemma="reach" type="V" xml:id="w1026">reach</w>
+    </motion>
+    <w lemma="what" type="PRO" xml:id="w1027">what</w>
+    <w lemma="i" type="PRO" xml:id="w1028">I</w>
+    <w lemma="have" type="V" xml:id="w1029">had</w>
+    <motion type="median">
+      <w lemma="come" type="V" xml:id="w1030">come</w>
+    </motion>
+    <w lemma="to" type="PREP" xml:id="w1031">to</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="think" type="V" xml:id="w1032">think</w>
+      <w lemma="of" type="PREP" xml:id="w1033">of</w>
+      <w lemma="as" type="PREP" xml:id="w1034">as</w>
+      <w lemma="the" type="DET" xml:id="w1035">the</w>
+      <term type="geo">
+        <w lemma="moor" type="N" xml:id="w1036">Moor</w>
+      </term>
+    </phr>
+    <w lemma="'s" type="POS" xml:id="w1037">'s</w>
+    <term type="offset" subtype="central" role="spatial">
+      <w lemma="centre" type="N" xml:id="w1038">centre</w>
+    </term>
+    <w type="PUN" lemma="" xml:id="w1039">,</w>
+    <w lemma="the" type="DET" xml:id="w1040">the</w>
+    <rs type="unknown">
+      <name type="unknown">
+        <w lemma="null" type="NPr" xml:id="w1041">Abhainn</w>
+        <w lemma="null" type="NPr" xml:id="w1042">Bà</w>
+      </name>
+    </rs>
+    <w lemma="null" type="PUN" xml:id="w1043">-</w>
+    <w lemma="the" type="DET" xml:id="w1044">the</w>
+    <w lemma="point" type="N" xml:id="w1045">point</w>
+    <FoR type="TF" subtype="I">
+      <w lemma="where" type="ADV" xml:id="w1046">where</w>
+      <GO>
+        <w lemma="the" type="DET" xml:id="w1047">the</w>
+        <rs type="unknown">
+          <name type="unknown">
+            <w lemma="river" type="NPr" xml:id="w1048">River</w>
+            <w lemma="ba" type="NPr" xml:id="w1049">Ba</w>
+          </name>
+        </rs>
+      </GO>
+      <topological>
+        <w lemma="flow" type="V" xml:id="w1050">flows</w>
+        <w lemma="into" type="PREP" xml:id="w1051">into</w>
+      </topological>
+      <GO>
+        <rs type="unknown">
+          <name type="unknown">
+            <w lemma="loch" type="NPr" xml:id="w1052">Loch</w>
+            <w lemma="null" type="NPr" xml:id="w1053">Laidon</w>
+          </name>
+        </rs>
+      </GO>
+    </FoR>
+    <w type="PUN" lemma="" xml:id="w1054">.</w>
+  </s>
+  <s>
+    <w lemma="we" type="PRO" xml:id="w1055">We</w>
+    <w lemma="stop" type="V" xml:id="w1056">stopped</w>
+    <w lemma="there" type="ADV" xml:id="w1057">there</w>
+    <w type="PUN" lemma="" xml:id="w1058">,</w>
+    <phr>
+      <term type="offset" subtype="orientation">
+        <w lemma="for" type="PREP" xml:id="w1059">for</w>
+      </term>
+      <term type="N">
+        <w lemma="dusk" type="N" xml:id="w1060">dusk</w>
+      </term>
+    </phr>
+    <phr type="verbal" subtype="geo">
+      <w lemma="be" type="V" xml:id="w1061">was</w>
+      <w lemma="spread" type="V" xml:id="w1062">spreading</w>
+      <w lemma="over" type="PREP" xml:id="w1063">over</w>
+      <w lemma="the" type="DET" xml:id="w1064">the</w>
+      <term type="geo">
+        <w lemma="moor" type="N" xml:id="w1065">Moor</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w1066">,</w>
+    <w lemma="and" type="CONJC" xml:id="w1067">and</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="pitch" type="V" xml:id="w1068">pitched</w>
+      <w lemma="a" type="DET" xml:id="w1069">a</w>
+      <term type="geo">
+        <w lemma="small" type="A" xml:id="w1070">small</w>
+        <w lemma="tent" type="N" xml:id="w1071">tent</w>
+      </term>
+    </phr>
+    <w type="PUN" lemma="" xml:id="w1072">.</w>
+  </s>
+  <s>
+    <w lemma="we" type="PRO" xml:id="w1073">We</w>
+    <phr type="verbal">
+      <w lemma="lie" type="V" xml:id="w1074">lay</w>
+      <w lemma="talk" type="V" xml:id="w1075">talking</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w1076">in</w>
+      </term>
+      <w lemma="the" type="DET" xml:id="w1077">the</w>
+      <term type="N">
+        <w lemma="dark" type="N" xml:id="w1078">dark</w>
+      </term>
+    </phr>
+    <w lemma=":" type="PUN" xml:id="w1079">:</w>
+    <w lemma="about" type="PREP" xml:id="w1080">about</w>
+    <w lemma="the" type="DET" xml:id="w1081">the</w>
+    <term type="geo">
+      <w lemma="ground" type="N" xml:id="w1082">ground</w>
+    </term>
+    <w lemma="we" type="PRO" xml:id="w1083">we</w>
+    <w lemma="have" type="V" xml:id="w1084">had</w>
+    <w lemma="cover" type="V" xml:id="w1085">covered</w>
+    <w type="PUN" lemma="" xml:id="w1086">,</w>
+    <w lemma="the" type="DET" xml:id="w1087">the</w>
+    <term type="geo">
+      <w lemma="ground" type="N" xml:id="w1088">ground</w>
+    </term>
+    <w lemma="still" type="ADV" xml:id="w1089">still</w>
+    <w lemma="to" type="PREP" xml:id="w1090">to</w>
+    <motion type="median">
+      <w lemma="go" type="V" xml:id="w1091">go</w>
+    </motion>
+    <w type="PUN" lemma="" xml:id="w1092">,</w>
+    <w lemma="about" type="PREP" xml:id="w1093">about</w>
+    <w lemma="the" type="DET" xml:id="w1094">the</w>
+    <w lemma="odd" type="A" xml:id="w1095">odd</w>
+    <w lemma="mixture" type="N" xml:id="w1096">mixture</w>
+    <w lemma="of" type="PREP" xml:id="w1097">of</w>
+    <w lemma="apprehension" type="N" xml:id="w1098">apprehension</w>
+    <w lemma="and" type="CONJC" xml:id="w1099">and</w>
+    <w lemma="awe" type="N" xml:id="w1100">awe</w>
+    <w lemma="that" type="PREP" xml:id="w1101">that</w>
+    <w lemma="the" type="DET" xml:id="w1102">the</w>
+    <term type="geo">
+      <w lemma="moor" type="N" xml:id="w1103">Moor</w>
+    </term>
+    <w lemma="provoke" type="V" xml:id="w1104">provoked</w>
+    <w lemma="in" type="PREP" xml:id="w1105">in</w>
+    <w lemma="us" type="PRO" xml:id="w1106">us</w>
+    <w lemma="both" type="DET" xml:id="w1107">both</w>
+    <w type="PUN" lemma="" xml:id="w1108">.</w>
+  </s>
+  <s>
+    <w lemma="our" type="PRO" xml:id="w1109">Our</w>
+    <w lemma="null" type="N" xml:id="w1110">sleeping-place</w>
+    <phr type="verbal" subtype="geo">
+      <w lemma="be" type="V" xml:id="w1111">was</w>
+      <w lemma="cup" type="V" xml:id="w1112">cupped</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="in" type="PREP" xml:id="w1113">in</w>
+      </term>
+      <w lemma="a" type="DET" xml:id="w1114">a</w>
+      <w lemma="curve" type="N" xml:id="w1115">curve</w>
+      <w lemma="of" type="PREP" xml:id="w1116">of</w>
+      <w lemma="the" type="DET" xml:id="w1117">the</w>
+      <term type="geo">
+        <w lemma="river" type="N" xml:id="w1118">river</w>
+      </term>
+      <w type="PUN" lemma="" xml:id="w1119">,</w>
+      <term type="offset" subtype="orientation">
+        <w lemma="on" type="PREP" xml:id="w1120">on</w>
+      </term>
+      <w lemma="a" type="DET" xml:id="w1121">a</w>
+      <w lemma="miniature" type="A" xml:id="w1122">miniature</w>
+      <w lemma="null" type="N" xml:id="w1123">floodplain</w>
+      <w lemma="that" type="PREP" xml:id="w1124">that</w>
+      <w lemma="the" type="DET" xml:id="w1125">the</w>
+      <w lemma="winter" type="N" xml:id="w1126">winter</w>
+      <term type="N">
+        <w lemma="spate" type="N" xml:id="w1127">spates</w>
+      </term>
+    </phr>
+    <w lemma="have" type="V" xml:id="w1128">had</w>
+    <w lemma="carve" type="V" xml:id="w1129">carved</w>
+    <w lemma="out" type="PREP" xml:id="w1130">out</w>
+    <w lemma="and" type="CONJC" xml:id="w1131">and</w>
+    <w lemma="flatten" type="V" xml:id="w1132">flattened</w>
+    <w lemma=":" type="PUN" xml:id="w1133">:</w>
+    <FoR type="ZF" subtype="C">
+      <target>
+        <w lemma="a" type="DET" xml:id="w1134">a</w>
+        <term type="geo">
+          <w lemma="shelter" type="N" xml:id="w1135">shelter</w>
+        </term>
+      </target>
+      <w lemma="in" type="PREP" xml:id="w1136">in</w>
+      <term type="offset" subtype="central" role="spatial">
+        <w lemma="the" type="DET" xml:id="w1137">the</w>
+        <w lemma="middle" type="N" xml:id="w1138">middle</w>
+        <w lemma="of" type="PREP" xml:id="w1139">of</w>
+      </term>
+      <GO>
+        <w lemma="the" type="DET" xml:id="w1140">the</w>
+        <term type="geo">
+          <w lemma="moor" type="N" xml:id="w1141">Moor</w>
+        </term>
+      </GO>
+    </FoR>
+    <w lemma="'s" type="POS" xml:id="w1142">'s</w>
+    <w lemma="great" type="A" xml:id="w1143">great</w>
+    <w lemma="space" type="N" xml:id="w1144">space</w>
+    <w type="PUN" lemma="" xml:id="w1145">.</w>
+  </s>
+  <s />
+</root>

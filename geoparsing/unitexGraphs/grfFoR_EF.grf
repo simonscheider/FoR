@@ -1,0 +1,62 @@
+#Unigraph
+SIZE 1770 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+42
+"<E>" 108 241 1 14 
+"" 1234 304 0 
+"<E>/{" 134 174 1 4 
+"<E>/,.target}" 278 174 1 15 
+":tools:target_GO" 173 174 1 3 
+"/Euclidean frame (EF)+ - EF CP (Euclidean fram with cardinal part)+ - EF CD (Euclidean frame with cardinal distance)+ - EF G (Euclidean frame with gravitation axis)+ - EF C (Euclidean frame with cardinal direction without distance)" 22 61 0 
+"<offset+orientation>" 425 241 1 7 
+"<offset+inclusion>" 616 241 1 30 
+"/south-west" 447 216 0 
+"/side of" 644 216 0 
+"<E>/,.GO}" 1090 304 1 18 
+":tools:target_GO" 980 304 1 10 
+"<E>/{" 945 304 1 11 
+"/the moor" 998 278 0 
+"<E>/{" 152 241 2 2 17 
+"<E>+at+in" 315 150 1 16 
+"<E>+<DET>" 370 150 1 17 
+"<E>" 359 241 4 6 21 25 27 
+"<E>/,.FoR+EF+$a$}" 1147 304 1 1 
+"<offset+orientation>" 620 304 1 33 
+"/the east of" 651 279 0 
+"<offset+adjacence>" 430 304 1 22 
+"to" 569 304 1 19 
+"/well" 468 280 0 
+"/to" 569 279 0 
+"<modifier+gravity>" 439 374 1 36 
+"/on top of" 474 347 0 
+"<offset+orientation>" 450 443 1 39 
+"/west of" 485 416 0 
+"<E>/CP" 809 241 1 31 
+"$|a(" 769 241 1 29 
+"$|a)" 859 241 1 12 
+"<E>/CD" 803 304 1 34 
+"$|a(" 763 304 1 32 
+"$|a)" 853 304 1 12 
+"<E>/G" 805 374 1 37 
+"$|a(" 765 374 1 35 
+"$|a)" 855 374 1 12 
+"<E>/C" 804 443 1 40 
+"$|a(" 764 443 1 38 
+"$|a)" 854 443 1 12 
+"--------------------------------------------------------------------+PERDIDO vENG FoR+Authors:+  Ludovic Moncla, INSA Lyon, LIRIS - ludovic.moncla@liris.cnrs.fr+  Simon Scheider, Utrecht University - s.scheider@uul.nl+  Gabriel Viehhauser, Universitaet Stuttgart - viehhauser@ilw.uni-stuttgart.de+Website : https:\/\/github.com\/simonscheider\/FoR+Licence LGPL-LR+--------------------------------------------------------------------" 698 93 0 

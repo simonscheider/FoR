@@ -1,0 +1,292 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.FoR|FrameType
+#T_SP=webanno.custom.Groundobject|
+#T_SP=webanno.custom.Target|
+
+
+#Text=THE GLENCOE ROAD There are signs that the Ministry of Transport is in for a hot time when Parliament meets over its plans for constructing a great motor highway through the Moor of Rannoch and Glencoe .
+1-1	0-3	THE	_	_	_	
+1-2	4-11	GLENCOE	_	_	_	
+1-3	12-16	ROAD	_	_	_	
+1-4	17-22	There	_	_	_	
+1-5	23-26	are	_	_	_	
+1-6	27-32	signs	_	_	_	
+1-7	33-37	that	_	_	_	
+1-8	38-41	the	_	_	_	
+1-9	42-50	Ministry	_	_	_	
+1-10	51-53	of	_	_	_	
+1-11	54-63	Transport	_	_	_	
+1-12	64-66	is	_	_	_	
+1-13	67-69	in	_	_	_	
+1-14	70-73	for	_	_	_	
+1-15	74-75	a	_	_	_	
+1-16	76-79	hot	_	_	_	
+1-17	80-84	time	_	_	_	
+1-18	85-89	when	_	_	_	
+1-19	90-100	Parliament	_	_	_	
+1-20	101-106	meets	_	_	_	
+1-21	107-111	over	_	_	_	
+1-22	112-115	its	_	_	_	
+1-23	116-121	plans	_	_	_	
+1-24	122-125	for	_	_	_	
+1-25	126-138	constructing	_	_	_	
+1-26	139-140	a	_	_	_	
+1-27	141-146	great	_	_	_	
+1-28	147-152	motor	_	_	_	
+1-29	153-160	highway	topological frame[1]	_	*[2]	
+1-30	161-168	through	topological frame[1]	_	_	
+1-31	169-172	the	topological frame[1]	*[3]	_	
+1-32	173-177	Moor	topological frame[1]	*[3]	_	
+1-33	178-180	of	topological frame[1]	*[3]	_	
+1-34	181-188	Rannoch	topological frame[1]	*[3]	_	
+1-35	189-192	and	topological frame[1]	_	_	
+1-36	193-200	Glencoe	topological frame[1]	*[4]	_	
+1-37	201-202	.	_	_	_	
+
+#Text=There is , so far , complete unanimity among those who have written and spoken on the subject that the plan is in outrage on sentiment and good taste .
+2-1	203-208	There	_	_	_	
+2-2	209-211	is	_	_	_	
+2-3	212-213	,	_	_	_	
+2-4	214-216	so	_	_	_	
+2-5	217-220	far	_	_	_	
+2-6	221-222	,	_	_	_	
+2-7	223-231	complete	_	_	_	
+2-8	232-241	unanimity	_	_	_	
+2-9	242-247	among	_	_	_	
+2-10	248-253	those	_	_	_	
+2-11	254-257	who	_	_	_	
+2-12	258-262	have	_	_	_	
+2-13	263-270	written	_	_	_	
+2-14	271-274	and	_	_	_	
+2-15	275-281	spoken	_	_	_	
+2-16	282-284	on	_	_	_	
+2-17	285-288	the	_	_	_	
+2-18	289-296	subject	_	_	_	
+2-19	297-301	that	_	_	_	
+2-20	302-305	the	_	_	_	
+2-21	306-310	plan	_	_	_	
+2-22	311-313	is	_	_	_	
+2-23	314-316	in	_	_	_	
+2-24	317-324	outrage	_	_	_	
+2-25	325-327	on	_	_	_	
+2-26	328-337	sentiment	_	_	_	
+2-27	338-341	and	_	_	_	
+2-28	342-346	good	_	_	_	
+2-29	347-352	taste	_	_	_	
+2-30	353-354	.	_	_	_	
+
+#Text=It will ruin the scenery and character of a route which is hardly ever traversed save for the sake of its scenery and character .
+3-1	355-357	It	_	_	_	
+3-2	358-362	will	_	_	_	
+3-3	363-367	ruin	_	_	_	
+3-4	368-371	the	_	_	_	
+3-5	372-379	scenery	_	_	_	
+3-6	380-383	and	_	_	_	
+3-7	384-393	character	_	_	_	
+3-8	394-396	of	_	_	_	
+3-9	397-398	a	_	_	_	
+3-10	399-404	route	_	_	_	
+3-11	405-410	which	_	_	_	
+3-12	411-413	is	_	_	_	
+3-13	414-420	hardly	_	_	_	
+3-14	421-425	ever	_	_	_	
+3-15	426-435	traversed	_	_	_	
+3-16	436-440	save	_	_	_	
+3-17	441-444	for	_	_	_	
+3-18	445-448	the	_	_	_	
+3-19	449-453	sake	_	_	_	
+3-20	454-456	of	_	_	_	
+3-21	457-460	its	_	_	_	
+3-22	461-468	scenery	_	_	_	
+3-23	469-472	and	_	_	_	
+3-24	473-482	character	_	_	_	
+3-25	483-484	.	_	_	_	
+
+#Text=But the case against the Ministry 's plans on the ground of common sense is at least equally strong .
+4-1	485-488	But	_	_	_	
+4-2	489-492	the	_	_	_	
+4-3	493-497	case	_	_	_	
+4-4	498-505	against	_	_	_	
+4-5	506-509	the	_	_	_	
+4-6	510-518	Ministry	_	_	_	
+4-7	519-521	's	_	_	_	
+4-8	522-527	plans	_	_	_	
+4-9	528-530	on	_	_	_	
+4-10	531-534	the	_	_	_	
+4-11	535-541	ground	_	_	_	
+4-12	542-544	of	_	_	_	
+4-13	545-551	common	_	_	_	
+4-14	552-557	sense	_	_	_	
+4-15	558-560	is	_	_	_	
+4-16	561-563	at	_	_	_	
+4-17	564-569	least	_	_	_	
+4-18	570-577	equally	_	_	_	
+4-19	578-584	strong	_	_	_	
+4-20	585-586	.	_	_	_	
+
+#Text=Sir John Stirling Maxwell , who probably knows the West Highlands as well as anybody in Scotland , declares in a letter to the Times that the present road could have been made good for the traffic that uses it for the sum spent by the Ministry in surveying and designing the new road .
+5-1	587-590	Sir	_	_	_	
+5-2	591-595	John	_	_	_	
+5-3	596-604	Stirling	_	_	_	
+5-4	605-612	Maxwell	_	_	_	
+5-5	613-614	,	_	_	_	
+5-6	615-618	who	_	_	_	
+5-7	619-627	probably	_	_	_	
+5-8	628-633	knows	_	_	_	
+5-9	634-637	the	_	_	_	
+5-10	638-642	West	_	_	_	
+5-11	643-652	Highlands	_	_	_	
+5-12	653-655	as	_	_	_	
+5-13	656-660	well	_	_	_	
+5-14	661-663	as	_	_	_	
+5-15	664-671	anybody	_	_	_	
+5-16	672-674	in	_	_	_	
+5-17	675-683	Scotland	_	_	_	
+5-18	684-685	,	_	_	_	
+5-19	686-694	declares	_	_	_	
+5-20	695-697	in	_	_	_	
+5-21	698-699	a	_	_	_	
+5-22	700-706	letter	_	_	_	
+5-23	707-709	to	_	_	_	
+5-24	710-713	the	_	_	_	
+5-25	714-719	Times	_	_	_	
+5-26	720-724	that	_	_	_	
+5-27	725-728	the	_	_	_	
+5-28	729-736	present	_	_	_	
+5-29	737-741	road	_	_	_	
+5-30	742-747	could	_	_	_	
+5-31	748-752	have	_	_	_	
+5-32	753-757	been	_	_	_	
+5-33	758-762	made	_	_	_	
+5-34	763-767	good	_	_	_	
+5-35	768-771	for	_	_	_	
+5-36	772-775	the	_	_	_	
+5-37	776-783	traffic	_	_	_	
+5-38	784-788	that	_	_	_	
+5-39	789-793	uses	_	_	_	
+5-40	794-796	it	_	_	_	
+5-41	797-800	for	_	_	_	
+5-42	801-804	the	_	_	_	
+5-43	805-808	sum	_	_	_	
+5-44	809-814	spent	_	_	_	
+5-45	815-817	by	_	_	_	
+5-46	818-821	the	_	_	_	
+5-47	822-830	Ministry	_	_	_	
+5-48	831-833	in	_	_	_	
+5-49	834-843	surveying	_	_	_	
+5-50	844-847	and	_	_	_	
+5-51	848-857	designing	_	_	_	
+5-52	858-861	the	_	_	_	
+5-53	862-865	new	_	_	_	
+5-54	866-870	road	_	_	_	
+5-55	871-872	.	_	_	_	
+
+#Text=That on such a road the Ministry should propose to spend half a million at the time when it has in effect stopped the work on the three-quarters completed West Highland road from Glasgow to Inverness because of shortage of funds in the crowning wonder .
+6-1	873-877	That	_	_	_	
+6-2	878-880	on	_	_	_	
+6-3	881-885	such	_	_	_	
+6-4	886-887	a	_	_	_	
+6-5	888-892	road	_	_	_	
+6-6	893-896	the	_	_	_	
+6-7	897-905	Ministry	_	_	_	
+6-8	906-912	should	_	_	_	
+6-9	913-920	propose	_	_	_	
+6-10	921-923	to	_	_	_	
+6-11	924-929	spend	_	_	_	
+6-12	930-934	half	_	_	_	
+6-13	935-936	a	_	_	_	
+6-14	937-944	million	_	_	_	
+6-15	945-947	at	_	_	_	
+6-16	948-951	the	_	_	_	
+6-17	952-956	time	_	_	_	
+6-18	957-961	when	_	_	_	
+6-19	962-964	it	_	_	_	
+6-20	965-968	has	_	_	_	
+6-21	969-971	in	_	_	_	
+6-22	972-978	effect	_	_	_	
+6-23	979-986	stopped	_	_	_	
+6-24	987-990	the	_	_	_	
+6-25	991-995	work	_	_	_	
+6-26	996-998	on	_	_	_	
+6-27	999-1002	the	_	_	_	
+6-28	1003-1017	three-quarters	_	_	_	
+6-29	1018-1027	completed	_	_	_	
+6-30	1028-1032	West	linear construction frame[5]	_	*[6]	
+6-31	1033-1041	Highland	linear construction frame[5]	_	*[6]	
+6-32	1042-1046	road	linear construction frame[5]	_	*[6]	
+6-33	1047-1051	from	linear construction frame[5]	_	_	
+6-34	1052-1059	Glasgow	linear construction frame[5]	*[7]	_	
+6-35	1060-1062	to	linear construction frame[5]	_	_	
+6-36	1063-1072	Inverness	linear construction frame[5]	*[8]	_	
+6-37	1073-1080	because	_	_	_	
+6-38	1081-1083	of	_	_	_	
+6-39	1084-1092	shortage	_	_	_	
+6-40	1093-1095	of	_	_	_	
+6-41	1096-1101	funds	_	_	_	
+6-42	1102-1104	in	_	_	_	
+6-43	1105-1108	the	_	_	_	
+6-44	1109-1117	crowning	_	_	_	
+6-45	1118-1124	wonder	_	_	_	
+6-46	1125-1126	.	_	_	_	
+
+#Text=A feeling is taking hold that the Ministry is not to be trusted where , as is frequently the case in roadmaking , good taste is involved .
+7-1	1127-1128	A	_	_	_	
+7-2	1129-1136	feeling	_	_	_	
+7-3	1137-1139	is	_	_	_	
+7-4	1140-1146	taking	_	_	_	
+7-5	1147-1151	hold	_	_	_	
+7-6	1152-1156	that	_	_	_	
+7-7	1157-1160	the	_	_	_	
+7-8	1161-1169	Ministry	_	_	_	
+7-9	1170-1172	is	_	_	_	
+7-10	1173-1176	not	_	_	_	
+7-11	1177-1179	to	_	_	_	
+7-12	1180-1182	be	_	_	_	
+7-13	1183-1190	trusted	_	_	_	
+7-14	1191-1196	where	_	_	_	
+7-15	1197-1198	,	_	_	_	
+7-16	1199-1201	as	_	_	_	
+7-17	1202-1204	is	_	_	_	
+7-18	1205-1215	frequently	_	_	_	
+7-19	1216-1219	the	_	_	_	
+7-20	1220-1224	case	_	_	_	
+7-21	1225-1227	in	_	_	_	
+7-22	1228-1238	roadmaking	_	_	_	
+7-23	1239-1240	,	_	_	_	
+7-24	1241-1245	good	_	_	_	
+7-25	1246-1251	taste	_	_	_	
+7-26	1252-1254	is	_	_	_	
+7-27	1255-1263	involved	_	_	_	
+7-28	1264-1265	.	_	_	_	
+
+#Text=It has irretrievably ruined the beauty of many parts of the Great North road , and its concrete bridges are everywhere blots on the landscape and eyesores .
+8-1	1266-1268	It	_	_	_	
+8-2	1269-1272	has	_	_	_	
+8-3	1273-1286	irretrievably	_	_	_	
+8-4	1287-1293	ruined	_	_	_	
+8-5	1294-1297	the	_	_	_	
+8-6	1298-1304	beauty	_	_	_	
+8-7	1305-1307	of	_	_	_	
+8-8	1308-1312	many	_	_	_	
+8-9	1313-1318	parts	_	_	_	
+8-10	1319-1321	of	_	_	_	
+8-11	1322-1325	the	_	_	_	
+8-12	1326-1331	Great	_	_	_	
+8-13	1332-1337	North	_	_	_	
+8-14	1338-1342	road	_	_	_	
+8-15	1343-1344	,	_	_	_	
+8-16	1345-1348	and	_	_	_	
+8-17	1349-1352	its	_	_	_	
+8-18	1353-1361	concrete	_	_	_	
+8-19	1362-1369	bridges	_	_	_	
+8-20	1370-1373	are	_	_	_	
+8-21	1374-1384	everywhere	_	_	_	
+8-22	1385-1390	blots	_	_	_	
+8-23	1391-1393	on	_	_	_	
+8-24	1394-1397	the	_	_	_	
+8-25	1398-1407	landscape	_	_	_	
+8-26	1408-1411	and	_	_	_	
+8-27	1412-1420	eyesores	_	_	_	
+8-28	1421-1422	.	_	_	_	
+
+#Text=

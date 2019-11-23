@@ -1,0 +1,56 @@
+#Unigraph
+SIZE 1538 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+36
+"<E>" 189 306 1 2 
+"" 1076 306 0 
+"<E>/{" 228 306 3 12 15 26 
+"/Zonal frame (ZF)+ - ZF D0 (zonal frame with zero distance modifier+ - ZF Dn (zonal frame with distance modifier+ - ZF C (zonal frame center)" 721 671 0 
+"<modifier+distance>" 448 255 1 17 
+"<E>/,.FoR+ZF+$a$}" 963 306 1 8 
+"<E>/{" 773 306 1 10 
+"<E>/,.GO}" 914 306 2 5 25 
+"<E>" 1025 306 1 1 
+"where+at" 448 306 1 20 
+":tools:target_GO" 801 306 1 7 
+"<E>+in" 452 366 1 34 
+"<E>/{" 219 379 1 14 
+"<E>/,.target}" 371 379 1 15 
+":tools:target_GO" 258 379 1 13 
+"<E>" 348 306 3 4 9 11 
+"<E>/Dn" 670 255 1 18 
+"$|a(" 646 255 1 16 
+"$|a)" 719 255 1 6 
+"<E>/Do" 570 306 1 21 
+"$|a(" 546 306 1 19 
+"$|a)" 619 306 1 6 
+"<E>/C" 666 366 1 24 
+"$|a(" 642 366 1 22 
+"$|a)" 715 366 1 6 
+"and" 829 255 1 6 
+"<perception>" 373 202 1 27 
+"<E>+up" 478 202 1 28 
+"at" 563 202 1 29 
+"<E>" 608 202 1 31 
+"<E>" 749 202 2 32 33 
+":tools:target_GO" 636 202 1 30 
+"and" 664 150 1 29 
+"<E>/,.phr+perception}" 860 202 1 8 
+"<offset+central>" 515 366 1 23 
+"--------------------------------------------------------------------+PERDIDO vENG FoR+Authors:+  Ludovic Moncla, INSA Lyon, LIRIS - ludovic.moncla@liris.cnrs.fr+  Simon Scheider, Utrecht University - s.scheider@uul.nl+  Gabriel Viehhauser, Universitaet Stuttgart - viehhauser@ilw.uni-stuttgart.de+Website : https:\/\/github.com\/simonscheider\/FoR+Licence LGPL-LR+--------------------------------------------------------------------" 19 94 0 

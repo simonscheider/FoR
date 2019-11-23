@@ -1,0 +1,3521 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.FoR|FrameType
+#T_SP=webanno.custom.Groundobject|
+#T_SP=webanno.custom.Target|
+
+
+#Text=The Moor of Rannoch THE FAMOUS HEAT-WAVE of June 1949 persisted into July .
+1-1	0-3	The	_	_	_	
+1-2	4-8	Moor	_	_	_	
+1-3	9-11	of	_	_	_	
+1-4	12-19	Rannoch	_	_	_	
+1-5	20-23	THE	_	_	_	
+1-6	24-30	FAMOUS	_	_	_	
+1-7	31-40	HEAT-WAVE	_	_	_	
+1-8	41-43	of	_	_	_	
+1-9	44-48	June	_	_	_	
+1-10	49-53	1949	_	_	_	
+1-11	54-63	persisted	_	_	_	
+1-12	64-68	into	_	_	_	
+1-13	69-73	July	_	_	_	
+1-14	74-75	.	_	_	_	
+
+#Text=The drought afflicting the whole country became chronic .
+2-1	76-79	The	_	_	_	
+2-2	80-87	drought	_	_	_	
+2-3	88-98	afflicting	_	_	_	
+2-4	99-102	the	_	_	_	
+2-5	103-108	whole	_	_	_	
+2-6	109-116	country	_	_	_	
+2-7	117-123	became	_	_	_	
+2-8	124-131	chronic	_	_	_	
+2-9	132-133	.	_	_	_	
+
+#Text=West highland villages had to get water brought in by carrier , and that was something I had not heard of before .
+3-1	134-138	West	_	_	_	
+3-2	139-147	highland	_	_	_	
+3-3	148-156	villages	_	_	_	
+3-4	157-160	had	_	_	_	
+3-5	161-163	to	_	_	_	
+3-6	164-167	get	_	_	_	
+3-7	168-173	water	_	_	_	
+3-8	174-181	brought	_	_	_	
+3-9	182-184	in	_	_	_	
+3-10	185-187	by	_	_	_	
+3-11	188-195	carrier	_	_	_	
+3-12	196-197	,	_	_	_	
+3-13	198-201	and	_	_	_	
+3-14	202-206	that	_	_	_	
+3-15	207-210	was	_	_	_	
+3-16	211-220	something	_	_	_	
+3-17	221-222	I	_	_	_	
+3-18	223-226	had	_	_	_	
+3-19	227-230	not	_	_	_	
+3-20	231-236	heard	_	_	_	
+3-21	237-239	of	_	_	_	
+3-22	240-246	before	_	_	_	
+3-23	247-248	.	_	_	_	
+
+#Text=Conditions for rock-climbing had never been better : I could think of some new routes that I wanted to try .
+4-1	249-259	Conditions	_	_	_	
+4-2	260-263	for	_	_	_	
+4-3	264-277	rock-climbing	_	_	_	
+4-4	278-281	had	_	_	_	
+4-5	282-287	never	_	_	_	
+4-6	288-292	been	_	_	_	
+4-7	293-299	better	_	_	_	
+4-8	300-301	:	_	_	_	
+4-9	302-303	I	_	_	_	
+4-10	304-309	could	_	_	_	
+4-11	310-315	think	_	_	_	
+4-12	316-318	of	_	_	_	
+4-13	319-323	some	_	_	_	
+4-14	324-327	new	_	_	_	
+4-15	328-334	routes	_	_	_	
+4-16	335-339	that	_	_	_	
+4-17	340-341	I	_	_	_	
+4-18	342-348	wanted	_	_	_	
+4-19	349-351	to	_	_	_	
+4-20	352-355	try	_	_	_	
+4-21	356-357	.	_	_	_	
+
+#Text=And yet-I thought also of the Moor of Rannoch .
+5-1	358-361	And	_	_	_	
+5-2	362-367	yet-I	_	_	_	
+5-3	368-375	thought	_	_	_	
+5-4	376-380	also	_	_	_	
+5-5	381-383	of	_	_	_	
+5-6	384-387	the	_	_	_	
+5-7	388-392	Moor	_	_	_	
+5-8	393-395	of	_	_	_	
+5-9	396-403	Rannoch	_	_	_	
+5-10	404-405	.	_	_	_	
+
+#Text=It is the greatest moor in Scotland , one of the most accessible too , yet curiously enough the least explored .
+6-1	406-408	It	_	_	_	
+6-2	409-411	is	_	_	_	
+6-3	412-415	the	_	_	_	
+6-4	416-424	greatest	_	_	_	
+6-5	425-429	moor	_	_	_	
+6-6	430-432	in	_	_	_	
+6-7	433-441	Scotland	_	_	_	
+6-8	442-443	,	_	_	_	
+6-9	444-447	one	_	_	_	
+6-10	448-450	of	_	_	_	
+6-11	451-454	the	_	_	_	
+6-12	455-459	most	_	_	_	
+6-13	460-470	accessible	_	_	_	
+6-14	471-474	too	_	_	_	
+6-15	475-476	,	_	_	_	
+6-16	477-480	yet	_	_	_	
+6-17	481-490	curiously	_	_	_	
+6-18	491-497	enough	_	_	_	
+6-19	498-501	the	_	_	_	
+6-20	502-507	least	_	_	_	
+6-21	508-516	explored	_	_	_	
+6-22	517-518	.	_	_	_	
+
+#Text=It is vast and trackless .
+7-1	519-521	It	_	_	_	
+7-2	522-524	is	_	_	_	
+7-3	525-529	vast	_	_	_	
+7-4	530-533	and	_	_	_	
+7-5	534-543	trackless	_	_	_	
+7-6	544-545	.	_	_	_	
+
+#Text=Perhaps that intimidates walkers ?
+8-1	546-553	Perhaps	_	_	_	
+8-2	554-558	that	_	_	_	
+8-3	559-570	intimidates	_	_	_	
+8-4	571-578	walkers	_	_	_	
+8-5	579-580	?	_	_	_	
+
+#Text=While mountaineers , who like deserts if they like anything , notoriously prefer their deserts vertical .
+9-1	581-586	While	_	_	_	
+9-2	587-599	mountaineers	_	_	_	
+9-3	600-601	,	_	_	_	
+9-4	602-605	who	_	_	_	
+9-5	606-610	like	_	_	_	
+9-6	611-618	deserts	_	_	_	
+9-7	619-621	if	_	_	_	
+9-8	622-626	they	_	_	_	
+9-9	627-631	like	_	_	_	
+9-10	632-640	anything	_	_	_	
+9-11	641-642	,	_	_	_	
+9-12	643-654	notoriously	_	_	_	
+9-13	655-661	prefer	_	_	_	
+9-14	662-667	their	_	_	_	
+9-15	668-675	deserts	_	_	_	
+9-16	676-684	vertical	_	_	_	
+9-17	685-686	.	_	_	_	
+
+#Text=Too long had I been counted among the latter .
+10-1	687-690	Too	_	_	_	
+10-2	691-695	long	_	_	_	
+10-3	696-699	had	_	_	_	
+10-4	700-701	I	_	_	_	
+10-5	702-706	been	_	_	_	
+10-6	707-714	counted	_	_	_	
+10-7	715-720	among	_	_	_	
+10-8	721-724	the	_	_	_	
+10-9	725-731	latter	_	_	_	
+10-10	732-733	.	_	_	_	
+
+#Text=At first , while my ignorance was darkest and heaviest , Rannoch Moor was damned just because it was flat-that was enough !
+11-1	734-736	At	_	_	_	
+11-2	737-742	first	_	_	_	
+11-3	743-744	,	_	_	_	
+11-4	745-750	while	_	_	_	
+11-5	751-753	my	_	_	_	
+11-6	754-763	ignorance	_	_	_	
+11-7	764-767	was	_	_	_	
+11-8	768-775	darkest	_	_	_	
+11-9	776-779	and	_	_	_	
+11-10	780-788	heaviest	_	_	_	
+11-11	789-790	,	_	_	_	
+11-12	791-798	Rannoch	_	_	_	
+11-13	799-803	Moor	_	_	_	
+11-14	804-807	was	_	_	_	
+11-15	808-814	damned	_	_	_	
+11-16	815-819	just	_	_	_	
+11-17	820-827	because	_	_	_	
+11-18	828-830	it	_	_	_	
+11-19	831-834	was	_	_	_	
+11-20	835-844	flat-that	_	_	_	
+11-21	845-848	was	_	_	_	
+11-22	849-855	enough	_	_	_	
+11-23	856-857	!	_	_	_	
+
+#Text=Later , when cold reason was admitted to my counsels , it was damned because it was bleak , bare , featureless , and quite excessively extensive , therefore no fit place for a hill-lover , to whom a peak is paradise ; and no whit short of hell in foul weather , when damp mists sink on to it , prospectless , and the bogs are full , or when snow-winds scourge it .
+12-1	858-863	Later	_	_	_	
+12-2	864-865	,	_	_	_	
+12-3	866-870	when	_	_	_	
+12-4	871-875	cold	_	_	_	
+12-5	876-882	reason	_	_	_	
+12-6	883-886	was	_	_	_	
+12-7	887-895	admitted	_	_	_	
+12-8	896-898	to	_	_	_	
+12-9	899-901	my	_	_	_	
+12-10	902-910	counsels	_	_	_	
+12-11	911-912	,	_	_	_	
+12-12	913-915	it	_	_	_	
+12-13	916-919	was	_	_	_	
+12-14	920-926	damned	_	_	_	
+12-15	927-934	because	_	_	_	
+12-16	935-937	it	_	_	_	
+12-17	938-941	was	_	_	_	
+12-18	942-947	bleak	_	_	_	
+12-19	948-949	,	_	_	_	
+12-20	950-954	bare	_	_	_	
+12-21	955-956	,	_	_	_	
+12-22	957-968	featureless	_	_	_	
+12-23	969-970	,	_	_	_	
+12-24	971-974	and	_	_	_	
+12-25	975-980	quite	_	_	_	
+12-26	981-992	excessively	_	_	_	
+12-27	993-1002	extensive	_	_	_	
+12-28	1003-1004	,	_	_	_	
+12-29	1005-1014	therefore	_	_	_	
+12-30	1015-1017	no	_	_	_	
+12-31	1018-1021	fit	_	_	_	
+12-32	1022-1027	place	_	_	_	
+12-33	1028-1031	for	_	_	_	
+12-34	1032-1033	a	_	_	_	
+12-35	1034-1044	hill-lover	_	_	_	
+12-36	1045-1046	,	_	_	_	
+12-37	1047-1049	to	_	_	_	
+12-38	1050-1054	whom	_	_	_	
+12-39	1055-1056	a	_	_	_	
+12-40	1057-1061	peak	_	_	_	
+12-41	1062-1064	is	_	_	_	
+12-42	1065-1073	paradise	_	_	_	
+12-43	1074-1075	;	_	_	_	
+12-44	1076-1079	and	_	_	_	
+12-45	1080-1082	no	_	_	_	
+12-46	1083-1087	whit	_	_	_	
+12-47	1088-1093	short	_	_	_	
+12-48	1094-1096	of	_	_	_	
+12-49	1097-1101	hell	_	_	_	
+12-50	1102-1104	in	_	_	_	
+12-51	1105-1109	foul	_	_	_	
+12-52	1110-1117	weather	_	_	_	
+12-53	1118-1119	,	_	_	_	
+12-54	1120-1124	when	_	_	_	
+12-55	1125-1129	damp	_	_	_	
+12-56	1130-1135	mists	_	_	_	
+12-57	1136-1140	sink	_	_	_	
+12-58	1141-1143	on	_	_	_	
+12-59	1144-1146	to	_	_	_	
+12-60	1147-1149	it	_	_	_	
+12-61	1150-1151	,	_	_	_	
+12-62	1152-1164	prospectless	_	_	_	
+12-63	1165-1166	,	_	_	_	
+12-64	1167-1170	and	_	_	_	
+12-65	1171-1174	the	_	_	_	
+12-66	1175-1179	bogs	_	_	_	
+12-67	1180-1183	are	_	_	_	
+12-68	1184-1188	full	_	_	_	
+12-69	1189-1190	,	_	_	_	
+12-70	1191-1193	or	_	_	_	
+12-71	1194-1198	when	_	_	_	
+12-72	1199-1209	snow-winds	_	_	_	
+12-73	1210-1217	scourge	_	_	_	
+12-74	1218-1220	it	_	_	_	
+12-75	1221-1222	.	_	_	_	
+
+#Text=So that in the end Rannoch Moor had to conquer me through my heart , and reason had to follow perception , not lead .
+13-1	1223-1225	So	_	_	_	
+13-2	1226-1230	that	_	_	_	
+13-3	1231-1233	in	_	_	_	
+13-4	1234-1237	the	_	_	_	
+13-5	1238-1241	end	_	_	_	
+13-6	1242-1249	Rannoch	_	_	_	
+13-7	1250-1254	Moor	_	_	_	
+13-8	1255-1258	had	_	_	_	
+13-9	1259-1261	to	_	_	_	
+13-10	1262-1269	conquer	_	_	_	
+13-11	1270-1272	me	_	_	_	
+13-12	1273-1280	through	_	_	_	
+13-13	1281-1283	my	_	_	_	
+13-14	1284-1289	heart	_	_	_	
+13-15	1290-1291	,	_	_	_	
+13-16	1292-1295	and	_	_	_	
+13-17	1296-1302	reason	_	_	_	
+13-18	1303-1306	had	_	_	_	
+13-19	1307-1309	to	_	_	_	
+13-20	1310-1316	follow	_	_	_	
+13-21	1317-1327	perception	_	_	_	
+13-22	1328-1329	,	_	_	_	
+13-23	1330-1333	not	_	_	_	
+13-24	1334-1338	lead	_	_	_	
+13-25	1339-1340	.	_	_	_	
+
+#Text=Which is just .
+14-1	1341-1346	Which	_	_	_	
+14-2	1347-1349	is	_	_	_	
+14-3	1350-1354	just	_	_	_	
+14-4	1355-1356	.	_	_	_	
+
+#Text=It was that eastern view from the Glencoe summits that won me-the sparkle of the numberless tarns at noon-the phosphorescent gleam of their night-eyes-the spike of Schichallion pushing up beyond blue haze at the farther rim , thirty miles away .
+15-1	1357-1359	It	_	_	_	
+15-2	1360-1363	was	_	_	_	
+15-3	1364-1368	that	_	_	_	
+15-4	1369-1376	eastern	_	_	_	
+15-5	1377-1381	view	_	_	_	
+15-6	1382-1386	from	_	_	_	
+15-7	1387-1390	the	_	_	_	
+15-8	1391-1398	Glencoe	_	_	_	
+15-9	1399-1406	summits	_	_	_	
+15-10	1407-1411	that	_	_	_	
+15-11	1412-1415	won	_	_	_	
+15-12	1416-1422	me-the	_	_	_	
+15-13	1423-1430	sparkle	_	_	_	
+15-14	1431-1433	of	_	_	_	
+15-15	1434-1437	the	_	_	_	
+15-16	1438-1448	numberless	_	_	_	
+15-17	1449-1454	tarns	_	_	_	
+15-18	1455-1457	at	_	_	_	
+15-19	1458-1466	noon-the	_	_	_	
+15-20	1467-1481	phosphorescent	_	_	_	
+15-21	1482-1487	gleam	_	_	_	
+15-22	1488-1490	of	_	_	_	
+15-23	1491-1496	their	_	_	_	
+15-24	1497-1511	night-eyes-the	_	_	_	
+15-25	1512-1517	spike	_	_	_	
+15-26	1518-1520	of	_	_	_	
+15-27	1521-1533	Schichallion	_	_	_	
+15-28	1534-1541	pushing	_	_	_	
+15-29	1542-1544	up	_	_	_	
+15-30	1545-1551	beyond	_	_	_	
+15-31	1552-1556	blue	_	_	_	
+15-32	1557-1561	haze	_	_	_	
+15-33	1562-1564	at	_	_	_	
+15-34	1565-1568	the	_	_	_	
+15-35	1569-1576	farther	_	_	_	
+15-36	1577-1580	rim	_	_	_	
+15-37	1581-1582	,	_	_	_	
+15-38	1583-1589	thirty	_	_	_	
+15-39	1590-1595	miles	_	_	_	
+15-40	1596-1600	away	_	_	_	
+15-41	1601-1602	.	_	_	_	
+
+#Text=I had been fascinated , too , by the distant sight of wild swans and great flights of smaller birds coming on to Loch Ba and Loch Laidon , which stretch in a linked waterway ten miles across the moor .
+16-1	1603-1604	I	_	_	_	
+16-2	1605-1608	had	_	_	_	
+16-3	1609-1613	been	_	_	_	
+16-4	1614-1624	fascinated	_	_	_	
+16-5	1625-1626	,	_	_	_	
+16-6	1627-1630	too	_	_	_	
+16-7	1631-1632	,	_	_	_	
+16-8	1633-1635	by	_	_	_	
+16-9	1636-1639	the	_	_	_	
+16-10	1640-1647	distant	_	_	_	
+16-11	1648-1653	sight	_	_	_	
+16-12	1654-1656	of	_	_	_	
+16-13	1657-1661	wild	_	_	_	
+16-14	1662-1667	swans	_	_	_	
+16-15	1668-1671	and	_	_	_	
+16-16	1672-1677	great	_	_	_	
+16-17	1678-1685	flights	_	_	_	
+16-18	1686-1688	of	_	_	_	
+16-19	1689-1696	smaller	_	_	_	
+16-20	1697-1702	birds	_	_	_	
+16-21	1703-1709	coming	_	_	_	
+16-22	1710-1712	on	_	_	_	
+16-23	1713-1715	to	_	_	_	
+16-24	1716-1720	Loch	_	_	_	
+16-25	1721-1723	Ba	_	_	_	
+16-26	1724-1727	and	_	_	_	
+16-27	1728-1732	Loch	_	_	_	
+16-28	1733-1739	Laidon	_	_	_	
+16-29	1740-1741	,	_	_	_	
+16-30	1742-1747	which	_	_	_	
+16-31	1748-1755	stretch	_	_	_	
+16-32	1756-1758	in	_	_	_	
+16-33	1759-1760	a	_	_	_	
+16-34	1761-1767	linked	_	_	_	
+16-35	1768-1776	waterway	_	_	_	
+16-36	1777-1780	ten	_	_	_	
+16-37	1781-1786	miles	_	_	_	
+16-38	1787-1793	across	_	_	_	
+16-39	1794-1797	the	_	_	_	
+16-40	1798-1802	moor	_	_	_	
+16-41	1803-1804	.	_	_	_	
+
+#Text=The scene from my watch-tower on the Buachaille showed me that the most interesting way of crossing the moor would be to keep close to the main chain of waterways , which rise in the Blackmount at Coire Ba of Stab Ghabhar , and run east through Lochan na Stainge , Loch Ba , and the five miles of Loch Laidon to Loch Rannoch-a distance of fifteen miles .
+17-1	1805-1808	The	_	_	_	
+17-2	1809-1814	scene	_	_	_	
+17-3	1815-1819	from	_	_	_	
+17-4	1820-1822	my	_	_	_	
+17-5	1823-1834	watch-tower	_	_	_	
+17-6	1835-1837	on	_	_	_	
+17-7	1838-1841	the	_	_	_	
+17-8	1842-1852	Buachaille	_	_	_	
+17-9	1853-1859	showed	_	_	_	
+17-10	1860-1862	me	_	_	_	
+17-11	1863-1867	that	_	_	_	
+17-12	1868-1871	the	_	_	_	
+17-13	1872-1876	most	_	_	_	
+17-14	1877-1888	interesting	_	_	_	
+17-15	1889-1892	way	_	_	_	
+17-16	1893-1895	of	_	_	_	
+17-17	1896-1904	crossing	zonal frame[1]	_	_	
+17-18	1905-1908	the	zonal frame[1]	*[2]	_	
+17-19	1909-1913	moor	zonal frame[1]	*[2]	_	
+17-20	1914-1919	would	_	_	_	
+17-21	1920-1922	be	_	_	_	
+17-22	1923-1925	to	_	_	_	
+17-23	1926-1930	keep	_	_	_	
+17-24	1931-1936	close	_	_	_	
+17-25	1937-1939	to	_	_	_	
+17-26	1940-1943	the	_	_	_	
+17-27	1944-1948	main	_	_	_	
+17-28	1949-1954	chain	_	_	_	
+17-29	1955-1957	of	_	_	_	
+17-30	1958-1967	waterways	_	_	_	
+17-31	1968-1969	,	_	_	_	
+17-32	1970-1975	which	_	_	_	
+17-33	1976-1980	rise	_	_	_	
+17-34	1981-1983	in	_	_	_	
+17-35	1984-1987	the	zonal frame[3]	_	*[4]	
+17-36	1988-1998	Blackmount	zonal frame[3]	_	*[4]	
+17-37	1999-2001	at	zonal frame[3]	_	_	
+17-38	2002-2007	Coire	zonal frame[3]	*[5]	_	
+17-39	2008-2010	Ba	zonal frame[3]	*[5]	_	
+17-40	2011-2013	of	_	_	_	
+17-41	2014-2018	Stab	_	_	_	
+17-42	2019-2026	Ghabhar	_	_	_	
+17-43	2027-2028	,	_	_	_	
+17-44	2029-2032	and	_	_	_	
+17-45	2033-2036	run	_	_	_	
+17-46	2037-2041	east	euclidean frame[6]	_	_	
+17-47	2042-2049	through	euclidean frame[6]	_	_	
+17-48	2050-2056	Lochan	euclidean frame[6]	*[7]	_	
+17-49	2057-2059	na	euclidean frame[6]	*[7]	_	
+17-50	2060-2067	Stainge	euclidean frame[6]	*[7]	_	
+17-51	2068-2069	,	_	_	_	
+17-52	2070-2074	Loch	_	_	_	
+17-53	2075-2077	Ba	_	_	_	
+17-54	2078-2079	,	_	_	_	
+17-55	2080-2083	and	_	_	_	
+17-56	2084-2087	the	_	_	_	
+17-57	2088-2092	five	_	_	_	
+17-58	2093-2098	miles	_	_	_	
+17-59	2099-2101	of	_	_	_	
+17-60	2102-2106	Loch	_	_	_	
+17-61	2107-2113	Laidon	_	_	_	
+17-62	2114-2116	to	_	_	_	
+17-63	2117-2121	Loch	_	_	_	
+17-64	2122-2131	Rannoch-a	_	_	_	
+17-65	2132-2140	distance	_	_	_	
+17-66	2141-2143	of	_	_	_	
+17-67	2144-2151	fifteen	_	_	_	
+17-68	2152-2157	miles	_	_	_	
+17-69	2158-2159	.	_	_	_	
+
+#Text=Loch Rannoch continues beyond the moor fifteen miles to Schichallion , thence by the Tummel and Tay to the North Sea .
+18-1	2160-2164	Loch	_	_	_	
+18-2	2165-2172	Rannoch	_	_	_	
+18-3	2173-2182	continues	_	_	_	
+18-4	2183-2189	beyond	_	_	_	
+18-5	2190-2193	the	_	_	_	
+18-6	2194-2198	moor	_	_	_	
+18-7	2199-2206	fifteen	_	_	_	
+18-8	2207-2212	miles	_	_	_	
+18-9	2213-2215	to	_	_	_	
+18-10	2216-2228	Schichallion	_	_	_	
+18-11	2229-2230	,	_	_	_	
+18-12	2231-2237	thence	_	_	_	
+18-13	2238-2240	by	_	_	_	
+18-14	2241-2244	the	_	_	_	
+18-15	2245-2251	Tummel	_	_	_	
+18-16	2252-2255	and	_	_	_	
+18-17	2256-2259	Tay	_	_	_	
+18-18	2260-2262	to	_	_	_	
+18-19	2263-2266	the	_	_	_	
+18-20	2267-2272	North	_	_	_	
+18-21	2273-2276	Sea	_	_	_	
+18-22	2277-2278	.	_	_	_	
+
+#Text=The moor 's northern boundary is the group of low hills called the Black Carries , the south boundary the high group of Achallader .
+19-1	2279-2282	The	_	_	_	
+19-2	2283-2287	moor	_	_	_	
+19-3	2288-2290	's	_	_	_	
+19-4	2291-2299	northern	_	_	_	
+19-5	2300-2308	boundary	_	_	_	
+19-6	2309-2311	is	_	_	_	
+19-7	2312-2315	the	_	_	_	
+19-8	2316-2321	group	_	_	_	
+19-9	2322-2324	of	_	_	_	
+19-10	2325-2328	low	_	_	_	
+19-11	2329-2334	hills	_	_	_	
+19-12	2335-2341	called	_	_	_	
+19-13	2342-2345	the	_	_	_	
+19-14	2346-2351	Black	_	_	_	
+19-15	2352-2359	Carries	_	_	_	
+19-16	2360-2361	,	_	_	_	
+19-17	2362-2365	the	euclidean frame[8]	_	_	
+19-18	2366-2371	south	euclidean frame[8]	_	_	
+19-19	2372-2380	boundary	euclidean frame[8]	*[9]	_	
+19-20	2381-2384	the	euclidean frame[8]	*[9]	_	
+19-21	2385-2389	high	euclidean frame[8]	*[9]	_	
+19-22	2390-2395	group	euclidean frame[8]	*[9]	_	
+19-23	2396-2398	of	euclidean frame[8]	*[9]	_	
+19-24	2399-2409	Achallader	euclidean frame[8]	*[9]	_	
+19-25	2410-2411	.	_	_	_	
+
+#Text=Its entire area is said to be fifty-six square miles .
+20-1	2412-2415	Its	_	_	_	
+20-2	2416-2422	entire	_	_	_	
+20-3	2423-2427	area	_	_	_	
+20-4	2428-2430	is	_	_	_	
+20-5	2431-2435	said	_	_	_	
+20-6	2436-2438	to	_	_	_	
+20-7	2439-2441	be	_	_	_	
+20-8	2442-2451	fifty-six	_	_	_	
+20-9	2452-2458	square	_	_	_	
+20-10	2459-2464	miles	_	_	_	
+20-11	2465-2466	.	_	_	_	
+
+#Text=My reason , now stripped of its old prejudice , informed me that from the centre of this unvisited moorland all the mountains circling round its rims would be seen anew , and charms not as yet known to me revealed .
+21-1	2467-2469	My	_	_	_	
+21-2	2470-2476	reason	_	_	_	
+21-3	2477-2478	,	_	_	_	
+21-4	2479-2482	now	_	_	_	
+21-5	2483-2491	stripped	_	_	_	
+21-6	2492-2494	of	_	_	_	
+21-7	2495-2498	its	_	_	_	
+21-8	2499-2502	old	_	_	_	
+21-9	2503-2512	prejudice	_	_	_	
+21-10	2513-2514	,	_	_	_	
+21-11	2515-2523	informed	_	_	_	
+21-12	2524-2526	me	_	_	_	
+21-13	2527-2531	that	_	_	_	
+21-14	2532-2536	from	_	_	_	
+21-15	2537-2540	the	_	_	_	
+21-16	2541-2547	centre	_	_	_	
+21-17	2548-2550	of	_	_	_	
+21-18	2551-2555	this	_	_	_	
+21-19	2556-2565	unvisited	_	_	_	
+21-20	2566-2574	moorland	_	_	_	
+21-21	2575-2578	all	_	_	_	
+21-22	2579-2582	the	_	_	_	
+21-23	2583-2592	mountains	_	_	_	
+21-24	2593-2601	circling	_	_	_	
+21-25	2602-2607	round	_	_	_	
+21-26	2608-2611	its	_	_	_	
+21-27	2612-2616	rims	_	_	_	
+21-28	2617-2622	would	_	_	_	
+21-29	2623-2625	be	_	_	_	
+21-30	2626-2630	seen	_	_	_	
+21-31	2631-2635	anew	_	_	_	
+21-32	2636-2637	,	_	_	_	
+21-33	2638-2641	and	_	_	_	
+21-34	2642-2648	charms	_	_	_	
+21-35	2649-2652	not	_	_	_	
+21-36	2653-2655	as	_	_	_	
+21-37	2656-2659	yet	_	_	_	
+21-38	2660-2665	known	_	_	_	
+21-39	2666-2668	to	_	_	_	
+21-40	2669-2671	me	_	_	_	
+21-41	2672-2680	revealed	_	_	_	
+21-42	2681-2682	.	_	_	_	
+
+#Text=And of the moor 's own secrets what did I really know ?
+22-1	2683-2686	And	_	_	_	
+22-2	2687-2689	of	_	_	_	
+22-3	2690-2693	the	_	_	_	
+22-4	2694-2698	moor	_	_	_	
+22-5	2699-2701	's	_	_	_	
+22-6	2702-2705	own	_	_	_	
+22-7	2706-2713	secrets	_	_	_	
+22-8	2714-2718	what	_	_	_	
+22-9	2719-2722	did	_	_	_	
+22-10	2723-2724	I	_	_	_	
+22-11	2725-2731	really	_	_	_	
+22-12	2732-2736	know	_	_	_	
+22-13	2737-2738	?	_	_	_	
+
+#Text=Not a thing .
+23-1	2739-2742	Not	_	_	_	
+23-2	2743-2744	a	_	_	_	
+23-3	2745-2750	thing	_	_	_	
+23-4	2751-2752	.	_	_	_	
+
+#Text=On an evening of mid-July I arrived by road at the south-west side of the moor and camped between Lochan na Stainge and Loch Ba .
+24-1	2753-2755	On	_	_	_	
+24-2	2756-2758	an	_	_	_	
+24-3	2759-2766	evening	_	_	_	
+24-4	2767-2769	of	_	_	_	
+24-5	2770-2778	mid-July	_	_	_	
+24-6	2779-2780	I	_	_	_	
+24-7	2781-2788	arrived	_	_	_	
+24-8	2789-2791	by	_	_	_	
+24-9	2792-2796	road	euclidean frame[10]	_	*[11]	
+24-10	2797-2799	at	euclidean frame[10]	_	_	
+24-11	2800-2803	the	euclidean frame[10]	_	_	
+24-12	2804-2814	south-west	euclidean frame[10]	_	_	
+24-13	2815-2819	side	euclidean frame[10]	_	_	
+24-14	2820-2822	of	euclidean frame[10]	_	_	
+24-15	2823-2826	the	euclidean frame[10]	*[12]	_	
+24-16	2827-2831	moor	euclidean frame[10]	*[12]	_	
+24-17	2832-2835	and	_	_	_	
+24-18	2836-2842	camped	_	_	_	
+24-19	2843-2850	between	betweeness frame[13]	_	_	
+24-20	2851-2857	Lochan	betweeness frame[13]	*[14]	_	
+24-21	2858-2860	na	betweeness frame[13]	*[14]	_	
+24-22	2861-2868	Stainge	betweeness frame[13]	*[14]	_	
+24-23	2869-2872	and	betweeness frame[13]	_	_	
+24-24	2873-2877	Loch	betweeness frame[13]	*[15]	_	
+24-25	2878-2880	Ba	betweeness frame[13]	*[15]	_	
+24-26	2881-2882	.	_	_	_	
+
+#Text=I came alone .
+25-1	2883-2884	I	_	_	_	
+25-2	2885-2889	came	_	_	_	
+25-3	2890-2895	alone	_	_	_	
+25-4	2896-2897	.	_	_	_	
+
+#Text=Let me confess at once that I prefer being alone among hills , provided that I am not climbing in the technical sense ; prefer it also on moors , unless in dirty weather .
+26-1	2898-2901	Let	_	_	_	
+26-2	2902-2904	me	_	_	_	
+26-3	2905-2912	confess	_	_	_	
+26-4	2913-2915	at	_	_	_	
+26-5	2916-2920	once	_	_	_	
+26-6	2921-2925	that	_	_	_	
+26-7	2926-2927	I	_	_	_	
+26-8	2928-2934	prefer	_	_	_	
+26-9	2935-2940	being	_	_	_	
+26-10	2941-2946	alone	_	_	_	
+26-11	2947-2952	among	_	_	_	
+26-12	2953-2958	hills	_	_	_	
+26-13	2959-2960	,	_	_	_	
+26-14	2961-2969	provided	_	_	_	
+26-15	2970-2974	that	_	_	_	
+26-16	2975-2976	I	_	_	_	
+26-17	2977-2979	am	_	_	_	
+26-18	2980-2983	not	_	_	_	
+26-19	2984-2992	climbing	_	_	_	
+26-20	2993-2995	in	_	_	_	
+26-21	2996-2999	the	_	_	_	
+26-22	3000-3009	technical	_	_	_	
+26-23	3010-3015	sense	_	_	_	
+26-24	3016-3017	;	_	_	_	
+26-25	3018-3024	prefer	_	_	_	
+26-26	3025-3027	it	_	_	_	
+26-27	3028-3032	also	_	_	_	
+26-28	3033-3035	on	_	_	_	
+26-29	3036-3041	moors	_	_	_	
+26-30	3042-3043	,	_	_	_	
+26-31	3044-3050	unless	_	_	_	
+26-32	3051-3053	in	_	_	_	
+26-33	3054-3059	dirty	_	_	_	
+26-34	3060-3067	weather	_	_	_	
+26-35	3068-3069	.	_	_	_	
+
+#Text=But on this occasion I was not quite alone .
+27-1	3070-3073	But	_	_	_	
+27-2	3074-3076	on	_	_	_	
+27-3	3077-3081	this	_	_	_	
+27-4	3082-3090	occasion	_	_	_	
+27-5	3091-3092	I	_	_	_	
+27-6	3093-3096	was	_	_	_	
+27-7	3097-3100	not	_	_	_	
+27-8	3101-3106	quite	_	_	_	
+27-9	3107-3112	alone	_	_	_	
+27-10	3113-3114	.	_	_	_	
+
+#Text=I had as company a Golden Labrador bitch called Heather .
+28-1	3115-3116	I	_	_	_	
+28-2	3117-3120	had	_	_	_	
+28-3	3121-3123	as	_	_	_	
+28-4	3124-3131	company	_	_	_	
+28-5	3132-3133	a	_	_	_	
+28-6	3134-3140	Golden	_	_	_	
+28-7	3141-3149	Labrador	_	_	_	
+28-8	3150-3155	bitch	_	_	_	
+28-9	3156-3162	called	_	_	_	
+28-10	3163-3170	Heather	_	_	_	
+28-11	3171-3172	.	_	_	_	
+
+#Text=She is a fine mountaineer with sufficient tops to her credit and ability enough on rock and snow to satisfy the Scrutinising Committee of the Scottish Mountaineering Club , from membership of which club she is disqualified only by sex .
+29-1	3173-3176	She	_	_	_	
+29-2	3177-3179	is	_	_	_	
+29-3	3180-3181	a	_	_	_	
+29-4	3182-3186	fine	_	_	_	
+29-5	3187-3198	mountaineer	_	_	_	
+29-6	3199-3203	with	_	_	_	
+29-7	3204-3214	sufficient	_	_	_	
+29-8	3215-3219	tops	_	_	_	
+29-9	3220-3222	to	_	_	_	
+29-10	3223-3226	her	_	_	_	
+29-11	3227-3233	credit	_	_	_	
+29-12	3234-3237	and	_	_	_	
+29-13	3238-3245	ability	_	_	_	
+29-14	3246-3252	enough	_	_	_	
+29-15	3253-3255	on	_	_	_	
+29-16	3256-3260	rock	_	_	_	
+29-17	3261-3264	and	_	_	_	
+29-18	3265-3269	snow	_	_	_	
+29-19	3270-3272	to	_	_	_	
+29-20	3273-3280	satisfy	_	_	_	
+29-21	3281-3284	the	_	_	_	
+29-22	3285-3297	Scrutinising	_	_	_	
+29-23	3298-3307	Committee	_	_	_	
+29-24	3308-3310	of	_	_	_	
+29-25	3311-3314	the	_	_	_	
+29-26	3315-3323	Scottish	_	_	_	
+29-27	3324-3338	Mountaineering	_	_	_	
+29-28	3339-3343	Club	_	_	_	
+29-29	3344-3345	,	_	_	_	
+29-30	3346-3350	from	_	_	_	
+29-31	3351-3361	membership	_	_	_	
+29-32	3362-3364	of	_	_	_	
+29-33	3365-3370	which	_	_	_	
+29-34	3371-3375	club	_	_	_	
+29-35	3376-3379	she	_	_	_	
+29-36	3380-3382	is	_	_	_	
+29-37	3383-3395	disqualified	_	_	_	
+29-38	3396-3400	only	_	_	_	
+29-39	3401-3403	by	_	_	_	
+29-40	3404-3407	sex	_	_	_	
+29-41	3408-3409	.	_	_	_	
+
+#Text=Her big black pads give her a grip on slabs and a quick , confident technique superior to that of her envious owner .
+30-1	3410-3413	Her	_	_	_	
+30-2	3414-3417	big	_	_	_	
+30-3	3418-3423	black	_	_	_	
+30-4	3424-3428	pads	_	_	_	
+30-5	3429-3433	give	_	_	_	
+30-6	3434-3437	her	_	_	_	
+30-7	3438-3439	a	_	_	_	
+30-8	3440-3444	grip	_	_	_	
+30-9	3445-3447	on	_	_	_	
+30-10	3448-3453	slabs	_	_	_	
+30-11	3454-3457	and	_	_	_	
+30-12	3458-3459	a	_	_	_	
+30-13	3460-3465	quick	_	_	_	
+30-14	3466-3467	,	_	_	_	
+30-15	3468-3477	confident	_	_	_	
+30-16	3478-3487	technique	_	_	_	
+30-17	3488-3496	superior	_	_	_	
+30-18	3497-3499	to	_	_	_	
+30-19	3500-3504	that	_	_	_	
+30-20	3505-3507	of	_	_	_	
+30-21	3508-3511	her	_	_	_	
+30-22	3512-3519	envious	_	_	_	
+30-23	3520-3525	owner	_	_	_	
+30-24	3526-3527	.	_	_	_	
+
+#Text=Like me she is twice as much alive among hills as at sea level .
+31-1	3528-3532	Like	_	_	_	
+31-2	3533-3535	me	_	_	_	
+31-3	3536-3539	she	_	_	_	
+31-4	3540-3542	is	_	_	_	
+31-5	3543-3548	twice	_	_	_	
+31-6	3549-3551	as	_	_	_	
+31-7	3552-3556	much	_	_	_	
+31-8	3557-3562	alive	_	_	_	
+31-9	3563-3568	among	_	_	_	
+31-10	3569-3574	hills	_	_	_	
+31-11	3575-3577	as	_	_	_	
+31-12	3578-3580	at	_	_	_	
+31-13	3581-3584	sea	_	_	_	
+31-14	3585-3590	level	_	_	_	
+31-15	3591-3592	.	_	_	_	
+
+#Text=And she does n't talk .
+32-1	3593-3596	And	_	_	_	
+32-2	3597-3600	she	_	_	_	
+32-3	3601-3605	does	_	_	_	
+32-4	3606-3609	n't	_	_	_	
+32-5	3610-3614	talk	_	_	_	
+32-6	3615-3616	.	_	_	_	
+
+#Text=She just looks ; which is quite enough .
+33-1	3617-3620	She	_	_	_	
+33-2	3621-3625	just	_	_	_	
+33-3	3626-3631	looks	_	_	_	
+33-4	3632-3633	;	_	_	_	
+33-5	3634-3639	which	_	_	_	
+33-6	3640-3642	is	_	_	_	
+33-7	3643-3648	quite	_	_	_	
+33-8	3649-3655	enough	_	_	_	
+33-9	3656-3657	.	_	_	_	
+
+#Text=We pitched the tent well to the east of Loch Ba because damp grey mist was rising off all the lochans .
+34-1	3658-3660	We	_	_	_	
+34-2	3661-3668	pitched	_	_	_	
+34-3	3669-3672	the	euclidean frame[16]	_	*[17]	
+34-4	3673-3677	tent	euclidean frame[16]	_	*[17]	
+34-5	3678-3682	well	euclidean frame[16]	_	_	
+34-6	3683-3685	to	euclidean frame[16]	_	_	
+34-7	3686-3689	the	euclidean frame[16]	_	_	
+34-8	3690-3694	east	euclidean frame[16]	_	_	
+34-9	3695-3697	of	euclidean frame[16]	_	_	
+34-10	3698-3702	Loch	euclidean frame[16]	*[18]	_	
+34-11	3703-3705	Ba	euclidean frame[16]	*[18]	_	
+34-12	3706-3713	because	_	_	_	
+34-13	3714-3718	damp	_	_	_	
+34-14	3719-3723	grey	_	_	_	
+34-15	3724-3728	mist	_	_	_	
+34-16	3729-3732	was	_	_	_	
+34-17	3733-3739	rising	_	_	_	
+34-18	3740-3743	off	_	_	_	
+34-19	3744-3747	all	_	_	_	
+34-20	3748-3751	the	_	_	_	
+34-21	3752-3759	lochans	_	_	_	
+34-22	3760-3761	.	_	_	_	
+
+#Text=The day had been very hot .
+35-1	3762-3765	The	_	_	_	
+35-2	3766-3769	day	_	_	_	
+35-3	3770-3773	had	_	_	_	
+35-4	3774-3778	been	_	_	_	
+35-5	3779-3783	very	_	_	_	
+35-6	3784-3787	hot	_	_	_	
+35-7	3788-3789	.	_	_	_	
+
+#Text=The fog , however , in appearance if not in temperature , was much like a mid-winter 's ground mist .
+36-1	3790-3793	The	_	_	_	
+36-2	3794-3797	fog	_	_	_	
+36-3	3798-3799	,	_	_	_	
+36-4	3800-3807	however	_	_	_	
+36-5	3808-3809	,	_	_	_	
+36-6	3810-3812	in	_	_	_	
+36-7	3813-3823	appearance	_	_	_	
+36-8	3824-3826	if	_	_	_	
+36-9	3827-3830	not	_	_	_	
+36-10	3831-3833	in	_	_	_	
+36-11	3834-3845	temperature	_	_	_	
+36-12	3846-3847	,	_	_	_	
+36-13	3848-3851	was	_	_	_	
+36-14	3852-3856	much	_	_	_	
+36-15	3857-3861	like	_	_	_	
+36-16	3862-3863	a	_	_	_	
+36-17	3864-3874	mid-winter	_	_	_	
+36-18	3875-3877	's	_	_	_	
+36-19	3878-3884	ground	_	_	_	
+36-20	3885-3889	mist	_	_	_	
+36-21	3890-3891	.	_	_	_	
+
+#Text=It cohered in banks , gently rolling sometimes this way and sometimes that , for no apparent reason-the night being windless .
+37-1	3892-3894	It	_	_	_	
+37-2	3895-3902	cohered	_	_	_	
+37-3	3903-3905	in	_	_	_	
+37-4	3906-3911	banks	_	_	_	
+37-5	3912-3913	,	_	_	_	
+37-6	3914-3920	gently	_	_	_	
+37-7	3921-3928	rolling	_	_	_	
+37-8	3929-3938	sometimes	_	_	_	
+37-9	3939-3943	this	_	_	_	
+37-10	3944-3947	way	_	_	_	
+37-11	3948-3951	and	_	_	_	
+37-12	3952-3961	sometimes	_	_	_	
+37-13	3962-3966	that	_	_	_	
+37-14	3967-3968	,	_	_	_	
+37-15	3969-3972	for	_	_	_	
+37-16	3973-3975	no	_	_	_	
+37-17	3976-3984	apparent	_	_	_	
+37-18	3985-3995	reason-the	_	_	_	
+37-19	3996-4001	night	_	_	_	
+37-20	4002-4007	being	_	_	_	
+37-21	4008-4016	windless	_	_	_	
+37-22	4017-4018	.	_	_	_	
+
+#Text=The sinuous sway of its forms would have been a perfect medium for the weird display of light had only the moon been full .
+38-1	4019-4022	The	_	_	_	
+38-2	4023-4030	sinuous	_	_	_	
+38-3	4031-4035	sway	_	_	_	
+38-4	4036-4038	of	_	_	_	
+38-5	4039-4042	its	_	_	_	
+38-6	4043-4048	forms	_	_	_	
+38-7	4049-4054	would	_	_	_	
+38-8	4055-4059	have	_	_	_	
+38-9	4060-4064	been	_	_	_	
+38-10	4065-4066	a	_	_	_	
+38-11	4067-4074	perfect	_	_	_	
+38-12	4075-4081	medium	_	_	_	
+38-13	4082-4085	for	_	_	_	
+38-14	4086-4089	the	_	_	_	
+38-15	4090-4095	weird	_	_	_	
+38-16	4096-4103	display	_	_	_	
+38-17	4104-4106	of	_	_	_	
+38-18	4107-4112	light	_	_	_	
+38-19	4113-4116	had	_	_	_	
+38-20	4117-4121	only	_	_	_	
+38-21	4122-4125	the	_	_	_	
+38-22	4126-4130	moon	_	_	_	
+38-23	4131-4135	been	_	_	_	
+38-24	4136-4140	full	_	_	_	
+38-25	4141-4142	.	_	_	_	
+
+#Text=But the stars were strong in a black sky and the mists greyly chill .
+39-1	4143-4146	But	_	_	_	
+39-2	4147-4150	the	_	_	_	
+39-3	4151-4156	stars	_	_	_	
+39-4	4157-4161	were	_	_	_	
+39-5	4162-4168	strong	_	_	_	
+39-6	4169-4171	in	_	_	_	
+39-7	4172-4173	a	_	_	_	
+39-8	4174-4179	black	_	_	_	
+39-9	4180-4183	sky	_	_	_	
+39-10	4184-4187	and	_	_	_	
+39-11	4188-4191	the	_	_	_	
+39-12	4192-4197	mists	_	_	_	
+39-13	4198-4204	greyly	_	_	_	
+39-14	4205-4210	chill	_	_	_	
+39-15	4211-4212	.	_	_	_	
+
+#Text=I had deliberately pitched the tent on top of thick heather and thus had a springy couch under me for my night 's sleep .
+40-1	4213-4214	I	_	_	_	
+40-2	4215-4218	had	_	_	_	
+40-3	4219-4231	deliberately	_	_	_	
+40-4	4232-4239	pitched	_	_	_	
+40-5	4240-4243	the	euclidean frame[19]	_	*[20]	
+40-6	4244-4248	tent	euclidean frame[19]	_	*[20]	
+40-7	4249-4251	on	euclidean frame[19]	_	_	
+40-8	4252-4255	top	euclidean frame[19]	_	_	
+40-9	4256-4258	of	euclidean frame[19]	_	_	
+40-10	4259-4264	thick	euclidean frame[19]	*[21]	_	
+40-11	4265-4272	heather	euclidean frame[19]	*[21]	_	
+40-12	4273-4276	and	_	_	_	
+40-13	4277-4281	thus	_	_	_	
+40-14	4282-4285	had	_	_	_	
+40-15	4286-4287	a	_	_	_	
+40-16	4288-4295	springy	_	_	_	
+40-17	4296-4301	couch	_	_	_	
+40-18	4302-4307	under	_	_	_	
+40-19	4308-4310	me	_	_	_	
+40-20	4311-4314	for	_	_	_	
+40-21	4315-4317	my	_	_	_	
+40-22	4318-4323	night	_	_	_	
+40-23	4324-4326	's	_	_	_	
+40-24	4327-4332	sleep	_	_	_	
+40-25	4333-4334	.	_	_	_	
+
+#Text=The other Heather curled up at my feet .
+41-1	4335-4338	The	_	_	_	
+41-2	4339-4344	other	_	_	_	
+41-3	4345-4352	Heather	_	_	_	
+41-4	4353-4359	curled	_	_	_	
+41-5	4360-4362	up	_	_	_	
+41-6	4363-4365	at	_	_	_	
+41-7	4366-4368	my	_	_	_	
+41-8	4369-4373	feet	_	_	_	
+41-9	4374-4375	.	_	_	_	
+
+#Text=After the experimental nibbles at my toes were over she made an excellent hot-water bottle .
+42-1	4376-4381	After	_	_	_	
+42-2	4382-4385	the	_	_	_	
+42-3	4386-4398	experimental	_	_	_	
+42-4	4399-4406	nibbles	_	_	_	
+42-5	4407-4409	at	_	_	_	
+42-6	4410-4412	my	_	_	_	
+42-7	4413-4417	toes	_	_	_	
+42-8	4418-4422	were	_	_	_	
+42-9	4423-4427	over	_	_	_	
+42-10	4428-4431	she	_	_	_	
+42-11	4432-4436	made	_	_	_	
+42-12	4437-4439	an	_	_	_	
+42-13	4440-4449	excellent	_	_	_	
+42-14	4450-4459	hot-water	_	_	_	
+42-15	4460-4466	bottle	_	_	_	
+42-16	4467-4468	.	_	_	_	
+
+#Text=We rose at sunrise .
+43-1	4469-4471	We	_	_	_	
+43-2	4472-4476	rose	_	_	_	
+43-3	4477-4479	at	_	_	_	
+43-4	4480-4487	sunrise	_	_	_	
+43-5	4488-4489	.	_	_	_	
+
+#Text=Not a trace of mist remained ; nor was there any cloud in the sky .
+44-1	4490-4493	Not	_	_	_	
+44-2	4494-4495	a	_	_	_	
+44-3	4496-4501	trace	_	_	_	
+44-4	4502-4504	of	_	_	_	
+44-5	4505-4509	mist	_	_	_	
+44-6	4510-4518	remained	_	_	_	
+44-7	4519-4520	;	_	_	_	
+44-8	4521-4524	nor	_	_	_	
+44-9	4525-4528	was	_	_	_	
+44-10	4529-4534	there	_	_	_	
+44-11	4535-4538	any	_	_	_	
+44-12	4539-4544	cloud	_	_	_	
+44-13	4545-4547	in	_	_	_	
+44-14	4548-4551	the	_	_	_	
+44-15	4552-4555	sky	_	_	_	
+44-16	4556-4557	.	_	_	_	
+
+#Text=So striking was the latter fact that I realized how often in the past I must have talked about cloudless skies without ever having spoken strict truth , save in reference to a narrow view from close country .
+45-1	4558-4560	So	_	_	_	
+45-2	4561-4569	striking	_	_	_	
+45-3	4570-4573	was	_	_	_	
+45-4	4574-4577	the	_	_	_	
+45-5	4578-4584	latter	_	_	_	
+45-6	4585-4589	fact	_	_	_	
+45-7	4590-4594	that	_	_	_	
+45-8	4595-4596	I	_	_	_	
+45-9	4597-4605	realized	_	_	_	
+45-10	4606-4609	how	_	_	_	
+45-11	4610-4615	often	_	_	_	
+45-12	4616-4618	in	_	_	_	
+45-13	4619-4622	the	_	_	_	
+45-14	4623-4627	past	_	_	_	
+45-15	4628-4629	I	_	_	_	
+45-16	4630-4634	must	_	_	_	
+45-17	4635-4639	have	_	_	_	
+45-18	4640-4646	talked	_	_	_	
+45-19	4647-4652	about	_	_	_	
+45-20	4653-4662	cloudless	_	_	_	
+45-21	4663-4668	skies	_	_	_	
+45-22	4669-4676	without	_	_	_	
+45-23	4677-4681	ever	_	_	_	
+45-24	4682-4688	having	_	_	_	
+45-25	4689-4695	spoken	_	_	_	
+45-26	4696-4702	strict	_	_	_	
+45-27	4703-4708	truth	_	_	_	
+45-28	4709-4710	,	_	_	_	
+45-29	4711-4715	save	_	_	_	
+45-30	4716-4718	in	_	_	_	
+45-31	4719-4728	reference	_	_	_	
+45-32	4729-4731	to	_	_	_	
+45-33	4732-4733	a	_	_	_	
+45-34	4734-4740	narrow	_	_	_	
+45-35	4741-4745	view	_	_	_	
+45-36	4746-4750	from	_	_	_	
+45-37	4751-4756	close	_	_	_	
+45-38	4757-4764	country	_	_	_	
+45-39	4765-4766	.	_	_	_	
+
+#Text=In the wider mountain skyscape , always , in some quarter of that mountain sky there has been cloud , perhaps a long bar of cumulus low down at the horizon , or a few puffs glimpsed through a pass .
+46-1	4767-4769	In	_	_	_	
+46-2	4770-4773	the	_	_	_	
+46-3	4774-4779	wider	_	_	_	
+46-4	4780-4788	mountain	_	_	_	
+46-5	4789-4797	skyscape	_	_	_	
+46-6	4798-4799	,	_	_	_	
+46-7	4800-4806	always	_	_	_	
+46-8	4807-4808	,	_	_	_	
+46-9	4809-4811	in	_	_	_	
+46-10	4812-4816	some	_	_	_	
+46-11	4817-4824	quarter	_	_	_	
+46-12	4825-4827	of	_	_	_	
+46-13	4828-4832	that	_	_	_	
+46-14	4833-4841	mountain	_	_	_	
+46-15	4842-4845	sky	_	_	_	
+46-16	4846-4851	there	_	_	_	
+46-17	4852-4855	has	_	_	_	
+46-18	4856-4860	been	_	_	_	
+46-19	4861-4866	cloud	_	_	_	
+46-20	4867-4868	,	_	_	_	
+46-21	4869-4876	perhaps	_	_	_	
+46-22	4877-4878	a	_	_	_	
+46-23	4879-4883	long	_	_	_	
+46-24	4884-4887	bar	_	_	_	
+46-25	4888-4890	of	_	_	_	
+46-26	4891-4898	cumulus	_	_	_	
+46-27	4899-4902	low	_	_	_	
+46-28	4903-4907	down	_	_	_	
+46-29	4908-4910	at	_	_	_	
+46-30	4911-4914	the	_	_	_	
+46-31	4915-4922	horizon	_	_	_	
+46-32	4923-4924	,	_	_	_	
+46-33	4925-4927	or	_	_	_	
+46-34	4928-4929	a	_	_	_	
+46-35	4930-4933	few	_	_	_	
+46-36	4934-4939	puffs	_	_	_	
+46-37	4940-4948	glimpsed	_	_	_	
+46-38	4949-4956	through	_	_	_	
+46-39	4957-4958	a	_	_	_	
+46-40	4959-4963	pass	_	_	_	
+46-41	4964-4965	.	_	_	_	
+
+#Text=But to-day east , north , west , and south-clear sky , peculiarly and luminously empty like a heavenly vacuum .
+47-1	4966-4969	But	_	_	_	
+47-2	4970-4976	to-day	_	_	_	
+47-3	4977-4981	east	_	_	_	
+47-4	4982-4983	,	_	_	_	
+47-5	4984-4989	north	_	_	_	
+47-6	4990-4991	,	_	_	_	
+47-7	4992-4996	west	_	_	_	
+47-8	4997-4998	,	_	_	_	
+47-9	4999-5002	and	_	_	_	
+47-10	5003-5014	south-clear	_	_	_	
+47-11	5015-5018	sky	_	_	_	
+47-12	5019-5020	,	_	_	_	
+47-13	5021-5031	peculiarly	_	_	_	
+47-14	5032-5035	and	_	_	_	
+47-15	5036-5046	luminously	_	_	_	
+47-16	5047-5052	empty	_	_	_	
+47-17	5053-5057	like	_	_	_	
+47-18	5058-5059	a	_	_	_	
+47-19	5060-5068	heavenly	_	_	_	
+47-20	5069-5075	vacuum	_	_	_	
+47-21	5076-5077	.	_	_	_	
+
+#Text=From behind the blue a colourless radiance shone , more than usually suggestive of infinite space and of the reality of that infinity .
+48-1	5078-5082	From	_	_	_	
+48-2	5083-5089	behind	_	_	_	
+48-3	5090-5093	the	_	_	_	
+48-4	5094-5098	blue	_	_	_	
+48-5	5099-5100	a	_	_	_	
+48-6	5101-5111	colourless	_	_	_	
+48-7	5112-5120	radiance	_	_	_	
+48-8	5121-5126	shone	_	_	_	
+48-9	5127-5128	,	_	_	_	
+48-10	5129-5133	more	_	_	_	
+48-11	5134-5138	than	_	_	_	
+48-12	5139-5146	usually	_	_	_	
+48-13	5147-5157	suggestive	_	_	_	
+48-14	5158-5160	of	_	_	_	
+48-15	5161-5169	infinite	_	_	_	
+48-16	5170-5175	space	_	_	_	
+48-17	5176-5179	and	_	_	_	
+48-18	5180-5182	of	_	_	_	
+48-19	5183-5186	the	_	_	_	
+48-20	5187-5194	reality	_	_	_	
+48-21	5195-5197	of	_	_	_	
+48-22	5198-5202	that	_	_	_	
+48-23	5203-5211	infinity	_	_	_	
+48-24	5212-5213	.	_	_	_	
+
+#Text=Provided that this were seen at all there could be engendered only one attitude of mind , that of a reverential awe .
+49-1	5214-5222	Provided	_	_	_	
+49-2	5223-5227	that	_	_	_	
+49-3	5228-5232	this	_	_	_	
+49-4	5233-5237	were	_	_	_	
+49-5	5238-5242	seen	_	_	_	
+49-6	5243-5245	at	_	_	_	
+49-7	5246-5249	all	_	_	_	
+49-8	5250-5255	there	_	_	_	
+49-9	5256-5261	could	_	_	_	
+49-10	5262-5264	be	_	_	_	
+49-11	5265-5275	engendered	_	_	_	
+49-12	5276-5280	only	_	_	_	
+49-13	5281-5284	one	_	_	_	
+49-14	5285-5293	attitude	_	_	_	
+49-15	5294-5296	of	_	_	_	
+49-16	5297-5301	mind	_	_	_	
+49-17	5302-5303	,	_	_	_	
+49-18	5304-5308	that	_	_	_	
+49-19	5309-5311	of	_	_	_	
+49-20	5312-5313	a	_	_	_	
+49-21	5314-5325	reverential	_	_	_	
+49-22	5326-5329	awe	_	_	_	
+49-23	5330-5331	.	_	_	_	
+
+#Text=After sharing the dog 's breakfast I struck camp and left the tent at the roadside to be collected later by passing friends .
+50-1	5332-5337	After	_	_	_	
+50-2	5338-5345	sharing	_	_	_	
+50-3	5346-5349	the	_	_	_	
+50-4	5350-5353	dog	_	_	_	
+50-5	5354-5356	's	_	_	_	
+50-6	5357-5366	breakfast	_	_	_	
+50-7	5367-5368	I	_	_	_	
+50-8	5369-5375	struck	_	_	_	
+50-9	5376-5380	camp	_	_	_	
+50-10	5381-5384	and	_	_	_	
+50-11	5385-5389	left	zonal frame[22]	_	_	
+50-12	5390-5393	the	zonal frame[22]	*[23]	_	
+50-13	5394-5398	tent	zonal frame[22]	*[23]	_	
+50-14	5399-5401	at	_	_	_	
+50-15	5402-5405	the	_	_	_	
+50-16	5406-5414	roadside	_	_	_	
+50-17	5415-5417	to	_	_	_	
+50-18	5418-5420	be	_	_	_	
+50-19	5421-5430	collected	_	_	_	
+50-20	5431-5436	later	_	_	_	
+50-21	5437-5439	by	_	_	_	
+50-22	5440-5447	passing	_	_	_	
+50-23	5448-5455	friends	_	_	_	
+50-24	5456-5457	.	_	_	_	
+
+#Text=By six we were away .
+51-1	5458-5460	By	_	_	_	
+51-2	5461-5464	six	_	_	_	
+51-3	5465-5467	we	_	_	_	
+51-4	5468-5472	were	_	_	_	
+51-5	5473-5477	away	_	_	_	
+51-6	5478-5479	.	_	_	_	
+
+#Text=The early start was necessary because I intended to make a double traverse-ten miles north-east to Rannoch station , then thirteen miles west back to Kingshouse , Glencoe-and because I had a strong suspicion that distances on Rannoch Moor were to be measured in time , not miles .
+52-1	5480-5483	The	_	_	_	
+52-2	5484-5489	early	_	_	_	
+52-3	5490-5495	start	_	_	_	
+52-4	5496-5499	was	_	_	_	
+52-5	5500-5509	necessary	_	_	_	
+52-6	5510-5517	because	_	_	_	
+52-7	5518-5519	I	_	_	_	
+52-8	5520-5528	intended	_	_	_	
+52-9	5529-5531	to	_	_	_	
+52-10	5532-5536	make	_	_	_	
+52-11	5537-5538	a	_	_	_	
+52-12	5539-5545	double	_	_	_	
+52-13	5546-5558	traverse-ten	_	_	_	
+52-14	5559-5564	miles	_	_	_	
+52-15	5565-5575	north-east	_	_	_	
+52-16	5576-5578	to	_	_	_	
+52-17	5579-5586	Rannoch	_	_	_	
+52-18	5587-5594	station	_	_	_	
+52-19	5595-5596	,	_	_	_	
+52-20	5597-5601	then	_	_	_	
+52-21	5602-5610	thirteen	_	_	_	
+52-22	5611-5616	miles	_	_	_	
+52-23	5617-5621	west	_	_	_	
+52-24	5622-5626	back	_	_	_	
+52-25	5627-5629	to	_	_	_	
+52-26	5630-5640	Kingshouse	_	_	_	
+52-27	5641-5642	,	_	_	_	
+52-28	5643-5654	Glencoe-and	_	_	_	
+52-29	5655-5662	because	_	_	_	
+52-30	5663-5664	I	_	_	_	
+52-31	5665-5668	had	_	_	_	
+52-32	5669-5670	a	_	_	_	
+52-33	5671-5677	strong	_	_	_	
+52-34	5678-5687	suspicion	_	_	_	
+52-35	5688-5692	that	_	_	_	
+52-36	5693-5702	distances	_	_	_	
+52-37	5703-5705	on	_	_	_	
+52-38	5706-5713	Rannoch	_	_	_	
+52-39	5714-5718	Moor	_	_	_	
+52-40	5719-5723	were	_	_	_	
+52-41	5724-5726	to	_	_	_	
+52-42	5727-5729	be	_	_	_	
+52-43	5730-5738	measured	_	_	_	
+52-44	5739-5741	in	_	_	_	
+52-45	5742-5746	time	_	_	_	
+52-46	5747-5748	,	_	_	_	
+52-47	5749-5752	not	_	_	_	
+52-48	5753-5758	miles	_	_	_	
+52-49	5759-5760	.	_	_	_	
+
+#Text=The first passage along the east side of Loch Ba gave us the heaviest going of the day ; the heather was longer there and the ground broken by hummocky ridges and old water-courses .
+53-1	5761-5764	The	_	_	_	
+53-2	5765-5770	first	_	_	_	
+53-3	5771-5778	passage	_	_	_	
+53-4	5779-5784	along	linear construction frame[24]	_	_	
+53-5	5785-5788	the	linear construction frame[24]	_	_	
+53-6	5789-5793	east	linear construction frame[24]	_	_	
+53-7	5794-5798	side	linear construction frame[24]	_	_	
+53-8	5799-5801	of	linear construction frame[24]	_	_	
+53-9	5802-5806	Loch	linear construction frame[24]	*[25]	_	
+53-10	5807-5809	Ba	linear construction frame[24]	*[25]	_	
+53-11	5810-5814	gave	_	_	_	
+53-12	5815-5817	us	_	_	_	
+53-13	5818-5821	the	_	_	_	
+53-14	5822-5830	heaviest	_	_	_	
+53-15	5831-5836	going	_	_	_	
+53-16	5837-5839	of	_	_	_	
+53-17	5840-5843	the	_	_	_	
+53-18	5844-5847	day	_	_	_	
+53-19	5848-5849	;	_	_	_	
+53-20	5850-5853	the	_	_	_	
+53-21	5854-5861	heather	_	_	_	
+53-22	5862-5865	was	_	_	_	
+53-23	5866-5872	longer	_	_	_	
+53-24	5873-5878	there	_	_	_	
+53-25	5879-5882	and	_	_	_	
+53-26	5883-5886	the	_	_	_	
+53-27	5887-5893	ground	_	_	_	
+53-28	5894-5900	broken	_	_	_	
+53-29	5901-5903	by	_	_	_	
+53-30	5904-5912	hummocky	_	_	_	
+53-31	5913-5919	ridges	_	_	_	
+53-32	5920-5923	and	_	_	_	
+53-33	5924-5927	old	_	_	_	
+53-34	5928-5941	water-courses	_	_	_	
+53-35	5942-5943	.	_	_	_	
+
+#Text=A short and twisting river linked Loch Ba to Loch Laidon .
+54-1	5944-5945	A	_	_	_	
+54-2	5946-5951	short	_	_	_	
+54-3	5952-5955	and	_	_	_	
+54-4	5956-5964	twisting	_	_	_	
+54-5	5965-5970	river	topological frame[26]	_	*[27]	
+54-6	5971-5977	linked	topological frame[26]	_	_	
+54-7	5978-5982	Loch	topological frame[26]	*[28]	_	
+54-8	5983-5985	Ba	topological frame[26]	*[28]	_	
+54-9	5986-5988	to	topological frame[26]	_	_	
+54-10	5989-5993	Loch	topological frame[26]	*[29]	_	
+54-11	5994-6000	Laidon	topological frame[26]	*[29]	_	
+54-12	6001-6002	.	_	_	_	
+
+#Text=It was at these two ends of the two lochs that I had seen wild swans fly in and duck come down among the heather .
+55-1	6003-6005	It	_	_	_	
+55-2	6006-6009	was	_	_	_	
+55-3	6010-6012	at	_	_	_	
+55-4	6013-6018	these	_	_	_	
+55-5	6019-6022	two	_	_	_	
+55-6	6023-6027	ends	_	_	_	
+55-7	6028-6030	of	_	_	_	
+55-8	6031-6034	the	_	_	_	
+55-9	6035-6038	two	_	_	_	
+55-10	6039-6044	lochs	_	_	_	
+55-11	6045-6049	that	_	_	_	
+55-12	6050-6051	I	_	_	_	
+55-13	6052-6055	had	_	_	_	
+55-14	6056-6060	seen	_	_	_	
+55-15	6061-6065	wild	_	_	_	
+55-16	6066-6071	swans	_	_	_	
+55-17	6072-6075	fly	_	_	_	
+55-18	6076-6078	in	_	_	_	
+55-19	6079-6082	and	_	_	_	
+55-20	6083-6087	duck	_	_	_	
+55-21	6088-6092	come	_	_	_	
+55-22	6093-6097	down	_	_	_	
+55-23	6098-6103	among	_	_	_	
+55-24	6104-6107	the	_	_	_	
+55-25	6108-6115	heather	_	_	_	
+55-26	6116-6117	.	_	_	_	
+
+#Text=In the breeding season black- and red-throated divers visit the lochs and behave like submarines when alarmed , slowly submerging until only the head and neck remain above water , like a periscope .
+56-1	6118-6120	In	_	_	_	
+56-2	6121-6124	the	_	_	_	
+56-3	6125-6133	breeding	_	_	_	
+56-4	6134-6140	season	_	_	_	
+56-5	6141-6147	black-	_	_	_	
+56-6	6148-6151	and	_	_	_	
+56-7	6152-6164	red-throated	_	_	_	
+56-8	6165-6171	divers	_	_	_	
+56-9	6172-6177	visit	_	_	_	
+56-10	6178-6181	the	_	_	_	
+56-11	6182-6187	lochs	_	_	_	
+56-12	6188-6191	and	_	_	_	
+56-13	6192-6198	behave	_	_	_	
+56-14	6199-6203	like	_	_	_	
+56-15	6204-6214	submarines	_	_	_	
+56-16	6215-6219	when	_	_	_	
+56-17	6220-6227	alarmed	_	_	_	
+56-18	6228-6229	,	_	_	_	
+56-19	6230-6236	slowly	_	_	_	
+56-20	6237-6247	submerging	_	_	_	
+56-21	6248-6253	until	_	_	_	
+56-22	6254-6258	only	_	_	_	
+56-23	6259-6262	the	_	_	_	
+56-24	6263-6267	head	_	_	_	
+56-25	6268-6271	and	_	_	_	
+56-26	6272-6276	neck	_	_	_	
+56-27	6277-6283	remain	_	_	_	
+56-28	6284-6289	above	_	_	_	
+56-29	6290-6295	water	_	_	_	
+56-30	6296-6297	,	_	_	_	
+56-31	6298-6302	like	_	_	_	
+56-32	6303-6304	a	_	_	_	
+56-33	6305-6314	periscope	_	_	_	
+56-34	6315-6316	.	_	_	_	
+
+#Text=The wide mosses farther away from the lochs harbour greenshanks .
+57-1	6317-6320	The	_	_	_	
+57-2	6321-6325	wide	_	_	_	
+57-3	6326-6332	mosses	_	_	_	
+57-4	6333-6340	farther	_	_	_	
+57-5	6341-6345	away	zonal frame[30]	_	_	
+57-6	6346-6350	from	zonal frame[30]	_	_	
+57-7	6351-6354	the	zonal frame[30]	*[31]	_	
+57-8	6355-6360	lochs	zonal frame[30]	*[31]	_	
+57-9	6361-6368	harbour	_	_	_	
+57-10	6369-6380	greenshanks	_	_	_	
+57-11	6381-6382	.	_	_	_	
+
+#Text=And that is the limit of my knowledge about Rannoch bird life , which is certain to be very much more extensive than I ever dream .
+58-1	6383-6386	And	_	_	_	
+58-2	6387-6391	that	_	_	_	
+58-3	6392-6394	is	_	_	_	
+58-4	6395-6398	the	_	_	_	
+58-5	6399-6404	limit	_	_	_	
+58-6	6405-6407	of	_	_	_	
+58-7	6408-6410	my	_	_	_	
+58-8	6411-6420	knowledge	_	_	_	
+58-9	6421-6426	about	_	_	_	
+58-10	6427-6434	Rannoch	_	_	_	
+58-11	6435-6439	bird	_	_	_	
+58-12	6440-6444	life	_	_	_	
+58-13	6445-6446	,	_	_	_	
+58-14	6447-6452	which	_	_	_	
+58-15	6453-6455	is	_	_	_	
+58-16	6456-6463	certain	_	_	_	
+58-17	6464-6466	to	_	_	_	
+58-18	6467-6469	be	_	_	_	
+58-19	6470-6474	very	_	_	_	
+58-20	6475-6479	much	_	_	_	
+58-21	6480-6484	more	_	_	_	
+58-22	6485-6494	extensive	_	_	_	
+58-23	6495-6499	than	_	_	_	
+58-24	6500-6501	I	_	_	_	
+58-25	6502-6506	ever	_	_	_	
+58-26	6507-6512	dream	_	_	_	
+58-27	6513-6514	.	_	_	_	
+
+#Text=These lochs would repay the bird-watcher .
+59-1	6515-6520	These	_	_	_	
+59-2	6521-6526	lochs	_	_	_	
+59-3	6527-6532	would	_	_	_	
+59-4	6533-6538	repay	_	_	_	
+59-5	6539-6542	the	_	_	_	
+59-6	6543-6555	bird-watcher	_	_	_	
+59-7	6556-6557	.	_	_	_	
+
+#Text=I should be most interested to know , for example , what birds find food or shelter on the wooded islands .
+60-1	6558-6559	I	_	_	_	
+60-2	6560-6566	should	_	_	_	
+60-3	6567-6569	be	_	_	_	
+60-4	6570-6574	most	_	_	_	
+60-5	6575-6585	interested	_	_	_	
+60-6	6586-6588	to	_	_	_	
+60-7	6589-6593	know	_	_	_	
+60-8	6594-6595	,	_	_	_	
+60-9	6596-6599	for	_	_	_	
+60-10	6600-6607	example	_	_	_	
+60-11	6608-6609	,	_	_	_	
+60-12	6610-6614	what	_	_	_	
+60-13	6615-6620	birds	_	_	_	
+60-14	6621-6625	find	_	_	_	
+60-15	6626-6630	food	_	_	_	
+60-16	6631-6633	or	_	_	_	
+60-17	6634-6641	shelter	_	_	_	
+60-18	6642-6644	on	_	_	_	
+60-19	6645-6648	the	_	_	_	
+60-20	6649-6655	wooded	_	_	_	
+60-21	6656-6663	islands	_	_	_	
+60-22	6664-6665	.	_	_	_	
+
+#Text=They are small islands , well wooded with birch , yew , and pine-indicating that Rannoch Moor might yet revert to its Old Wood of Caledon days were it not for the hungry deer .
+61-1	6666-6670	They	_	_	_	
+61-2	6671-6674	are	_	_	_	
+61-3	6675-6680	small	_	_	_	
+61-4	6681-6688	islands	_	_	_	
+61-5	6689-6690	,	_	_	_	
+61-6	6691-6695	well	_	_	_	
+61-7	6696-6702	wooded	_	_	_	
+61-8	6703-6707	with	_	_	_	
+61-9	6708-6713	birch	_	_	_	
+61-10	6714-6715	,	_	_	_	
+61-11	6716-6719	yew	_	_	_	
+61-12	6720-6721	,	_	_	_	
+61-13	6722-6725	and	_	_	_	
+61-14	6726-6741	pine-indicating	_	_	_	
+61-15	6742-6746	that	_	_	_	
+61-16	6747-6754	Rannoch	_	_	_	
+61-17	6755-6759	Moor	_	_	_	
+61-18	6760-6765	might	_	_	_	
+61-19	6766-6769	yet	_	_	_	
+61-20	6770-6776	revert	_	_	_	
+61-21	6777-6779	to	_	_	_	
+61-22	6780-6783	its	_	_	_	
+61-23	6784-6787	Old	_	_	_	
+61-24	6788-6792	Wood	_	_	_	
+61-25	6793-6795	of	_	_	_	
+61-26	6796-6803	Caledon	_	_	_	
+61-27	6804-6808	days	_	_	_	
+61-28	6809-6813	were	_	_	_	
+61-29	6814-6816	it	_	_	_	
+61-30	6817-6820	not	_	_	_	
+61-31	6821-6824	for	_	_	_	
+61-32	6825-6828	the	_	_	_	
+61-33	6829-6835	hungry	_	_	_	
+61-34	6836-6840	deer	_	_	_	
+61-35	6841-6842	.	_	_	_	
+
+#Text=I should like to be spared the wolves , the brown bear , the boar , and the outlawed brigands , but the natural forest that sheltered them I would have back if I could .
+62-1	6843-6844	I	_	_	_	
+62-2	6845-6851	should	_	_	_	
+62-3	6852-6856	like	_	_	_	
+62-4	6857-6859	to	_	_	_	
+62-5	6860-6862	be	_	_	_	
+62-6	6863-6869	spared	_	_	_	
+62-7	6870-6873	the	_	_	_	
+62-8	6874-6880	wolves	_	_	_	
+62-9	6881-6882	,	_	_	_	
+62-10	6883-6886	the	_	_	_	
+62-11	6887-6892	brown	_	_	_	
+62-12	6893-6897	bear	_	_	_	
+62-13	6898-6899	,	_	_	_	
+62-14	6900-6903	the	_	_	_	
+62-15	6904-6908	boar	_	_	_	
+62-16	6909-6910	,	_	_	_	
+62-17	6911-6914	and	_	_	_	
+62-18	6915-6918	the	_	_	_	
+62-19	6919-6927	outlawed	_	_	_	
+62-20	6928-6936	brigands	_	_	_	
+62-21	6937-6938	,	_	_	_	
+62-22	6939-6942	but	_	_	_	
+62-23	6943-6946	the	_	_	_	
+62-24	6947-6954	natural	_	_	_	
+62-25	6955-6961	forest	_	_	_	
+62-26	6962-6966	that	_	_	_	
+62-27	6967-6976	sheltered	_	_	_	
+62-28	6977-6981	them	_	_	_	
+62-29	6982-6983	I	_	_	_	
+62-30	6984-6989	would	_	_	_	
+62-31	6990-6994	have	_	_	_	
+62-32	6995-6999	back	_	_	_	
+62-33	7000-7002	if	_	_	_	
+62-34	7003-7004	I	_	_	_	
+62-35	7005-7010	could	_	_	_	
+62-36	7011-7012	.	_	_	_	
+
+#Text=New growth seems to flourish on the water-protected isles , which are inaccessible except to a man prepared to swim a hundred yards-and , if he wants to botanize or bird-watch , to push a raft with his clothing in front of him .
+63-1	7013-7016	New	_	_	_	
+63-2	7017-7023	growth	_	_	_	
+63-3	7024-7029	seems	_	_	_	
+63-4	7030-7032	to	_	_	_	
+63-5	7033-7041	flourish	_	_	_	
+63-6	7042-7044	on	_	_	_	
+63-7	7045-7048	the	_	_	_	
+63-8	7049-7064	water-protected	_	_	_	
+63-9	7065-7070	isles	_	_	_	
+63-10	7071-7072	,	_	_	_	
+63-11	7073-7078	which	_	_	_	
+63-12	7079-7082	are	_	_	_	
+63-13	7083-7095	inaccessible	_	_	_	
+63-14	7096-7102	except	_	_	_	
+63-15	7103-7105	to	_	_	_	
+63-16	7106-7107	a	_	_	_	
+63-17	7108-7111	man	_	_	_	
+63-18	7112-7120	prepared	_	_	_	
+63-19	7121-7123	to	_	_	_	
+63-20	7124-7128	swim	_	_	_	
+63-21	7129-7130	a	_	_	_	
+63-22	7131-7138	hundred	_	_	_	
+63-23	7139-7148	yards-and	_	_	_	
+63-24	7149-7150	,	_	_	_	
+63-25	7151-7153	if	_	_	_	
+63-26	7154-7156	he	_	_	_	
+63-27	7157-7162	wants	_	_	_	
+63-28	7163-7165	to	_	_	_	
+63-29	7166-7174	botanize	_	_	_	
+63-30	7175-7177	or	_	_	_	
+63-31	7178-7188	bird-watch	_	_	_	
+63-32	7189-7190	,	_	_	_	
+63-33	7191-7193	to	_	_	_	
+63-34	7194-7198	push	_	_	_	
+63-35	7199-7200	a	_	_	_	
+63-36	7201-7205	raft	_	_	_	
+63-37	7206-7210	with	_	_	_	
+63-38	7211-7214	his	_	_	_	
+63-39	7215-7223	clothing	_	_	_	
+63-40	7224-7226	in	_	_	_	
+63-41	7227-7232	front	_	_	_	
+63-42	7233-7235	of	_	_	_	
+63-43	7236-7239	him	_	_	_	
+63-44	7240-7241	.	_	_	_	
+
+#Text=On reaching Loch Laidon I thought that the ground improved , although a certain amount of leaping from tuft to tuft was still part of the day 's work .
+64-1	7242-7244	On	_	_	_	
+64-2	7245-7253	reaching	zonal frame[32]	_	_	
+64-3	7254-7258	Loch	zonal frame[32]	*[33]	_	
+64-4	7259-7265	Laidon	zonal frame[32]	*[33]	_	
+64-5	7266-7267	I	_	_	_	
+64-6	7268-7275	thought	_	_	_	
+64-7	7276-7280	that	_	_	_	
+64-8	7281-7284	the	_	_	_	
+64-9	7285-7291	ground	_	_	_	
+64-10	7292-7300	improved	_	_	_	
+64-11	7301-7302	,	_	_	_	
+64-12	7303-7311	although	_	_	_	
+64-13	7312-7313	a	_	_	_	
+64-14	7314-7321	certain	_	_	_	
+64-15	7322-7328	amount	_	_	_	
+64-16	7329-7331	of	_	_	_	
+64-17	7332-7339	leaping	_	_	_	
+64-18	7340-7344	from	_	_	_	
+64-19	7345-7349	tuft	_	_	_	
+64-20	7350-7352	to	_	_	_	
+64-21	7353-7357	tuft	_	_	_	
+64-22	7358-7361	was	_	_	_	
+64-23	7362-7367	still	_	_	_	
+64-24	7368-7372	part	_	_	_	
+64-25	7373-7375	of	_	_	_	
+64-26	7376-7379	the	_	_	_	
+64-27	7380-7383	day	_	_	_	
+64-28	7384-7386	's	_	_	_	
+64-29	7387-7391	work	_	_	_	
+64-30	7392-7393	.	_	_	_	
+
+#Text=On the other hand there were surprisingly few peat-hags .
+65-1	7394-7396	On	_	_	_	
+65-2	7397-7400	the	_	_	_	
+65-3	7401-7406	other	_	_	_	
+65-4	7407-7411	hand	_	_	_	
+65-5	7412-7417	there	_	_	_	
+65-6	7418-7422	were	_	_	_	
+65-7	7423-7435	surprisingly	_	_	_	
+65-8	7436-7439	few	_	_	_	
+65-9	7440-7449	peat-hags	_	_	_	
+65-10	7450-7451	.	_	_	_	
+
+#Text=I remember no more than one or two , still exposing the bare bones of the Old Wood , but I imagine that in other parts of the moor they must be abundant .
+66-1	7452-7453	I	_	_	_	
+66-2	7454-7462	remember	_	_	_	
+66-3	7463-7465	no	_	_	_	
+66-4	7466-7470	more	_	_	_	
+66-5	7471-7475	than	_	_	_	
+66-6	7476-7479	one	_	_	_	
+66-7	7480-7482	or	_	_	_	
+66-8	7483-7486	two	_	_	_	
+66-9	7487-7488	,	_	_	_	
+66-10	7489-7494	still	_	_	_	
+66-11	7495-7503	exposing	_	_	_	
+66-12	7504-7507	the	_	_	_	
+66-13	7508-7512	bare	_	_	_	
+66-14	7513-7518	bones	_	_	_	
+66-15	7519-7521	of	_	_	_	
+66-16	7522-7525	the	_	_	_	
+66-17	7526-7529	Old	_	_	_	
+66-18	7530-7534	Wood	_	_	_	
+66-19	7535-7536	,	_	_	_	
+66-20	7537-7540	but	_	_	_	
+66-21	7541-7542	I	_	_	_	
+66-22	7543-7550	imagine	_	_	_	
+66-23	7551-7555	that	_	_	_	
+66-24	7556-7558	in	_	_	_	
+66-25	7559-7564	other	_	_	_	
+66-26	7565-7570	parts	_	_	_	
+66-27	7571-7573	of	_	_	_	
+66-28	7574-7577	the	_	_	_	
+66-29	7578-7582	moor	_	_	_	
+66-30	7583-7587	they	_	_	_	
+66-31	7588-7592	must	_	_	_	
+66-32	7593-7595	be	_	_	_	
+66-33	7596-7604	abundant	_	_	_	
+66-34	7605-7606	.	_	_	_	
+
+#Text=On the line I chose , always close to the loch , the moor was well drained , and over its whole area I judge it to be equally well drained by the countless tarns .
+67-1	7607-7609	On	_	_	_	
+67-2	7610-7613	the	_	_	_	
+67-3	7614-7618	line	_	_	_	
+67-4	7619-7620	I	_	_	_	
+67-5	7621-7626	chose	_	_	_	
+67-6	7627-7628	,	_	_	_	
+67-7	7629-7635	always	_	_	_	
+67-8	7636-7641	close	zonal frame[34]	_	_	
+67-9	7642-7644	to	zonal frame[34]	_	_	
+67-10	7645-7648	the	zonal frame[34]	*[35]	_	
+67-11	7649-7653	loch	zonal frame[34]	*[35]	_	
+67-12	7654-7655	,	_	_	_	
+67-13	7656-7659	the	_	_	_	
+67-14	7660-7664	moor	_	_	_	
+67-15	7665-7668	was	_	_	_	
+67-16	7669-7673	well	_	_	_	
+67-17	7674-7681	drained	_	_	_	
+67-18	7682-7683	,	_	_	_	
+67-19	7684-7687	and	_	_	_	
+67-20	7688-7692	over	_	_	_	
+67-21	7693-7696	its	_	_	_	
+67-22	7697-7702	whole	_	_	_	
+67-23	7703-7707	area	_	_	_	
+67-24	7708-7709	I	_	_	_	
+67-25	7710-7715	judge	_	_	_	
+67-26	7716-7718	it	_	_	_	
+67-27	7719-7721	to	_	_	_	
+67-28	7722-7724	be	_	_	_	
+67-29	7725-7732	equally	_	_	_	
+67-30	7733-7737	well	_	_	_	
+67-31	7738-7745	drained	_	_	_	
+67-32	7746-7748	by	_	_	_	
+67-33	7749-7752	the	_	_	_	
+67-34	7753-7762	countless	_	_	_	
+67-35	7763-7768	tarns	_	_	_	
+67-36	7769-7770	.	_	_	_	
+
+#Text=I met no bogs .
+68-1	7771-7772	I	_	_	_	
+68-2	7773-7776	met	_	_	_	
+68-3	7777-7779	no	_	_	_	
+68-4	7780-7784	bogs	_	_	_	
+68-5	7785-7786	.	_	_	_	
+
+#Text=One gets across in dry weather with dry feet .
+69-1	7787-7790	One	_	_	_	
+69-2	7791-7795	gets	_	_	_	
+69-3	7796-7802	across	_	_	_	
+69-4	7803-7805	in	_	_	_	
+69-5	7806-7809	dry	_	_	_	
+69-6	7810-7817	weather	_	_	_	
+69-7	7818-7822	with	_	_	_	
+69-8	7823-7826	dry	_	_	_	
+69-9	7827-7831	feet	_	_	_	
+69-10	7832-7833	.	_	_	_	
+
+#Text=Admittedly we had the moor in perfect condition .
+70-1	7834-7844	Admittedly	_	_	_	
+70-2	7845-7847	we	_	_	_	
+70-3	7848-7851	had	_	_	_	
+70-4	7852-7855	the	_	_	_	
+70-5	7856-7860	moor	_	_	_	
+70-6	7861-7863	in	_	_	_	
+70-7	7864-7871	perfect	_	_	_	
+70-8	7872-7881	condition	_	_	_	
+70-9	7882-7883	.	_	_	_	
+
+#Text=A west wind was blowing , of the kind we may truly call a zephyr , but the heat was semi-tropical , and away from the waterways must have been as consumingly fierce as the south Syrian desert .
+71-1	7884-7885	A	_	_	_	
+71-2	7886-7890	west	_	_	_	
+71-3	7891-7895	wind	_	_	_	
+71-4	7896-7899	was	_	_	_	
+71-5	7900-7907	blowing	_	_	_	
+71-6	7908-7909	,	_	_	_	
+71-7	7910-7912	of	_	_	_	
+71-8	7913-7916	the	_	_	_	
+71-9	7917-7921	kind	_	_	_	
+71-10	7922-7924	we	_	_	_	
+71-11	7925-7928	may	_	_	_	
+71-12	7929-7934	truly	_	_	_	
+71-13	7935-7939	call	_	_	_	
+71-14	7940-7941	a	_	_	_	
+71-15	7942-7948	zephyr	_	_	_	
+71-16	7949-7950	,	_	_	_	
+71-17	7951-7954	but	_	_	_	
+71-18	7955-7958	the	_	_	_	
+71-19	7959-7963	heat	_	_	_	
+71-20	7964-7967	was	_	_	_	
+71-21	7968-7981	semi-tropical	_	_	_	
+71-22	7982-7983	,	_	_	_	
+71-23	7984-7987	and	_	_	_	
+71-24	7988-7992	away	zonal frame[36]	_	_	
+71-25	7993-7997	from	zonal frame[36]	_	_	
+71-26	7998-8001	the	zonal frame[36]	*[37]	_	
+71-27	8002-8011	waterways	zonal frame[36]	*[37]	_	
+71-28	8012-8016	must	_	_	_	
+71-29	8017-8021	have	_	_	_	
+71-30	8022-8026	been	_	_	_	
+71-31	8027-8029	as	_	_	_	
+71-32	8030-8041	consumingly	_	_	_	
+71-33	8042-8048	fierce	_	_	_	
+71-34	8049-8051	as	_	_	_	
+71-35	8052-8055	the	_	_	_	
+71-36	8056-8061	south	_	_	_	
+71-37	8062-8068	Syrian	_	_	_	
+71-38	8069-8075	desert	_	_	_	
+71-39	8076-8077	.	_	_	_	
+
+#Text=Unlike Loch Ba , Loch Laidon had a fairly straight margin : we could travel close to the shore , which we found indented by innumerable tiny bays .
+72-1	8078-8084	Unlike	_	_	_	
+72-2	8085-8089	Loch	_	_	_	
+72-3	8090-8092	Ba	_	_	_	
+72-4	8093-8094	,	_	_	_	
+72-5	8095-8099	Loch	_	_	_	
+72-6	8100-8106	Laidon	_	_	_	
+72-7	8107-8110	had	_	_	_	
+72-8	8111-8112	a	_	_	_	
+72-9	8113-8119	fairly	_	_	_	
+72-10	8120-8128	straight	_	_	_	
+72-11	8129-8135	margin	_	_	_	
+72-12	8136-8137	:	_	_	_	
+72-13	8138-8140	we	_	_	_	
+72-14	8141-8146	could	_	_	_	
+72-15	8147-8153	travel	_	_	_	
+72-16	8154-8159	close	zonal frame[38]	_	_	
+72-17	8160-8162	to	zonal frame[38]	_	_	
+72-18	8163-8166	the	zonal frame[38]	*[39]	_	
+72-19	8167-8172	shore	zonal frame[38]	*[39]	_	
+72-20	8173-8174	,	_	_	_	
+72-21	8175-8180	which	_	_	_	
+72-22	8181-8183	we	_	_	_	
+72-23	8184-8189	found	_	_	_	
+72-24	8190-8198	indented	_	_	_	
+72-25	8199-8201	by	_	_	_	
+72-26	8202-8213	innumerable	_	_	_	
+72-27	8214-8218	tiny	_	_	_	
+72-28	8219-8223	bays	_	_	_	
+72-29	8224-8225	.	_	_	_	
+
+#Text=These were filled with a clean and gravelly sand , most tempting on a hot day .
+73-1	8226-8231	These	_	_	_	
+73-2	8232-8236	were	_	_	_	
+73-3	8237-8243	filled	_	_	_	
+73-4	8244-8248	with	_	_	_	
+73-5	8249-8250	a	_	_	_	
+73-6	8251-8256	clean	_	_	_	
+73-7	8257-8260	and	_	_	_	
+73-8	8261-8269	gravelly	_	_	_	
+73-9	8270-8274	sand	_	_	_	
+73-10	8275-8276	,	_	_	_	
+73-11	8277-8281	most	_	_	_	
+73-12	8282-8290	tempting	_	_	_	
+73-13	8291-8293	on	_	_	_	
+73-14	8294-8295	a	_	_	_	
+73-15	8296-8299	hot	_	_	_	
+73-16	8300-8303	day	_	_	_	
+73-17	8304-8305	.	_	_	_	
+
+#Text=We had one bathe near the start , and ten minutes later , feeling as hot as ever , we had another .
+74-1	8306-8308	We	_	_	_	
+74-2	8309-8312	had	_	_	_	
+74-3	8313-8316	one	_	_	_	
+74-4	8317-8322	bathe	_	_	_	
+74-5	8323-8327	near	_	_	_	
+74-6	8328-8331	the	_	_	_	
+74-7	8332-8337	start	_	_	_	
+74-8	8338-8339	,	_	_	_	
+74-9	8340-8343	and	_	_	_	
+74-10	8344-8347	ten	_	_	_	
+74-11	8348-8355	minutes	_	_	_	
+74-12	8356-8361	later	_	_	_	
+74-13	8362-8363	,	_	_	_	
+74-14	8364-8371	feeling	_	_	_	
+74-15	8372-8374	as	_	_	_	
+74-16	8375-8378	hot	_	_	_	
+74-17	8379-8381	as	_	_	_	
+74-18	8382-8386	ever	_	_	_	
+74-19	8387-8388	,	_	_	_	
+74-20	8389-8391	we	_	_	_	
+74-21	8392-8395	had	_	_	_	
+74-22	8396-8403	another	_	_	_	
+74-23	8404-8405	.	_	_	_	
+
+#Text=There were going to be more .
+75-1	8406-8411	There	_	_	_	
+75-2	8412-8416	were	_	_	_	
+75-3	8417-8422	going	_	_	_	
+75-4	8423-8425	to	_	_	_	
+75-5	8426-8428	be	_	_	_	
+75-6	8429-8433	more	_	_	_	
+75-7	8434-8435	.	_	_	_	
+
+#Text=Faced with the personal example of Heather 's ever-readiness , I began to see my own repeated dressing and undressing as a pointless waste of time .
+76-1	8436-8441	Faced	_	_	_	
+76-2	8442-8446	with	_	_	_	
+76-3	8447-8450	the	_	_	_	
+76-4	8451-8459	personal	_	_	_	
+76-5	8460-8467	example	_	_	_	
+76-6	8468-8470	of	_	_	_	
+76-7	8471-8478	Heather	_	_	_	
+76-8	8479-8481	's	_	_	_	
+76-9	8482-8496	ever-readiness	_	_	_	
+76-10	8497-8498	,	_	_	_	
+76-11	8499-8500	I	_	_	_	
+76-12	8501-8506	began	_	_	_	
+76-13	8507-8509	to	_	_	_	
+76-14	8510-8513	see	_	_	_	
+76-15	8514-8516	my	_	_	_	
+76-16	8517-8520	own	_	_	_	
+76-17	8521-8529	repeated	_	_	_	
+76-18	8530-8538	dressing	_	_	_	
+76-19	8539-8542	and	_	_	_	
+76-20	8543-8553	undressing	_	_	_	
+76-21	8554-8556	as	_	_	_	
+76-22	8557-8558	a	_	_	_	
+76-23	8559-8568	pointless	_	_	_	
+76-24	8569-8574	waste	_	_	_	
+76-25	8575-8577	of	_	_	_	
+76-26	8578-8582	time	_	_	_	
+76-27	8583-8584	.	_	_	_	
+
+#Text=There was little or no chance of meeting any one during the day .
+77-1	8585-8590	There	_	_	_	
+77-2	8591-8594	was	_	_	_	
+77-3	8595-8601	little	_	_	_	
+77-4	8602-8604	or	_	_	_	
+77-5	8605-8607	no	_	_	_	
+77-6	8608-8614	chance	_	_	_	
+77-7	8615-8617	of	_	_	_	
+77-8	8618-8625	meeting	_	_	_	
+77-9	8626-8629	any	_	_	_	
+77-10	8630-8633	one	_	_	_	
+77-11	8634-8640	during	_	_	_	
+77-12	8641-8644	the	_	_	_	
+77-13	8645-8648	day	_	_	_	
+77-14	8649-8650	.	_	_	_	
+
+#Text=So I stripped once and for all and stuffed my clothes into my rucksack .
+78-1	8651-8653	So	_	_	_	
+78-2	8654-8655	I	_	_	_	
+78-3	8656-8664	stripped	_	_	_	
+78-4	8665-8669	once	_	_	_	
+78-5	8670-8673	and	_	_	_	
+78-6	8674-8677	for	_	_	_	
+78-7	8678-8681	all	_	_	_	
+78-8	8682-8685	and	_	_	_	
+78-9	8686-8693	stuffed	_	_	_	
+78-10	8694-8696	my	_	_	_	
+78-11	8697-8704	clothes	_	_	_	
+78-12	8705-8709	into	_	_	_	
+78-13	8710-8712	my	_	_	_	
+78-14	8713-8721	rucksack	_	_	_	
+78-15	8722-8723	.	_	_	_	
+
+#Text=The zephyr could now get at my skin , and the need for frequent dips became less urgent .
+79-1	8724-8727	The	_	_	_	
+79-2	8728-8734	zephyr	_	_	_	
+79-3	8735-8740	could	_	_	_	
+79-4	8741-8744	now	_	_	_	
+79-5	8745-8748	get	_	_	_	
+79-6	8749-8751	at	_	_	_	
+79-7	8752-8754	my	_	_	_	
+79-8	8755-8759	skin	_	_	_	
+79-9	8760-8761	,	_	_	_	
+79-10	8762-8765	and	_	_	_	
+79-11	8766-8769	the	_	_	_	
+79-12	8770-8774	need	_	_	_	
+79-13	8775-8778	for	_	_	_	
+79-14	8779-8787	frequent	_	_	_	
+79-15	8788-8792	dips	_	_	_	
+79-16	8793-8799	became	_	_	_	
+79-17	8800-8804	less	_	_	_	
+79-18	8805-8811	urgent	_	_	_	
+79-19	8812-8813	.	_	_	_	
+
+#Text=But for the bays our day would fast have become a sheer trial of endurance-worse by far for Heather than for me , her great handicap being fur and a lack of sweat-glands .
+80-1	8814-8817	But	_	_	_	
+80-2	8818-8821	for	_	_	_	
+80-3	8822-8825	the	_	_	_	
+80-4	8826-8830	bays	_	_	_	
+80-5	8831-8834	our	_	_	_	
+80-6	8835-8838	day	_	_	_	
+80-7	8839-8844	would	_	_	_	
+80-8	8845-8849	fast	_	_	_	
+80-9	8850-8854	have	_	_	_	
+80-10	8855-8861	become	_	_	_	
+80-11	8862-8863	a	_	_	_	
+80-12	8864-8869	sheer	_	_	_	
+80-13	8870-8875	trial	_	_	_	
+80-14	8876-8878	of	_	_	_	
+80-15	8879-8894	endurance-worse	_	_	_	
+80-16	8895-8897	by	_	_	_	
+80-17	8898-8901	far	_	_	_	
+80-18	8902-8905	for	_	_	_	
+80-19	8906-8913	Heather	_	_	_	
+80-20	8914-8918	than	_	_	_	
+80-21	8919-8922	for	_	_	_	
+80-22	8923-8925	me	_	_	_	
+80-23	8926-8927	,	_	_	_	
+80-24	8928-8931	her	_	_	_	
+80-25	8932-8937	great	_	_	_	
+80-26	8938-8946	handicap	_	_	_	
+80-27	8947-8952	being	_	_	_	
+80-28	8953-8956	fur	_	_	_	
+80-29	8957-8960	and	_	_	_	
+80-30	8961-8962	a	_	_	_	
+80-31	8963-8967	lack	_	_	_	
+80-32	8968-8970	of	_	_	_	
+80-33	8971-8983	sweat-glands	_	_	_	
+80-34	8984-8985	.	_	_	_	
+
+#Text=During the first few hours'enthusiasm she covered three times as much ground as I , ranging out eastwards in wide circles .
+81-1	8986-8992	During	_	_	_	
+81-2	8993-8996	the	_	_	_	
+81-3	8997-9002	first	_	_	_	
+81-4	9003-9006	few	_	_	_	
+81-5	9007-9023	hours'enthusiasm	_	_	_	
+81-6	9024-9027	she	_	_	_	
+81-7	9028-9035	covered	_	_	_	
+81-8	9036-9041	three	_	_	_	
+81-9	9042-9047	times	_	_	_	
+81-10	9048-9050	as	_	_	_	
+81-11	9051-9055	much	_	_	_	
+81-12	9056-9062	ground	_	_	_	
+81-13	9063-9065	as	_	_	_	
+81-14	9066-9067	I	_	_	_	
+81-15	9068-9069	,	_	_	_	
+81-16	9070-9077	ranging	_	_	_	
+81-17	9078-9081	out	_	_	_	
+81-18	9082-9091	eastwards	_	_	_	
+81-19	9092-9094	in	_	_	_	
+81-20	9095-9099	wide	_	_	_	
+81-21	9100-9107	circles	_	_	_	
+81-22	9108-9109	.	_	_	_	
+
+#Text=I let her do this to see what game she might start up .
+82-1	9110-9111	I	_	_	_	
+82-2	9112-9115	let	_	_	_	
+82-3	9116-9119	her	_	_	_	
+82-4	9120-9122	do	_	_	_	
+82-5	9123-9127	this	_	_	_	
+82-6	9128-9130	to	_	_	_	
+82-7	9131-9134	see	_	_	_	
+82-8	9135-9139	what	_	_	_	
+82-9	9140-9144	game	_	_	_	
+82-10	9145-9148	she	_	_	_	
+82-11	9149-9154	might	_	_	_	
+82-12	9155-9160	start	_	_	_	
+82-13	9161-9163	up	_	_	_	
+82-14	9164-9165	.	_	_	_	
+
+#Text=It astonished me that she drew a blank .
+83-1	9166-9168	It	_	_	_	
+83-2	9169-9179	astonished	_	_	_	
+83-3	9180-9182	me	_	_	_	
+83-4	9183-9187	that	_	_	_	
+83-5	9188-9191	she	_	_	_	
+83-6	9192-9196	drew	_	_	_	
+83-7	9197-9198	a	_	_	_	
+83-8	9199-9204	blank	_	_	_	
+83-9	9205-9206	.	_	_	_	
+
+#Text=Not one hare , not a rabbit or grouse , did she raise-absolutely nothing .
+84-1	9207-9210	Not	_	_	_	
+84-2	9211-9214	one	_	_	_	
+84-3	9215-9219	hare	_	_	_	
+84-4	9220-9221	,	_	_	_	
+84-5	9222-9225	not	_	_	_	
+84-6	9226-9227	a	_	_	_	
+84-7	9228-9234	rabbit	_	_	_	
+84-8	9235-9237	or	_	_	_	
+84-9	9238-9244	grouse	_	_	_	
+84-10	9245-9246	,	_	_	_	
+84-11	9247-9250	did	_	_	_	
+84-12	9251-9254	she	_	_	_	
+84-13	9255-9271	raise-absolutely	_	_	_	
+84-14	9272-9279	nothing	_	_	_	
+84-15	9280-9281	.	_	_	_	
+
+#Text=The moor at this time of day seems to be bare of all animal life .
+85-1	9282-9285	The	_	_	_	
+85-2	9286-9290	moor	_	_	_	
+85-3	9291-9293	at	_	_	_	
+85-4	9294-9298	this	_	_	_	
+85-5	9299-9303	time	_	_	_	
+85-6	9304-9306	of	_	_	_	
+85-7	9307-9310	day	_	_	_	
+85-8	9311-9316	seems	_	_	_	
+85-9	9317-9319	to	_	_	_	
+85-10	9320-9322	be	_	_	_	
+85-11	9323-9327	bare	_	_	_	
+85-12	9328-9330	of	_	_	_	
+85-13	9331-9334	all	_	_	_	
+85-14	9335-9341	animal	_	_	_	
+85-15	9342-9346	life	_	_	_	
+85-16	9347-9348	.	_	_	_	
+
+#Text=Throughout our traverse I never once set eyes on a deer , although every winter great herds congregate by the roadside .
+86-1	9349-9359	Throughout	_	_	_	
+86-2	9360-9363	our	_	_	_	
+86-3	9364-9372	traverse	_	_	_	
+86-4	9373-9374	I	_	_	_	
+86-5	9375-9380	never	_	_	_	
+86-6	9381-9385	once	_	_	_	
+86-7	9386-9389	set	_	_	_	
+86-8	9390-9394	eyes	_	_	_	
+86-9	9395-9397	on	_	_	_	
+86-10	9398-9399	a	_	_	_	
+86-11	9400-9404	deer	_	_	_	
+86-12	9405-9406	,	_	_	_	
+86-13	9407-9415	although	_	_	_	
+86-14	9416-9421	every	_	_	_	
+86-15	9422-9428	winter	_	_	_	
+86-16	9429-9434	great	_	_	_	
+86-17	9435-9440	herds	_	_	_	
+86-18	9441-9451	congregate	_	_	_	
+86-19	9452-9454	by	_	_	_	
+86-20	9455-9458	the	_	_	_	
+86-21	9459-9467	roadside	_	_	_	
+86-22	9468-9469	.	_	_	_	
+
+#Text=I assumed that they would all be up in the corries of the Blackmount .
+87-1	9470-9471	I	_	_	_	
+87-2	9472-9479	assumed	_	_	_	
+87-3	9480-9484	that	_	_	_	
+87-4	9485-9489	they	_	_	_	
+87-5	9490-9495	would	_	_	_	
+87-6	9496-9499	all	_	_	_	
+87-7	9500-9502	be	_	_	_	
+87-8	9503-9505	up	_	_	_	
+87-9	9506-9508	in	_	_	_	
+87-10	9509-9512	the	_	_	_	
+87-11	9513-9520	corries	_	_	_	
+87-12	9521-9523	of	_	_	_	
+87-13	9524-9527	the	_	_	_	
+87-14	9528-9538	Blackmount	_	_	_	
+87-15	9539-9540	.	_	_	_	
+
+#Text=The lack of other life is stranger .
+88-1	9541-9544	The	_	_	_	
+88-2	9545-9549	lack	_	_	_	
+88-3	9550-9552	of	_	_	_	
+88-4	9553-9558	other	_	_	_	
+88-5	9559-9563	life	_	_	_	
+88-6	9564-9566	is	_	_	_	
+88-7	9567-9575	stranger	_	_	_	
+88-8	9576-9577	.	_	_	_	
+
+#Text=We came to the north-east end of Loch Laidon where the River Gaur flowed out sharply right towards Loch Rannoch .
+89-1	9578-9580	We	_	_	_	
+89-2	9581-9585	came	_	_	_	
+89-3	9586-9588	to	_	_	_	
+89-4	9589-9592	the	euclidean frame[40]	_	_	
+89-5	9593-9603	north-east	euclidean frame[40]	_	_	
+89-6	9604-9607	end	euclidean frame[40]	_	_	
+89-7	9608-9610	of	euclidean frame[40]	_	_	
+89-8	9611-9615	Loch	euclidean frame[40]	*[41]	_	
+89-9	9616-9622	Laidon	euclidean frame[40]	*[41]	_	
+89-10	9623-9628	where	_	_	_	
+89-11	9629-9632	the	_	_	_	
+89-12	9633-9638	River	_	_	_	
+89-13	9639-9643	Gaur	_	_	_	
+89-14	9644-9650	flowed	_	_	_	
+89-15	9651-9654	out	_	_	_	
+89-16	9655-9662	sharply	_	_	_	
+89-17	9663-9668	right	_	_	_	
+89-18	9669-9676	towards	_	_	_	
+89-19	9677-9681	Loch	_	_	_	
+89-20	9682-9689	Rannoch	_	_	_	
+89-21	9690-9691	.	_	_	_	
+
+#Text=The river must have been fifty yards wide .
+90-1	9692-9695	The	_	_	_	
+90-2	9696-9701	river	_	_	_	
+90-3	9702-9706	must	_	_	_	
+90-4	9707-9711	have	_	_	_	
+90-5	9712-9716	been	_	_	_	
+90-6	9717-9722	fifty	_	_	_	
+90-7	9723-9728	yards	_	_	_	
+90-8	9729-9733	wide	_	_	_	
+90-9	9734-9735	.	_	_	_	
+
+#Text=I hoped that it might be all the shallower on that account , and tried to get across by wading , my rucksack balanced on my head .
+91-1	9736-9737	I	_	_	_	
+91-2	9738-9743	hoped	_	_	_	
+91-3	9744-9748	that	_	_	_	
+91-4	9749-9751	it	_	_	_	
+91-5	9752-9757	might	_	_	_	
+91-6	9758-9760	be	_	_	_	
+91-7	9761-9764	all	_	_	_	
+91-8	9765-9768	the	_	_	_	
+91-9	9769-9778	shallower	_	_	_	
+91-10	9779-9781	on	_	_	_	
+91-11	9782-9786	that	_	_	_	
+91-12	9787-9794	account	_	_	_	
+91-13	9795-9796	,	_	_	_	
+91-14	9797-9800	and	_	_	_	
+91-15	9801-9806	tried	_	_	_	
+91-16	9807-9809	to	_	_	_	
+91-17	9810-9813	get	_	_	_	
+91-18	9814-9820	across	_	_	_	
+91-19	9821-9823	by	_	_	_	
+91-20	9824-9830	wading	_	_	_	
+91-21	9831-9832	,	_	_	_	
+91-22	9833-9835	my	_	_	_	
+91-23	9836-9844	rucksack	_	_	_	
+91-24	9845-9853	balanced	_	_	_	
+91-25	9854-9856	on	_	_	_	
+91-26	9857-9859	my	_	_	_	
+91-27	9860-9864	head	_	_	_	
+91-28	9865-9866	.	_	_	_	
+
+#Text=Before I was a third of the way over the water had crept up to my chin , and by natural buoyancy my body was tending to float and capsize .
+92-1	9867-9873	Before	_	_	_	
+92-2	9874-9875	I	_	_	_	
+92-3	9876-9879	was	_	_	_	
+92-4	9880-9881	a	_	_	_	
+92-5	9882-9887	third	_	_	_	
+92-6	9888-9890	of	_	_	_	
+92-7	9891-9894	the	_	_	_	
+92-8	9895-9898	way	_	_	_	
+92-9	9899-9903	over	_	_	_	
+92-10	9904-9907	the	_	_	_	
+92-11	9908-9913	water	_	_	_	
+92-12	9914-9917	had	_	_	_	
+92-13	9918-9923	crept	_	_	_	
+92-14	9924-9926	up	_	_	_	
+92-15	9927-9929	to	_	_	_	
+92-16	9930-9932	my	_	_	_	
+92-17	9933-9937	chin	_	_	_	
+92-18	9938-9939	,	_	_	_	
+92-19	9940-9943	and	_	_	_	
+92-20	9944-9946	by	_	_	_	
+92-21	9947-9954	natural	_	_	_	
+92-22	9955-9963	buoyancy	_	_	_	
+92-23	9964-9966	my	_	_	_	
+92-24	9967-9971	body	_	_	_	
+92-25	9972-9975	was	_	_	_	
+92-26	9976-9983	tending	_	_	_	
+92-27	9984-9986	to	_	_	_	
+92-28	9987-9992	float	_	_	_	
+92-29	9993-9996	and	_	_	_	
+92-30	9997-10004	capsize	_	_	_	
+92-31	10005-10006	.	_	_	_	
+
+#Text=Since the water looked much deeper and swifter in front , I came back and moved on a few hundred yards , then tried again with no more success .
+93-1	10007-10012	Since	_	_	_	
+93-2	10013-10016	the	_	_	_	
+93-3	10017-10022	water	_	_	_	
+93-4	10023-10029	looked	_	_	_	
+93-5	10030-10034	much	_	_	_	
+93-6	10035-10041	deeper	_	_	_	
+93-7	10042-10045	and	_	_	_	
+93-8	10046-10053	swifter	_	_	_	
+93-9	10054-10056	in	_	_	_	
+93-10	10057-10062	front	_	_	_	
+93-11	10063-10064	,	_	_	_	
+93-12	10065-10066	I	_	_	_	
+93-13	10067-10071	came	_	_	_	
+93-14	10072-10076	back	_	_	_	
+93-15	10077-10080	and	_	_	_	
+93-16	10081-10086	moved	_	_	_	
+93-17	10087-10089	on	_	_	_	
+93-18	10090-10091	a	_	_	_	
+93-19	10092-10095	few	_	_	_	
+93-20	10096-10103	hundred	_	_	_	
+93-21	10104-10109	yards	_	_	_	
+93-22	10110-10111	,	_	_	_	
+93-23	10112-10116	then	_	_	_	
+93-24	10117-10122	tried	_	_	_	
+93-25	10123-10128	again	_	_	_	
+93-26	10129-10133	with	_	_	_	
+93-27	10134-10136	no	_	_	_	
+93-28	10137-10141	more	_	_	_	
+93-29	10142-10149	success	_	_	_	
+93-30	10150-10151	.	_	_	_	
+
+#Text=In the end we had to make a half-mile detour downstream to a ford , where a line of great boulders offered a dry route .
+94-1	10152-10154	In	_	_	_	
+94-2	10155-10158	the	_	_	_	
+94-3	10159-10162	end	_	_	_	
+94-4	10163-10165	we	_	_	_	
+94-5	10166-10169	had	_	_	_	
+94-6	10170-10172	to	_	_	_	
+94-7	10173-10177	make	_	_	_	
+94-8	10178-10179	a	_	_	_	
+94-9	10180-10189	half-mile	_	_	_	
+94-10	10190-10196	detour	_	_	_	
+94-11	10197-10207	downstream	_	_	_	
+94-12	10208-10210	to	_	_	_	
+94-13	10211-10212	a	_	_	_	
+94-14	10213-10217	ford	_	_	_	
+94-15	10218-10219	,	_	_	_	
+94-16	10220-10225	where	_	_	_	
+94-17	10226-10227	a	_	_	_	
+94-18	10228-10232	line	_	_	_	
+94-19	10233-10235	of	_	_	_	
+94-20	10236-10241	great	_	_	_	
+94-21	10242-10250	boulders	_	_	_	
+94-22	10251-10258	offered	_	_	_	
+94-23	10259-10260	a	_	_	_	
+94-24	10261-10264	dry	_	_	_	
+94-25	10265-10270	route	_	_	_	
+94-26	10271-10272	.	_	_	_	
+
+#Text=After all my vain efforts to wade I was determined to wade at the last , and did so through chest-deep water .
+95-1	10273-10278	After	_	_	_	
+95-2	10279-10282	all	_	_	_	
+95-3	10283-10285	my	_	_	_	
+95-4	10286-10290	vain	_	_	_	
+95-5	10291-10298	efforts	_	_	_	
+95-6	10299-10301	to	_	_	_	
+95-7	10302-10306	wade	_	_	_	
+95-8	10307-10308	I	_	_	_	
+95-9	10309-10312	was	_	_	_	
+95-10	10313-10323	determined	_	_	_	
+95-11	10324-10326	to	_	_	_	
+95-12	10327-10331	wade	_	_	_	
+95-13	10332-10334	at	_	_	_	
+95-14	10335-10338	the	_	_	_	
+95-15	10339-10343	last	_	_	_	
+95-16	10344-10345	,	_	_	_	
+95-17	10346-10349	and	_	_	_	
+95-18	10350-10353	did	_	_	_	
+95-19	10354-10356	so	_	_	_	
+95-20	10357-10364	through	_	_	_	
+95-21	10365-10375	chest-deep	_	_	_	
+95-22	10376-10381	water	_	_	_	
+95-23	10382-10383	.	_	_	_	
+
+#Text=On the other hand Heather , who had already swum the river twice , and been forced each time to return in high dudgeon because I had failed to follow , was determined that since the ford was now found she would use it .
+96-1	10384-10386	On	_	_	_	
+96-2	10387-10390	the	_	_	_	
+96-3	10391-10396	other	_	_	_	
+96-4	10397-10401	hand	_	_	_	
+96-5	10402-10409	Heather	_	_	_	
+96-6	10410-10411	,	_	_	_	
+96-7	10412-10415	who	_	_	_	
+96-8	10416-10419	had	_	_	_	
+96-9	10420-10427	already	_	_	_	
+96-10	10428-10432	swum	_	_	_	
+96-11	10433-10436	the	_	_	_	
+96-12	10437-10442	river	_	_	_	
+96-13	10443-10448	twice	_	_	_	
+96-14	10449-10450	,	_	_	_	
+96-15	10451-10454	and	_	_	_	
+96-16	10455-10459	been	_	_	_	
+96-17	10460-10466	forced	_	_	_	
+96-18	10467-10471	each	_	_	_	
+96-19	10472-10476	time	_	_	_	
+96-20	10477-10479	to	_	_	_	
+96-21	10480-10486	return	_	_	_	
+96-22	10487-10489	in	_	_	_	
+96-23	10490-10494	high	_	_	_	
+96-24	10495-10502	dudgeon	_	_	_	
+96-25	10503-10510	because	_	_	_	
+96-26	10511-10512	I	_	_	_	
+96-27	10513-10516	had	_	_	_	
+96-28	10517-10523	failed	_	_	_	
+96-29	10524-10526	to	_	_	_	
+96-30	10527-10533	follow	_	_	_	
+96-31	10534-10535	,	_	_	_	
+96-32	10536-10539	was	_	_	_	
+96-33	10540-10550	determined	_	_	_	
+96-34	10551-10555	that	_	_	_	
+96-35	10556-10561	since	_	_	_	
+96-36	10562-10565	the	_	_	_	
+96-37	10566-10570	ford	_	_	_	
+96-38	10571-10574	was	_	_	_	
+96-39	10575-10578	now	_	_	_	
+96-40	10579-10584	found	_	_	_	
+96-41	10585-10588	she	_	_	_	
+96-42	10589-10594	would	_	_	_	
+96-43	10595-10598	use	_	_	_	
+96-44	10599-10601	it	_	_	_	
+96-45	10602-10603	.	_	_	_	
+
+#Text=She bounded clumsily on the polished boulders , not being able to get a good purchase on them with her wet paws , and landing each time in a splashing sprawl .
+97-1	10604-10607	She	_	_	_	
+97-2	10608-10615	bounded	_	_	_	
+97-3	10616-10624	clumsily	_	_	_	
+97-4	10625-10627	on	_	_	_	
+97-5	10628-10631	the	_	_	_	
+97-6	10632-10640	polished	_	_	_	
+97-7	10641-10649	boulders	_	_	_	
+97-8	10650-10651	,	_	_	_	
+97-9	10652-10655	not	_	_	_	
+97-10	10656-10661	being	_	_	_	
+97-11	10662-10666	able	_	_	_	
+97-12	10667-10669	to	_	_	_	
+97-13	10670-10673	get	_	_	_	
+97-14	10674-10675	a	_	_	_	
+97-15	10676-10680	good	_	_	_	
+97-16	10681-10689	purchase	_	_	_	
+97-17	10690-10692	on	_	_	_	
+97-18	10693-10697	them	_	_	_	
+97-19	10698-10702	with	_	_	_	
+97-20	10703-10706	her	_	_	_	
+97-21	10707-10710	wet	_	_	_	
+97-22	10711-10715	paws	_	_	_	
+97-23	10716-10717	,	_	_	_	
+97-24	10718-10721	and	_	_	_	
+97-25	10722-10729	landing	_	_	_	
+97-26	10730-10734	each	_	_	_	
+97-27	10735-10739	time	_	_	_	
+97-28	10740-10742	in	_	_	_	
+97-29	10743-10744	a	_	_	_	
+97-30	10745-10754	splashing	_	_	_	
+97-31	10755-10761	sprawl	_	_	_	
+97-32	10762-10763	.	_	_	_	
+
+#Text=But she was over long before I was .
+98-1	10764-10767	But	_	_	_	
+98-2	10768-10771	she	_	_	_	
+98-3	10772-10775	was	_	_	_	
+98-4	10776-10780	over	_	_	_	
+98-5	10781-10785	long	_	_	_	
+98-6	10786-10792	before	_	_	_	
+98-7	10793-10794	I	_	_	_	
+98-8	10795-10798	was	_	_	_	
+98-9	10799-10800	.	_	_	_	
+
+#Text=We had now been going four hours .
+99-1	10801-10803	We	_	_	_	
+99-2	10804-10807	had	_	_	_	
+99-3	10808-10811	now	_	_	_	
+99-4	10812-10816	been	_	_	_	
+99-5	10817-10822	going	_	_	_	
+99-6	10823-10827	four	_	_	_	
+99-7	10828-10833	hours	_	_	_	
+99-8	10834-10835	.	_	_	_	
+
+#Text=Cutting out the last few hundred yards to Rannoch station we rounded the head of Loch Laidon .
+100-1	10836-10843	Cutting	_	_	_	
+100-2	10844-10847	out	_	_	_	
+100-3	10848-10851	the	_	_	_	
+100-4	10852-10856	last	_	_	_	
+100-5	10857-10860	few	_	_	_	
+100-6	10861-10868	hundred	_	_	_	
+100-7	10869-10874	yards	_	_	_	
+100-8	10875-10877	to	_	_	_	
+100-9	10878-10885	Rannoch	_	_	_	
+100-10	10886-10893	station	_	_	_	
+100-11	10894-10896	we	_	_	_	
+100-12	10897-10904	rounded	_	_	_	
+100-13	10905-10908	the	_	_	_	
+100-14	10909-10913	head	_	_	_	
+100-15	10914-10916	of	_	_	_	
+100-16	10917-10921	Loch	_	_	_	
+100-17	10922-10928	Laidon	_	_	_	
+100-18	10929-10930	.	_	_	_	
+
+#Text=There we struck an excellent track going half a mile back along the farther shore , en route to Kingshouse , then suddenly degenerating into a mere sheep-track .
+101-1	10931-10936	There	_	_	_	
+101-2	10937-10939	we	_	_	_	
+101-3	10940-10946	struck	_	_	_	
+101-4	10947-10949	an	_	_	_	
+101-5	10950-10959	excellent	_	_	_	
+101-6	10960-10965	track	_	_	_	
+101-7	10966-10971	going	_	_	_	
+101-8	10972-10976	half	_	_	_	
+101-9	10977-10978	a	_	_	_	
+101-10	10979-10983	mile	_	_	_	
+101-11	10984-10988	back	_	_	_	
+101-12	10989-10994	along	_	_	_	
+101-13	10995-10998	the	_	_	_	
+101-14	10999-11006	farther	_	_	_	
+101-15	11007-11012	shore	_	_	_	
+101-16	11013-11014	,	_	_	_	
+101-17	11015-11017	en	_	_	_	
+101-18	11018-11023	route	_	_	_	
+101-19	11024-11026	to	_	_	_	
+101-20	11027-11037	Kingshouse	_	_	_	
+101-21	11038-11039	,	_	_	_	
+101-22	11040-11044	then	_	_	_	
+101-23	11045-11053	suddenly	_	_	_	
+101-24	11054-11066	degenerating	_	_	_	
+101-25	11067-11071	into	_	_	_	
+101-26	11072-11073	a	_	_	_	
+101-27	11074-11078	mere	_	_	_	
+101-28	11079-11090	sheep-track	_	_	_	
+101-29	11091-11092	.	_	_	_	
+
+#Text=This northern shore was decidedly pleasanter than the southern shore .
+102-1	11093-11097	This	euclidean frame[42]	_	_	
+102-2	11098-11106	northern	euclidean frame[42]	_	_	
+102-3	11107-11112	shore	euclidean frame[42]	*[43]	_	
+102-4	11113-11116	was	_	_	_	
+102-5	11117-11126	decidedly	_	_	_	
+102-6	11127-11137	pleasanter	_	_	_	
+102-7	11138-11142	than	_	_	_	
+102-8	11143-11146	the	euclidean frame[44]	_	_	
+102-9	11147-11155	southern	euclidean frame[44]	_	_	
+102-10	11156-11161	shore	euclidean frame[44]	*[45]	_	
+102-11	11162-11163	.	_	_	_	
+
+#Text=The sun was shining in front instead of behind , and there were wild flowers by the path .
+103-1	11164-11167	The	_	_	_	
+103-2	11168-11171	sun	_	_	_	
+103-3	11172-11175	was	_	_	_	
+103-4	11176-11183	shining	_	_	_	
+103-5	11184-11186	in	_	_	_	
+103-6	11187-11192	front	_	_	_	
+103-7	11193-11200	instead	_	_	_	
+103-8	11201-11203	of	_	_	_	
+103-9	11204-11210	behind	_	_	_	
+103-10	11211-11212	,	_	_	_	
+103-11	11213-11216	and	_	_	_	
+103-12	11217-11222	there	_	_	_	
+103-13	11223-11227	were	_	_	_	
+103-14	11228-11232	wild	_	_	_	
+103-15	11233-11240	flowers	_	_	_	
+103-16	11241-11243	by	_	_	_	
+103-17	11244-11247	the	_	_	_	
+103-18	11248-11252	path	_	_	_	
+103-19	11253-11254	.	_	_	_	
+
+#Text=One little bay was full of water-lilies , and another , about a mile down the loch , had the best of all the sandy beaches .
+104-1	11255-11258	One	_	_	_	
+104-2	11259-11265	little	_	_	_	
+104-3	11266-11269	bay	_	_	_	
+104-4	11270-11273	was	_	_	_	
+104-5	11274-11278	full	_	_	_	
+104-6	11279-11281	of	_	_	_	
+104-7	11282-11294	water-lilies	_	_	_	
+104-8	11295-11296	,	_	_	_	
+104-9	11297-11300	and	_	_	_	
+104-10	11301-11308	another	_	_	_	
+104-11	11309-11310	,	_	_	_	
+104-12	11311-11316	about	_	_	_	
+104-13	11317-11318	a	_	_	_	
+104-14	11319-11323	mile	_	_	_	
+104-15	11324-11328	down	_	_	_	
+104-16	11329-11332	the	_	_	_	
+104-17	11333-11337	loch	_	_	_	
+104-18	11338-11339	,	_	_	_	
+104-19	11340-11343	had	_	_	_	
+104-20	11344-11347	the	_	_	_	
+104-21	11348-11352	best	_	_	_	
+104-22	11353-11355	of	_	_	_	
+104-23	11356-11359	all	_	_	_	
+104-24	11360-11363	the	_	_	_	
+104-25	11364-11369	sandy	_	_	_	
+104-26	11370-11377	beaches	_	_	_	
+104-27	11378-11379	.	_	_	_	
+
+#Text=We turned aside on to the latter .
+105-1	11380-11382	We	_	_	_	
+105-2	11383-11389	turned	_	_	_	
+105-3	11390-11395	aside	_	_	_	
+105-4	11396-11398	on	_	_	_	
+105-5	11399-11401	to	_	_	_	
+105-6	11402-11405	the	_	_	_	
+105-7	11406-11412	latter	_	_	_	
+105-8	11413-11414	.	_	_	_	
+
+#Text=It was backed by short granite crags , and covered deeply in coarse clean sand , on to which the sun had been beating several hours daily for a month .
+106-1	11415-11417	It	_	_	_	
+106-2	11418-11421	was	_	_	_	
+106-3	11422-11428	backed	_	_	_	
+106-4	11429-11431	by	_	_	_	
+106-5	11432-11437	short	_	_	_	
+106-6	11438-11445	granite	_	_	_	
+106-7	11446-11451	crags	_	_	_	
+106-8	11452-11453	,	_	_	_	
+106-9	11454-11457	and	_	_	_	
+106-10	11458-11465	covered	_	_	_	
+106-11	11466-11472	deeply	_	_	_	
+106-12	11473-11475	in	_	_	_	
+106-13	11476-11482	coarse	_	_	_	
+106-14	11483-11488	clean	_	_	_	
+106-15	11489-11493	sand	_	_	_	
+106-16	11494-11495	,	_	_	_	
+106-17	11496-11498	on	_	_	_	
+106-18	11499-11501	to	_	_	_	
+106-19	11502-11507	which	_	_	_	
+106-20	11508-11511	the	_	_	_	
+106-21	11512-11515	sun	_	_	_	
+106-22	11516-11519	had	_	_	_	
+106-23	11520-11524	been	_	_	_	
+106-24	11525-11532	beating	_	_	_	
+106-25	11533-11540	several	_	_	_	
+106-26	11541-11546	hours	_	_	_	
+106-27	11547-11552	daily	_	_	_	
+106-28	11553-11556	for	_	_	_	
+106-29	11557-11558	a	_	_	_	
+106-30	11559-11564	month	_	_	_	
+106-31	11565-11566	.	_	_	_	
+
+#Text=It was hot to lie on .
+107-1	11567-11569	It	_	_	_	
+107-2	11570-11573	was	_	_	_	
+107-3	11574-11577	hot	_	_	_	
+107-4	11578-11580	to	_	_	_	
+107-5	11581-11584	lie	_	_	_	
+107-6	11585-11587	on	_	_	_	
+107-7	11588-11589	.	_	_	_	
+
+#Text=There I lay , my back upon the warm granite , and lunched with Heather .
+108-1	11590-11595	There	_	_	_	
+108-2	11596-11597	I	_	_	_	
+108-3	11598-11601	lay	_	_	_	
+108-4	11602-11603	,	_	_	_	
+108-5	11604-11606	my	_	_	_	
+108-6	11607-11611	back	_	_	_	
+108-7	11612-11616	upon	_	_	_	
+108-8	11617-11620	the	_	_	_	
+108-9	11621-11625	warm	_	_	_	
+108-10	11626-11633	granite	_	_	_	
+108-11	11634-11635	,	_	_	_	
+108-12	11636-11639	and	_	_	_	
+108-13	11640-11647	lunched	_	_	_	
+108-14	11648-11652	with	_	_	_	
+108-15	11653-11660	Heather	_	_	_	
+108-16	11661-11662	.	_	_	_	
+
+#Text=On this side of the loch the shore shelved more steeply ; one could dive in after a knee-deep wade .
+109-1	11663-11665	On	_	_	_	
+109-2	11666-11670	this	topological frame[46]	_	_	
+109-3	11671-11675	side	topological frame[46]	_	_	
+109-4	11676-11678	of	topological frame[46]	_	_	
+109-5	11679-11682	the	topological frame[46]	*[47]	_	
+109-6	11683-11687	loch	topological frame[46]	*[47]	_	
+109-7	11688-11691	the	_	_	_	
+109-8	11692-11697	shore	_	_	_	
+109-9	11698-11705	shelved	_	_	_	
+109-10	11706-11710	more	_	_	_	
+109-11	11711-11718	steeply	_	_	_	
+109-12	11719-11720	;	_	_	_	
+109-13	11721-11724	one	_	_	_	
+109-14	11725-11730	could	_	_	_	
+109-15	11731-11735	dive	_	_	_	
+109-16	11736-11738	in	_	_	_	
+109-17	11739-11744	after	_	_	_	
+109-18	11745-11746	a	_	_	_	
+109-19	11747-11756	knee-deep	_	_	_	
+109-20	11757-11761	wade	_	_	_	
+109-21	11762-11763	.	_	_	_	
+
+#Text=From time to time one or the other of us would rise and go down to the water for a plunge , then come back and sprawl .
+110-1	11764-11768	From	_	_	_	
+110-2	11769-11773	time	_	_	_	
+110-3	11774-11776	to	_	_	_	
+110-4	11777-11781	time	_	_	_	
+110-5	11782-11785	one	_	_	_	
+110-6	11786-11788	or	_	_	_	
+110-7	11789-11792	the	_	_	_	
+110-8	11793-11798	other	_	_	_	
+110-9	11799-11801	of	_	_	_	
+110-10	11802-11804	us	_	_	_	
+110-11	11805-11810	would	_	_	_	
+110-12	11811-11815	rise	_	_	_	
+110-13	11816-11819	and	_	_	_	
+110-14	11820-11822	go	_	_	_	
+110-15	11823-11827	down	_	_	_	
+110-16	11828-11830	to	_	_	_	
+110-17	11831-11834	the	_	_	_	
+110-18	11835-11840	water	_	_	_	
+110-19	11841-11844	for	_	_	_	
+110-20	11845-11846	a	_	_	_	
+110-21	11847-11853	plunge	_	_	_	
+110-22	11854-11855	,	_	_	_	
+110-23	11856-11860	then	_	_	_	
+110-24	11861-11865	come	_	_	_	
+110-25	11866-11870	back	_	_	_	
+110-26	11871-11874	and	_	_	_	
+110-27	11875-11881	sprawl	_	_	_	
+110-28	11882-11883	.	_	_	_	
+
+#Text=An hour passed away .
+111-1	11884-11886	An	_	_	_	
+111-2	11887-11891	hour	_	_	_	
+111-3	11892-11898	passed	_	_	_	
+111-4	11899-11903	away	_	_	_	
+111-5	11904-11905	.	_	_	_	
+
+#Text=We just luxuriated .
+112-1	11906-11908	We	_	_	_	
+112-2	11909-11913	just	_	_	_	
+112-3	11914-11924	luxuriated	_	_	_	
+112-4	11925-11926	.	_	_	_	
+
+#Text=Sometimes I would wonder whether to have one more swim in those blue waters or to go on towards the wide , sunlit corries of the Blachnount , or to the glens of Glencoe where the peaks were darkening against the sun .
+113-1	11927-11936	Sometimes	_	_	_	
+113-2	11937-11938	I	_	_	_	
+113-3	11939-11944	would	_	_	_	
+113-4	11945-11951	wonder	_	_	_	
+113-5	11952-11959	whether	_	_	_	
+113-6	11960-11962	to	_	_	_	
+113-7	11963-11967	have	_	_	_	
+113-8	11968-11971	one	_	_	_	
+113-9	11972-11976	more	_	_	_	
+113-10	11977-11981	swim	_	_	_	
+113-11	11982-11984	in	_	_	_	
+113-12	11985-11990	those	_	_	_	
+113-13	11991-11995	blue	_	_	_	
+113-14	11996-12002	waters	_	_	_	
+113-15	12003-12005	or	_	_	_	
+113-16	12006-12008	to	_	_	_	
+113-17	12009-12011	go	_	_	_	
+113-18	12012-12014	on	_	_	_	
+113-19	12015-12022	towards	_	_	_	
+113-20	12023-12026	the	_	_	_	
+113-21	12027-12031	wide	_	_	_	
+113-22	12032-12033	,	_	_	_	
+113-23	12034-12040	sunlit	_	_	_	
+113-24	12041-12048	corries	_	_	_	
+113-25	12049-12051	of	_	_	_	
+113-26	12052-12055	the	_	_	_	
+113-27	12056-12066	Blachnount	_	_	_	
+113-28	12067-12068	,	_	_	_	
+113-29	12069-12071	or	_	_	_	
+113-30	12072-12074	to	_	_	_	
+113-31	12075-12078	the	_	_	_	
+113-32	12079-12084	glens	_	_	_	
+113-33	12085-12087	of	_	_	_	
+113-34	12088-12095	Glencoe	_	_	_	
+113-35	12096-12101	where	_	_	_	
+113-36	12102-12105	the	_	_	_	
+113-37	12106-12111	peaks	_	_	_	
+113-38	12112-12116	were	_	_	_	
+113-39	12117-12126	darkening	_	_	_	
+113-40	12127-12134	against	_	_	_	
+113-41	12135-12138	the	_	_	_	
+113-42	12139-12142	sun	_	_	_	
+113-43	12143-12144	.	_	_	_	
+
+#Text=The walk to Kingshouse would certainly be the shorter , and even so was consuming time in a way that I had not believed possible .
+114-1	12145-12148	The	_	_	_	
+114-2	12149-12153	walk	_	_	_	
+114-3	12154-12156	to	_	_	_	
+114-4	12157-12167	Kingshouse	_	_	_	
+114-5	12168-12173	would	_	_	_	
+114-6	12174-12183	certainly	_	_	_	
+114-7	12184-12186	be	_	_	_	
+114-8	12187-12190	the	_	_	_	
+114-9	12191-12198	shorter	_	_	_	
+114-10	12199-12200	,	_	_	_	
+114-11	12201-12204	and	_	_	_	
+114-12	12205-12209	even	_	_	_	
+114-13	12210-12212	so	_	_	_	
+114-14	12213-12216	was	_	_	_	
+114-15	12217-12226	consuming	_	_	_	
+114-16	12227-12231	time	_	_	_	
+114-17	12232-12234	in	_	_	_	
+114-18	12235-12236	a	_	_	_	
+114-19	12237-12240	way	_	_	_	
+114-20	12241-12245	that	_	_	_	
+114-21	12246-12247	I	_	_	_	
+114-22	12248-12251	had	_	_	_	
+114-23	12252-12255	not	_	_	_	
+114-24	12256-12264	believed	_	_	_	
+114-25	12265-12273	possible	_	_	_	
+114-26	12274-12275	.	_	_	_	
+
+#Text=Twelve more miles , said the map ?
+115-1	12276-12282	Twelve	_	_	_	
+115-2	12283-12287	more	_	_	_	
+115-3	12288-12293	miles	_	_	_	
+115-4	12294-12295	,	_	_	_	
+115-5	12296-12300	said	_	_	_	
+115-6	12301-12304	the	_	_	_	
+115-7	12305-12308	map	_	_	_	
+115-8	12309-12310	?	_	_	_	
+
+#Text=I had better allow six hours for it .
+116-1	12311-12312	I	_	_	_	
+116-2	12313-12316	had	_	_	_	
+116-3	12317-12323	better	_	_	_	
+116-4	12324-12329	allow	_	_	_	
+116-5	12330-12333	six	_	_	_	
+116-6	12334-12339	hours	_	_	_	
+116-7	12340-12343	for	_	_	_	
+116-8	12344-12346	it	_	_	_	
+116-9	12347-12348	.	_	_	_	
+
+#Text=In due course we continued three miles up the loch-side , until at the ruined cottage called Tigh na Cruaiche the track swung away to the west , aiming straight for Glencoe .
+117-1	12349-12351	In	_	_	_	
+117-2	12352-12355	due	_	_	_	
+117-3	12356-12362	course	_	_	_	
+117-4	12363-12365	we	_	_	_	
+117-5	12366-12375	continued	_	_	_	
+117-6	12376-12381	three	_	_	_	
+117-7	12382-12387	miles	_	_	_	
+117-8	12388-12390	up	_	_	_	
+117-9	12391-12394	the	_	_	_	
+117-10	12395-12404	loch-side	_	_	_	
+117-11	12405-12406	,	_	_	_	
+117-12	12407-12412	until	_	_	_	
+117-13	12413-12415	at	zonal frame[48]	_	_	
+117-14	12416-12419	the	zonal frame[48]	*[49]	_	
+117-15	12420-12426	ruined	zonal frame[48]	*[49]	_	
+117-16	12427-12434	cottage	zonal frame[48]	*[49]	_	
+117-17	12435-12441	called	zonal frame[48]	*[49]	_	
+117-18	12442-12446	Tigh	zonal frame[48]	*[49]	_	
+117-19	12447-12449	na	zonal frame[48]	*[49]	_	
+117-20	12450-12458	Cruaiche	zonal frame[48]	*[49]	_	
+117-21	12459-12462	the	_	_	_	
+117-22	12463-12468	track	_	_	_	
+117-23	12469-12474	swung	_	_	_	
+117-24	12475-12479	away	_	_	_	
+117-25	12480-12482	to	_	_	_	
+117-26	12483-12486	the	_	_	_	
+117-27	12487-12491	west	_	_	_	
+117-28	12492-12493	,	_	_	_	
+117-29	12494-12500	aiming	_	_	_	
+117-30	12501-12509	straight	_	_	_	
+117-31	12510-12513	for	_	_	_	
+117-32	12514-12521	Glencoe	_	_	_	
+117-33	12522-12523	.	_	_	_	
+
+#Text=The so-called ' track'had long since become a purely imaginary line on the map , having no basis in a present reality .
+118-1	12524-12527	The	_	_	_	
+118-2	12528-12537	so-called	_	_	_	
+118-3	12538-12539	'	_	_	_	
+118-4	12540-12549	track'had	_	_	_	
+118-5	12550-12554	long	_	_	_	
+118-6	12555-12560	since	_	_	_	
+118-7	12561-12567	become	_	_	_	
+118-8	12568-12569	a	_	_	_	
+118-9	12570-12576	purely	_	_	_	
+118-10	12577-12586	imaginary	_	_	_	
+118-11	12587-12591	line	_	_	_	
+118-12	12592-12594	on	_	_	_	
+118-13	12595-12598	the	_	_	_	
+118-14	12599-12602	map	_	_	_	
+118-15	12603-12604	,	_	_	_	
+118-16	12605-12611	having	_	_	_	
+118-17	12612-12614	no	_	_	_	
+118-18	12615-12620	basis	_	_	_	
+118-19	12621-12623	in	_	_	_	
+118-20	12624-12625	a	_	_	_	
+118-21	12626-12633	present	_	_	_	
+118-22	12634-12641	reality	_	_	_	
+118-23	12642-12643	.	_	_	_	
+
+#Text=At the south wall of the ruin a barn still provides roof and shelter in foul weather .
+119-1	12644-12646	At	_	_	_	
+119-2	12647-12650	the	_	_	_	
+119-3	12651-12656	south	_	_	_	
+119-4	12657-12661	wall	_	_	_	
+119-5	12662-12664	of	_	_	_	
+119-6	12665-12668	the	_	_	_	
+119-7	12669-12673	ruin	_	_	_	
+119-8	12674-12675	a	_	_	_	
+119-9	12676-12680	barn	_	_	_	
+119-10	12681-12686	still	_	_	_	
+119-11	12687-12695	provides	_	_	_	
+119-12	12696-12700	roof	_	_	_	
+119-13	12701-12704	and	_	_	_	
+119-14	12705-12712	shelter	_	_	_	
+119-15	12713-12715	in	_	_	_	
+119-16	12716-12720	foul	_	_	_	
+119-17	12721-12728	weather	_	_	_	
+119-18	12729-12730	.	_	_	_	
+
+#Text=I could think of no better headquarters for a natural historian bent on adventure , or for bird-watchers or fishermen for only a hundred feet ; for only a hundred feet below , a great bay of the loch contains seven islands , two of which are well wooded .
+120-1	12731-12732	I	_	_	_	
+120-2	12733-12738	could	_	_	_	
+120-3	12739-12744	think	_	_	_	
+120-4	12745-12747	of	_	_	_	
+120-5	12748-12750	no	_	_	_	
+120-6	12751-12757	better	_	_	_	
+120-7	12758-12770	headquarters	_	_	_	
+120-8	12771-12774	for	_	_	_	
+120-9	12775-12776	a	_	_	_	
+120-10	12777-12784	natural	_	_	_	
+120-11	12785-12794	historian	_	_	_	
+120-12	12795-12799	bent	_	_	_	
+120-13	12800-12802	on	_	_	_	
+120-14	12803-12812	adventure	_	_	_	
+120-15	12813-12814	,	_	_	_	
+120-16	12815-12817	or	_	_	_	
+120-17	12818-12821	for	_	_	_	
+120-18	12822-12835	bird-watchers	_	_	_	
+120-19	12836-12838	or	_	_	_	
+120-20	12839-12848	fishermen	_	_	_	
+120-21	12849-12852	for	_	_	_	
+120-22	12853-12857	only	_	_	_	
+120-23	12858-12859	a	_	_	_	
+120-24	12860-12867	hundred	_	_	_	
+120-25	12868-12872	feet	_	_	_	
+120-26	12873-12874	;	_	_	_	
+120-27	12875-12878	for	_	_	_	
+120-28	12879-12883	only	_	_	_	
+120-29	12884-12885	a	_	_	_	
+120-30	12886-12893	hundred	_	_	_	
+120-31	12894-12898	feet	_	_	_	
+120-32	12899-12904	below	_	_	_	
+120-33	12905-12906	,	_	_	_	
+120-34	12907-12908	a	_	_	_	
+120-35	12909-12914	great	_	_	_	
+120-36	12915-12918	bay	_	_	_	
+120-37	12919-12921	of	_	_	_	
+120-38	12922-12925	the	_	_	_	
+120-39	12926-12930	loch	_	_	_	
+120-40	12931-12939	contains	_	_	_	
+120-41	12940-12945	seven	_	_	_	
+120-42	12946-12953	islands	_	_	_	
+120-43	12954-12955	,	_	_	_	
+120-44	12956-12959	two	_	_	_	
+120-45	12960-12962	of	_	_	_	
+120-46	12963-12968	which	_	_	_	
+120-47	12969-12972	are	_	_	_	
+120-48	12973-12977	well	_	_	_	
+120-49	12978-12984	wooded	_	_	_	
+120-50	12985-12986	.	_	_	_	
+
+#Text=No one will find comfort at Tigh na Cruaiche ; only bare shelter and perfect solitude .
+121-1	12987-12989	No	_	_	_	
+121-2	12990-12993	one	_	_	_	
+121-3	12994-12998	will	_	_	_	
+121-4	12999-13003	find	_	_	_	
+121-5	13004-13011	comfort	_	_	_	
+121-6	13012-13014	at	zonal frame[50]	_	_	
+121-7	13015-13019	Tigh	zonal frame[50]	*[51]	_	
+121-8	13020-13022	na	zonal frame[50]	*[51]	_	
+121-9	13023-13031	Cruaiche	zonal frame[50]	*[51]	_	
+121-10	13032-13033	;	_	_	_	
+121-11	13034-13038	only	_	_	_	
+121-12	13039-13043	bare	_	_	_	
+121-13	13044-13051	shelter	_	_	_	
+121-14	13052-13055	and	_	_	_	
+121-15	13056-13063	perfect	_	_	_	
+121-16	13064-13072	solitude	_	_	_	
+121-17	13073-13074	.	_	_	_	
+
+#Text=We had still to cover four and a half miles to reach the Black Corries Lodge .
+122-1	13075-13077	We	_	_	_	
+122-2	13078-13081	had	_	_	_	
+122-3	13082-13087	still	_	_	_	
+122-4	13088-13090	to	_	_	_	
+122-5	13091-13096	cover	_	_	_	
+122-6	13097-13101	four	_	_	_	
+122-7	13102-13105	and	_	_	_	
+122-8	13106-13107	a	_	_	_	
+122-9	13108-13112	half	_	_	_	
+122-10	13113-13118	miles	_	_	_	
+122-11	13119-13121	to	_	_	_	
+122-12	13122-13127	reach	zonal frame[52]	_	_	
+122-13	13128-13131	the	zonal frame[52]	*[53]	_	
+122-14	13132-13137	Black	zonal frame[52]	*[53]	_	
+122-15	13138-13145	Corries	_	_	_	
+122-16	13146-13151	Lodge	_	_	_	
+122-17	13152-13153	.	_	_	_	
+
+#Text=This part of the day we both found most exhausting .
+123-1	13154-13158	This	_	_	_	
+123-2	13159-13163	part	_	_	_	
+123-3	13164-13166	of	_	_	_	
+123-4	13167-13170	the	_	_	_	
+123-5	13171-13174	day	_	_	_	
+123-6	13175-13177	we	_	_	_	
+123-7	13178-13182	both	_	_	_	
+123-8	13183-13188	found	_	_	_	
+123-9	13189-13193	most	_	_	_	
+123-10	13194-13204	exhausting	_	_	_	
+123-11	13205-13206	.	_	_	_	
+
+#Text=Heather was now following close to heel of her own free will .
+124-1	13207-13214	Heather	_	_	_	
+124-2	13215-13218	was	_	_	_	
+124-3	13219-13222	now	_	_	_	
+124-4	13223-13232	following	_	_	_	
+124-5	13233-13238	close	_	_	_	
+124-6	13239-13241	to	_	_	_	
+124-7	13242-13246	heel	_	_	_	
+124-8	13247-13249	of	_	_	_	
+124-9	13250-13253	her	_	_	_	
+124-10	13254-13257	own	_	_	_	
+124-11	13258-13262	free	_	_	_	
+124-12	13263-13267	will	_	_	_	
+124-13	13268-13269	.	_	_	_	
+
+#Text=For my part I found the ground badly folded and the heather too thick .
+125-1	13270-13273	For	_	_	_	
+125-2	13274-13276	my	_	_	_	
+125-3	13277-13281	part	_	_	_	
+125-4	13282-13283	I	_	_	_	
+125-5	13284-13289	found	_	_	_	
+125-6	13290-13293	the	_	_	_	
+125-7	13294-13300	ground	_	_	_	
+125-8	13301-13306	badly	_	_	_	
+125-9	13307-13313	folded	_	_	_	
+125-10	13314-13317	and	_	_	_	
+125-11	13318-13321	the	_	_	_	
+125-12	13322-13329	heather	_	_	_	
+125-13	13330-13333	too	_	_	_	
+125-14	13334-13339	thick	_	_	_	
+125-15	13340-13341	.	_	_	_	
+
+#Text=Only now was the day-long breeze strengthening and beginning to feel rather too cool on my unprotected skin , so that when the lodge came into sight I was glad enough to put on clothing .
+126-1	13342-13346	Only	_	_	_	
+126-2	13347-13350	now	_	_	_	
+126-3	13351-13354	was	_	_	_	
+126-4	13355-13358	the	_	_	_	
+126-5	13359-13367	day-long	_	_	_	
+126-6	13368-13374	breeze	_	_	_	
+126-7	13375-13388	strengthening	_	_	_	
+126-8	13389-13392	and	_	_	_	
+126-9	13393-13402	beginning	_	_	_	
+126-10	13403-13405	to	_	_	_	
+126-11	13406-13410	feel	_	_	_	
+126-12	13411-13417	rather	_	_	_	
+126-13	13418-13421	too	_	_	_	
+126-14	13422-13426	cool	_	_	_	
+126-15	13427-13429	on	_	_	_	
+126-16	13430-13432	my	_	_	_	
+126-17	13433-13444	unprotected	_	_	_	
+126-18	13445-13449	skin	_	_	_	
+126-19	13450-13451	,	_	_	_	
+126-20	13452-13454	so	_	_	_	
+126-21	13455-13459	that	_	_	_	
+126-22	13460-13464	when	_	_	_	
+126-23	13465-13468	the	_	_	_	
+126-24	13469-13474	lodge	_	_	_	
+126-25	13475-13479	came	_	_	_	
+126-26	13480-13484	into	_	_	_	
+126-27	13485-13490	sight	_	_	_	
+126-28	13491-13492	I	_	_	_	
+126-29	13493-13496	was	_	_	_	
+126-30	13497-13501	glad	_	_	_	
+126-31	13502-13508	enough	_	_	_	
+126-32	13509-13511	to	_	_	_	
+126-33	13512-13515	put	_	_	_	
+126-34	13516-13518	on	_	_	_	
+126-35	13519-13527	clothing	_	_	_	
+126-36	13528-13529	.	_	_	_	
+
+#Text=The average height of the moor is a thousand feet ; the lodge around twelve hundred : it thus commands a wondrously wide prospect across Loch Ba to the Blackmount .
+127-1	13530-13533	The	_	_	_	
+127-2	13534-13541	average	_	_	_	
+127-3	13542-13548	height	_	_	_	
+127-4	13549-13551	of	_	_	_	
+127-5	13552-13555	the	_	_	_	
+127-6	13556-13560	moor	_	_	_	
+127-7	13561-13563	is	_	_	_	
+127-8	13564-13565	a	_	_	_	
+127-9	13566-13574	thousand	_	_	_	
+127-10	13575-13579	feet	_	_	_	
+127-11	13580-13581	;	_	_	_	
+127-12	13582-13585	the	_	_	_	
+127-13	13586-13591	lodge	_	_	_	
+127-14	13592-13598	around	_	_	_	
+127-15	13599-13605	twelve	_	_	_	
+127-16	13606-13613	hundred	_	_	_	
+127-17	13614-13615	:	_	_	_	
+127-18	13616-13618	it	_	_	_	
+127-19	13619-13623	thus	_	_	_	
+127-20	13624-13632	commands	_	_	_	
+127-21	13633-13634	a	_	_	_	
+127-22	13635-13645	wondrously	_	_	_	
+127-23	13646-13650	wide	_	_	_	
+127-24	13651-13659	prospect	_	_	_	
+127-25	13660-13666	across	_	_	_	
+127-26	13667-13671	Loch	_	_	_	
+127-27	13672-13674	Ba	_	_	_	
+127-28	13675-13677	to	_	_	_	
+127-29	13678-13681	the	_	_	_	
+127-30	13682-13692	Blackmount	_	_	_	
+127-31	13693-13694	.	_	_	_	
+
+#Text=Had the tarns all been tiny the moor might have resembled a cratered battlefield ; but the waters were broad and long enough to add beauty to desolation , both of their kind matchless .
+128-1	13695-13698	Had	_	_	_	
+128-2	13699-13702	the	_	_	_	
+128-3	13703-13708	tarns	_	_	_	
+128-4	13709-13712	all	_	_	_	
+128-5	13713-13717	been	_	_	_	
+128-6	13718-13722	tiny	_	_	_	
+128-7	13723-13726	the	_	_	_	
+128-8	13727-13731	moor	_	_	_	
+128-9	13732-13737	might	_	_	_	
+128-10	13738-13742	have	_	_	_	
+128-11	13743-13752	resembled	_	_	_	
+128-12	13753-13754	a	_	_	_	
+128-13	13755-13763	cratered	_	_	_	
+128-14	13764-13775	battlefield	_	_	_	
+128-15	13776-13777	;	_	_	_	
+128-16	13778-13781	but	_	_	_	
+128-17	13782-13785	the	_	_	_	
+128-18	13786-13792	waters	_	_	_	
+128-19	13793-13797	were	_	_	_	
+128-20	13798-13803	broad	_	_	_	
+128-21	13804-13807	and	_	_	_	
+128-22	13808-13812	long	_	_	_	
+128-23	13813-13819	enough	_	_	_	
+128-24	13820-13822	to	_	_	_	
+128-25	13823-13826	add	_	_	_	
+128-26	13827-13833	beauty	_	_	_	
+128-27	13834-13836	to	_	_	_	
+128-28	13837-13847	desolation	_	_	_	
+128-29	13848-13849	,	_	_	_	
+128-30	13850-13854	both	_	_	_	
+128-31	13855-13857	of	_	_	_	
+128-32	13858-13863	their	_	_	_	
+128-33	13864-13868	kind	_	_	_	
+128-34	13869-13878	matchless	_	_	_	
+128-35	13879-13880	.	_	_	_	
+
+#Text=The circling hills of the east and west Blackmount , and the deep ranks of Glencoe , were in proper perspective , full in stature , clean-carved by corrie and glen , a deep and dusky blue in the hollows .
+129-1	13881-13884	The	_	_	_	
+129-2	13885-13893	circling	_	_	_	
+129-3	13894-13899	hills	_	_	_	
+129-4	13900-13902	of	_	_	_	
+129-5	13903-13906	the	_	_	_	
+129-6	13907-13911	east	_	_	_	
+129-7	13912-13915	and	_	_	_	
+129-8	13916-13920	west	_	_	_	
+129-9	13921-13931	Blackmount	_	_	_	
+129-10	13932-13933	,	_	_	_	
+129-11	13934-13937	and	_	_	_	
+129-12	13938-13941	the	_	_	_	
+129-13	13942-13946	deep	_	_	_	
+129-14	13947-13952	ranks	_	_	_	
+129-15	13953-13955	of	_	_	_	
+129-16	13956-13963	Glencoe	_	_	_	
+129-17	13964-13965	,	_	_	_	
+129-18	13966-13970	were	_	_	_	
+129-19	13971-13973	in	_	_	_	
+129-20	13974-13980	proper	_	_	_	
+129-21	13981-13992	perspective	_	_	_	
+129-22	13993-13994	,	_	_	_	
+129-23	13995-13999	full	_	_	_	
+129-24	14000-14002	in	_	_	_	
+129-25	14003-14010	stature	_	_	_	
+129-26	14011-14012	,	_	_	_	
+129-27	14013-14025	clean-carved	_	_	_	
+129-28	14026-14028	by	_	_	_	
+129-29	14029-14035	corrie	_	_	_	
+129-30	14036-14039	and	_	_	_	
+129-31	14040-14044	glen	_	_	_	
+129-32	14045-14046	,	_	_	_	
+129-33	14047-14048	a	_	_	_	
+129-34	14049-14053	deep	_	_	_	
+129-35	14054-14057	and	_	_	_	
+129-36	14058-14063	dusky	_	_	_	
+129-37	14064-14068	blue	_	_	_	
+129-38	14069-14071	in	_	_	_	
+129-39	14072-14075	the	_	_	_	
+129-40	14076-14083	hollows	_	_	_	
+129-41	14084-14085	.	_	_	_	
+
+#Text=I realized that not until this day had I ever seen the Glencoe hills as they really are .
+130-1	14086-14087	I	_	_	_	
+130-2	14088-14096	realized	_	_	_	
+130-3	14097-14101	that	_	_	_	
+130-4	14102-14105	not	_	_	_	
+130-5	14106-14111	until	_	_	_	
+130-6	14112-14116	this	_	_	_	
+130-7	14117-14120	day	_	_	_	
+130-8	14121-14124	had	_	_	_	
+130-9	14125-14126	I	_	_	_	
+130-10	14127-14131	ever	_	_	_	
+130-11	14132-14136	seen	_	_	_	
+130-12	14137-14140	the	_	_	_	
+130-13	14141-14148	Glencoe	_	_	_	
+130-14	14149-14154	hills	_	_	_	
+130-15	14155-14157	as	_	_	_	
+130-16	14158-14162	they	_	_	_	
+130-17	14163-14169	really	_	_	_	
+130-18	14170-14173	are	_	_	_	
+130-19	14174-14175	.	_	_	_	
+
+#Text=From the glen itself the mountains are sadly foreshortened , but this fact is never guessed , never realized , until one goes miles out on to Rannoch Moor .
+131-1	14176-14180	From	_	_	_	
+131-2	14181-14184	the	_	_	_	
+131-3	14185-14189	glen	_	_	_	
+131-4	14190-14196	itself	_	_	_	
+131-5	14197-14200	the	_	_	_	
+131-6	14201-14210	mountains	_	_	_	
+131-7	14211-14214	are	_	_	_	
+131-8	14215-14220	sadly	_	_	_	
+131-9	14221-14234	foreshortened	_	_	_	
+131-10	14235-14236	,	_	_	_	
+131-11	14237-14240	but	_	_	_	
+131-12	14241-14245	this	_	_	_	
+131-13	14246-14250	fact	_	_	_	
+131-14	14251-14253	is	_	_	_	
+131-15	14254-14259	never	_	_	_	
+131-16	14260-14267	guessed	_	_	_	
+131-17	14268-14269	,	_	_	_	
+131-18	14270-14275	never	_	_	_	
+131-19	14276-14284	realized	_	_	_	
+131-20	14285-14286	,	_	_	_	
+131-21	14287-14292	until	_	_	_	
+131-22	14293-14296	one	_	_	_	
+131-23	14297-14301	goes	_	_	_	
+131-24	14302-14307	miles	_	_	_	
+131-25	14308-14311	out	_	_	_	
+131-26	14312-14314	on	_	_	_	
+131-27	14315-14317	to	_	_	_	
+131-28	14318-14325	Rannoch	_	_	_	
+131-29	14326-14330	Moor	_	_	_	
+131-30	14331-14332	.	_	_	_	
+
+#Text=I have no especial love for road-walking-a road is a tyrant , directing a man in ways planned for him , and most wearing on climbing-nails , which are costly .
+132-1	14333-14334	I	_	_	_	
+132-2	14335-14339	have	_	_	_	
+132-3	14340-14342	no	_	_	_	
+132-4	14343-14351	especial	_	_	_	
+132-5	14352-14356	love	_	_	_	
+132-6	14357-14360	for	_	_	_	
+132-7	14361-14375	road-walking-a	_	_	_	
+132-8	14376-14380	road	_	_	_	
+132-9	14381-14383	is	_	_	_	
+132-10	14384-14385	a	_	_	_	
+132-11	14386-14392	tyrant	_	_	_	
+132-12	14393-14394	,	_	_	_	
+132-13	14395-14404	directing	_	_	_	
+132-14	14405-14406	a	_	_	_	
+132-15	14407-14410	man	_	_	_	
+132-16	14411-14413	in	_	_	_	
+132-17	14414-14418	ways	_	_	_	
+132-18	14419-14426	planned	_	_	_	
+132-19	14427-14430	for	_	_	_	
+132-20	14431-14434	him	_	_	_	
+132-21	14435-14436	,	_	_	_	
+132-22	14437-14440	and	_	_	_	
+132-23	14441-14445	most	_	_	_	
+132-24	14446-14453	wearing	_	_	_	
+132-25	14454-14456	on	_	_	_	
+132-26	14457-14471	climbing-nails	_	_	_	
+132-27	14472-14473	,	_	_	_	
+132-28	14474-14479	which	_	_	_	
+132-29	14480-14483	are	_	_	_	
+132-30	14484-14490	costly	_	_	_	
+132-31	14491-14492	.	_	_	_	
+
+#Text=But I have a good word to say for the road from Black Corries Lodge to Kingshouse : it is only four miles and downhill all the way .
+133-1	14493-14496	But	_	_	_	
+133-2	14497-14498	I	_	_	_	
+133-3	14499-14503	have	_	_	_	
+133-4	14504-14505	a	_	_	_	
+133-5	14506-14510	good	_	_	_	
+133-6	14511-14515	word	_	_	_	
+133-7	14516-14518	to	_	_	_	
+133-8	14519-14522	say	_	_	_	
+133-9	14523-14526	for	_	_	_	
+133-10	14527-14530	the	_	_	_	
+133-11	14531-14535	road	_	_	_	
+133-12	14536-14540	from	_	_	_	
+133-13	14541-14546	Black	_	_	_	
+133-14	14547-14554	Corries	_	_	_	
+133-15	14555-14560	Lodge	_	_	_	
+133-16	14561-14563	to	_	_	_	
+133-17	14564-14574	Kingshouse	_	_	_	
+133-18	14575-14576	:	_	_	_	
+133-19	14577-14579	it	_	_	_	
+133-20	14580-14582	is	_	_	_	
+133-21	14583-14587	only	_	_	_	
+133-22	14588-14592	four	_	_	_	
+133-23	14593-14598	miles	_	_	_	
+133-24	14599-14602	and	_	_	_	
+133-25	14603-14611	downhill	_	_	_	
+133-26	14612-14615	all	_	_	_	
+133-27	14616-14619	the	_	_	_	
+133-28	14620-14623	way	_	_	_	
+133-29	14624-14625	.	_	_	_	
+
+#Text=I could appreciate that , in the circumstances .
+134-1	14626-14627	I	_	_	_	
+134-2	14628-14633	could	_	_	_	
+134-3	14634-14644	appreciate	_	_	_	
+134-4	14645-14649	that	_	_	_	
+134-5	14650-14651	,	_	_	_	
+134-6	14652-14654	in	_	_	_	
+134-7	14655-14658	the	_	_	_	
+134-8	14659-14672	circumstances	_	_	_	
+134-9	14673-14674	.	_	_	_	
+
+#Text=I was very tired .
+135-1	14675-14676	I	_	_	_	
+135-2	14677-14680	was	_	_	_	
+135-3	14681-14685	very	_	_	_	
+135-4	14686-14691	tired	_	_	_	
+135-5	14692-14693	.	_	_	_	
+
+#Text=And a good dinner being only one hour away , I found myself still full of enthusiasm for the moor of Rannoch ; for its own sake as well as for its new revelation of old hills .
+136-1	14694-14697	And	_	_	_	
+136-2	14698-14699	a	_	_	_	
+136-3	14700-14704	good	_	_	_	
+136-4	14705-14711	dinner	_	_	_	
+136-5	14712-14717	being	_	_	_	
+136-6	14718-14722	only	_	_	_	
+136-7	14723-14726	one	_	_	_	
+136-8	14727-14731	hour	_	_	_	
+136-9	14732-14736	away	_	_	_	
+136-10	14737-14738	,	_	_	_	
+136-11	14739-14740	I	_	_	_	
+136-12	14741-14746	found	_	_	_	
+136-13	14747-14753	myself	_	_	_	
+136-14	14754-14759	still	_	_	_	
+136-15	14760-14764	full	_	_	_	
+136-16	14765-14767	of	_	_	_	
+136-17	14768-14778	enthusiasm	_	_	_	
+136-18	14779-14782	for	_	_	_	
+136-19	14783-14786	the	_	_	_	
+136-20	14787-14791	moor	_	_	_	
+136-21	14792-14794	of	_	_	_	
+136-22	14795-14802	Rannoch	_	_	_	
+136-23	14803-14804	;	_	_	_	
+136-24	14805-14808	for	_	_	_	
+136-25	14809-14812	its	_	_	_	
+136-26	14813-14816	own	_	_	_	
+136-27	14817-14821	sake	_	_	_	
+136-28	14822-14824	as	_	_	_	
+136-29	14825-14829	well	_	_	_	
+136-30	14830-14832	as	_	_	_	
+136-31	14833-14836	for	_	_	_	
+136-32	14837-14840	its	_	_	_	
+136-33	14841-14844	new	_	_	_	
+136-34	14845-14855	revelation	_	_	_	
+136-35	14856-14858	of	_	_	_	
+136-36	14859-14862	old	_	_	_	
+136-37	14863-14868	hills	_	_	_	
+136-38	14869-14870	.	_	_	_	
+
+#Text=At last I knew it-and at that checked myself .
+137-1	14871-14873	At	_	_	_	
+137-2	14874-14878	last	_	_	_	
+137-3	14879-14880	I	_	_	_	
+137-4	14881-14885	knew	_	_	_	
+137-5	14886-14892	it-and	_	_	_	
+137-6	14893-14895	at	_	_	_	
+137-7	14896-14900	that	_	_	_	
+137-8	14901-14908	checked	_	_	_	
+137-9	14909-14915	myself	_	_	_	
+137-10	14916-14917	.	_	_	_	
+
+#Text=Moors , like mountains , are not known so easily as first visits tempt one to think .
+138-1	14918-14923	Moors	_	_	_	
+138-2	14924-14925	,	_	_	_	
+138-3	14926-14930	like	_	_	_	
+138-4	14931-14940	mountains	_	_	_	
+138-5	14941-14942	,	_	_	_	
+138-6	14943-14946	are	_	_	_	
+138-7	14947-14950	not	_	_	_	
+138-8	14951-14956	known	_	_	_	
+138-9	14957-14959	so	_	_	_	
+138-10	14960-14966	easily	_	_	_	
+138-11	14967-14969	as	_	_	_	
+138-12	14970-14975	first	_	_	_	
+138-13	14976-14982	visits	_	_	_	
+138-14	14983-14988	tempt	_	_	_	
+138-15	14989-14992	one	_	_	_	
+138-16	14993-14995	to	_	_	_	
+138-17	14996-15001	think	_	_	_	
+138-18	15002-15003	.	_	_	_	
+
+#Text=However , I had seen something of it in summer .
+139-1	15004-15011	However	_	_	_	
+139-2	15012-15013	,	_	_	_	
+139-3	15014-15015	I	_	_	_	
+139-4	15016-15019	had	_	_	_	
+139-5	15020-15024	seen	_	_	_	
+139-6	15025-15034	something	_	_	_	
+139-7	15035-15037	of	_	_	_	
+139-8	15038-15040	it	_	_	_	
+139-9	15041-15043	in	_	_	_	
+139-10	15044-15050	summer	_	_	_	
+139-11	15051-15052	.	_	_	_	
+
+#Text=What of winter ?
+140-1	15053-15057	What	_	_	_	
+140-2	15058-15060	of	_	_	_	
+140-3	15061-15067	winter	_	_	_	
+140-4	15068-15069	?	_	_	_	
+
+#Text=In winter I knew only the moor 's western fringes .
+141-1	15070-15072	In	_	_	_	
+141-2	15073-15079	winter	_	_	_	
+141-3	15080-15081	I	_	_	_	
+141-4	15082-15086	knew	_	_	_	
+141-5	15087-15091	only	_	_	_	
+141-6	15092-15095	the	_	_	_	
+141-7	15096-15100	moor	_	_	_	
+141-8	15101-15103	's	_	_	_	
+141-9	15104-15111	western	_	_	_	
+141-10	15112-15119	fringes	_	_	_	
+141-11	15120-15121	.	_	_	_	
+
+#Text=I had watched the sun shine low over wind-rippled snow-fields , and glance across frozen lochs , make of an ice-bound tree a flashing chandelier and strike fire from the frozen tower of Buachaille .
+142-1	15122-15123	I	_	_	_	
+142-2	15124-15127	had	_	_	_	
+142-3	15128-15135	watched	_	_	_	
+142-4	15136-15139	the	_	_	_	
+142-5	15140-15143	sun	_	_	_	
+142-6	15144-15149	shine	_	_	_	
+142-7	15150-15153	low	_	_	_	
+142-8	15154-15158	over	_	_	_	
+142-9	15159-15171	wind-rippled	_	_	_	
+142-10	15172-15183	snow-fields	_	_	_	
+142-11	15184-15185	,	_	_	_	
+142-12	15186-15189	and	_	_	_	
+142-13	15190-15196	glance	_	_	_	
+142-14	15197-15203	across	_	_	_	
+142-15	15204-15210	frozen	_	_	_	
+142-16	15211-15216	lochs	_	_	_	
+142-17	15217-15218	,	_	_	_	
+142-18	15219-15223	make	_	_	_	
+142-19	15224-15226	of	_	_	_	
+142-20	15227-15229	an	_	_	_	
+142-21	15230-15239	ice-bound	_	_	_	
+142-22	15240-15244	tree	_	_	_	
+142-23	15245-15246	a	_	_	_	
+142-24	15247-15255	flashing	_	_	_	
+142-25	15256-15266	chandelier	_	_	_	
+142-26	15267-15270	and	_	_	_	
+142-27	15271-15277	strike	_	_	_	
+142-28	15278-15282	fire	_	_	_	
+142-29	15283-15287	from	_	_	_	
+142-30	15288-15291	the	_	_	_	
+142-31	15292-15298	frozen	_	_	_	
+142-32	15299-15304	tower	_	_	_	
+142-33	15305-15307	of	_	_	_	
+142-34	15308-15318	Buachaille	_	_	_	
+142-35	15319-15320	.	_	_	_	
+
+#Text=A winter traverse of the whole moor would give a man these and other things , and an adventure into the bargain for which he would have to be as fit and as well clothed as for a mountain expedition .
+143-1	15321-15322	A	_	_	_	
+143-2	15323-15329	winter	_	_	_	
+143-3	15330-15338	traverse	_	_	_	
+143-4	15339-15341	of	_	_	_	
+143-5	15342-15345	the	_	_	_	
+143-6	15346-15351	whole	_	_	_	
+143-7	15352-15356	moor	_	_	_	
+143-8	15357-15362	would	_	_	_	
+143-9	15363-15367	give	_	_	_	
+143-10	15368-15369	a	_	_	_	
+143-11	15370-15373	man	_	_	_	
+143-12	15374-15379	these	_	_	_	
+143-13	15380-15383	and	_	_	_	
+143-14	15384-15389	other	_	_	_	
+143-15	15390-15396	things	_	_	_	
+143-16	15397-15398	,	_	_	_	
+143-17	15399-15402	and	_	_	_	
+143-18	15403-15405	an	_	_	_	
+143-19	15406-15415	adventure	_	_	_	
+143-20	15416-15420	into	_	_	_	
+143-21	15421-15424	the	_	_	_	
+143-22	15425-15432	bargain	_	_	_	
+143-23	15433-15436	for	_	_	_	
+143-24	15437-15442	which	_	_	_	
+143-25	15443-15445	he	_	_	_	
+143-26	15446-15451	would	_	_	_	
+143-27	15452-15456	have	_	_	_	
+143-28	15457-15459	to	_	_	_	
+143-29	15460-15462	be	_	_	_	
+143-30	15463-15465	as	_	_	_	
+143-31	15466-15469	fit	_	_	_	
+143-32	15470-15473	and	_	_	_	
+143-33	15474-15476	as	_	_	_	
+143-34	15477-15481	well	_	_	_	
+143-35	15482-15489	clothed	_	_	_	
+143-36	15490-15492	as	_	_	_	
+143-37	15493-15496	for	_	_	_	
+143-38	15497-15498	a	_	_	_	
+143-39	15499-15507	mountain	_	_	_	
+143-40	15508-15518	expedition	_	_	_	
+143-41	15519-15520	.	_	_	_	
+
+#Text=I had had enough experience of Rannoch blizzards to know that they rival Cairngorm blizzards in everything save wind velocity .
+144-1	15521-15522	I	_	_	_	
+144-2	15523-15526	had	_	_	_	
+144-3	15527-15530	had	_	_	_	
+144-4	15531-15537	enough	_	_	_	
+144-5	15538-15548	experience	_	_	_	
+144-6	15549-15551	of	_	_	_	
+144-7	15552-15559	Rannoch	_	_	_	
+144-8	15560-15569	blizzards	_	_	_	
+144-9	15570-15572	to	_	_	_	
+144-10	15573-15577	know	_	_	_	
+144-11	15578-15582	that	_	_	_	
+144-12	15583-15587	they	_	_	_	
+144-13	15588-15593	rival	_	_	_	
+144-14	15594-15603	Cairngorm	_	_	_	
+144-15	15604-15613	blizzards	_	_	_	
+144-16	15614-15616	in	_	_	_	
+144-17	15617-15627	everything	_	_	_	
+144-18	15628-15632	save	_	_	_	
+144-19	15633-15637	wind	_	_	_	
+144-20	15638-15646	velocity	_	_	_	
+144-21	15647-15648	.	_	_	_	
+
+#Text=In new , deep snow a crossing in one day would hardly be possible , but on old snow , in hard frost and fine weather , all should be more than well .
+145-1	15649-15651	In	_	_	_	
+145-2	15652-15655	new	_	_	_	
+145-3	15656-15657	,	_	_	_	
+145-4	15658-15662	deep	_	_	_	
+145-5	15663-15667	snow	_	_	_	
+145-6	15668-15669	a	_	_	_	
+145-7	15670-15678	crossing	_	_	_	
+145-8	15679-15681	in	_	_	_	
+145-9	15682-15685	one	_	_	_	
+145-10	15686-15689	day	_	_	_	
+145-11	15690-15695	would	_	_	_	
+145-12	15696-15702	hardly	_	_	_	
+145-13	15703-15705	be	_	_	_	
+145-14	15706-15714	possible	_	_	_	
+145-15	15715-15716	,	_	_	_	
+145-16	15717-15720	but	_	_	_	
+145-17	15721-15723	on	_	_	_	
+145-18	15724-15727	old	_	_	_	
+145-19	15728-15732	snow	_	_	_	
+145-20	15733-15734	,	_	_	_	
+145-21	15735-15737	in	_	_	_	
+145-22	15738-15742	hard	_	_	_	
+145-23	15743-15748	frost	_	_	_	
+145-24	15749-15752	and	_	_	_	
+145-25	15753-15757	fine	_	_	_	
+145-26	15758-15765	weather	_	_	_	
+145-27	15766-15767	,	_	_	_	
+145-28	15768-15771	all	_	_	_	
+145-29	15772-15778	should	_	_	_	
+145-30	15779-15781	be	_	_	_	
+145-31	15782-15786	more	_	_	_	
+145-32	15787-15791	than	_	_	_	
+145-33	15792-15796	well	_	_	_	
+145-34	15797-15798	.	_	_	_	
+
+#Text=It may be that I exaggerate the worth of the day ?
+146-1	15799-15801	It	_	_	_	
+146-2	15802-15805	may	_	_	_	
+146-3	15806-15808	be	_	_	_	
+146-4	15809-15813	that	_	_	_	
+146-5	15814-15815	I	_	_	_	
+146-6	15816-15826	exaggerate	_	_	_	
+146-7	15827-15830	the	_	_	_	
+146-8	15831-15836	worth	_	_	_	
+146-9	15837-15839	of	_	_	_	
+146-10	15840-15843	the	_	_	_	
+146-11	15844-15847	day	_	_	_	
+146-12	15848-15849	?	_	_	_	
+
+#Text=It does seem to ask strenuous work and a sacrifice of either comfort or convenience .
+147-1	15850-15852	It	_	_	_	
+147-2	15853-15857	does	_	_	_	
+147-3	15858-15862	seem	_	_	_	
+147-4	15863-15865	to	_	_	_	
+147-5	15866-15869	ask	_	_	_	
+147-6	15870-15879	strenuous	_	_	_	
+147-7	15880-15884	work	_	_	_	
+147-8	15885-15888	and	_	_	_	
+147-9	15889-15890	a	_	_	_	
+147-10	15891-15900	sacrifice	_	_	_	
+147-11	15901-15903	of	_	_	_	
+147-12	15904-15910	either	_	_	_	
+147-13	15911-15918	comfort	_	_	_	
+147-14	15919-15921	or	_	_	_	
+147-15	15922-15933	convenience	_	_	_	
+147-16	15934-15935	.	_	_	_	
+
+#Text=However , greater worth has always in my own experience asked greater effort , and the reward has borne proportion to effort , on one plane or another .
+148-1	15936-15943	However	_	_	_	
+148-2	15944-15945	,	_	_	_	
+148-3	15946-15953	greater	_	_	_	
+148-4	15954-15959	worth	_	_	_	
+148-5	15960-15963	has	_	_	_	
+148-6	15964-15970	always	_	_	_	
+148-7	15971-15973	in	_	_	_	
+148-8	15974-15976	my	_	_	_	
+148-9	15977-15980	own	_	_	_	
+148-10	15981-15991	experience	_	_	_	
+148-11	15992-15997	asked	_	_	_	
+148-12	15998-16005	greater	_	_	_	
+148-13	16006-16012	effort	_	_	_	
+148-14	16013-16014	,	_	_	_	
+148-15	16015-16018	and	_	_	_	
+148-16	16019-16022	the	_	_	_	
+148-17	16023-16029	reward	_	_	_	
+148-18	16030-16033	has	_	_	_	
+148-19	16034-16039	borne	_	_	_	
+148-20	16040-16050	proportion	_	_	_	
+148-21	16051-16053	to	_	_	_	
+148-22	16054-16060	effort	_	_	_	
+148-23	16061-16062	,	_	_	_	
+148-24	16063-16065	on	_	_	_	
+148-25	16066-16069	one	_	_	_	
+148-26	16070-16075	plane	_	_	_	
+148-27	16076-16078	or	_	_	_	
+148-28	16079-16086	another	_	_	_	
+148-29	16087-16088	.	_	_	_	
+
+#Text=Summer and winter there is a day for Rannoch .
+149-1	16089-16095	Summer	_	_	_	
+149-2	16096-16099	and	_	_	_	
+149-3	16100-16106	winter	_	_	_	
+149-4	16107-16112	there	_	_	_	
+149-5	16113-16115	is	_	_	_	
+149-6	16116-16117	a	_	_	_	
+149-7	16118-16121	day	_	_	_	
+149-8	16122-16125	for	_	_	_	
+149-9	16126-16133	Rannoch	_	_	_	
+149-10	16134-16135	.	_	_	_	
+
+#Text=

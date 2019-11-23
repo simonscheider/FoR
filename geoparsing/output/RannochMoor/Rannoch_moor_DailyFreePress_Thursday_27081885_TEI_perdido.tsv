@@ -1,0 +1,131 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.FoR|FrameType
+#T_SP=webanno.custom.Groundobject|
+#T_SP=webanno.custom.Target|
+
+
+#Text=A NEW ROUTE ACROSS SCOTLAND Leaving Tigh na Cruaiche we reached the shooting lodge without difficulty , and by and by saw King 's House Inn which was plainly discernible from its white-washed walls , and being also the only house visible ahead of us .
+1-1	0-1	A	_	_	_	
+1-2	2-5	NEW	_	_	_	
+1-3	6-11	ROUTE	_	_	_	
+1-4	12-18	ACROSS	_	_	_	
+1-5	19-27	SCOTLAND	zonal frame[1]	_	*[2]	
+1-6	28-35	Leaving	zonal frame[1]	_	_	
+1-7	36-40	Tigh	zonal frame[1]	*[3]	_	
+1-8	41-43	na	zonal frame[1]	*[3]	_	
+1-9	44-52	Cruaiche	zonal frame[1]	*[3]	_	
+1-10	53-55	we	_	_	_	
+1-11	56-63	reached	_	_	_	
+1-12	64-67	the	_	_	_	
+1-13	68-76	shooting	_	_	_	
+1-14	77-82	lodge	_	_	_	
+1-15	83-90	without	_	_	_	
+1-16	91-101	difficulty	_	_	_	
+1-17	102-103	,	_	_	_	
+1-18	104-107	and	_	_	_	
+1-19	108-110	by	_	_	_	
+1-20	111-114	and	_	_	_	
+1-21	115-117	by	_	_	_	
+1-22	118-121	saw	_	_	_	
+1-23	122-126	King	_	_	_	
+1-24	127-129	's	_	_	_	
+1-25	130-135	House	_	_	_	
+1-26	136-139	Inn	_	_	_	
+1-27	140-145	which	_	_	_	
+1-28	146-149	was	_	_	_	
+1-29	150-157	plainly	_	_	_	
+1-30	158-169	discernible	_	_	_	
+1-31	170-174	from	_	_	_	
+1-32	175-178	its	_	_	_	
+1-33	179-191	white-washed	_	_	_	
+1-34	192-197	walls	_	_	_	
+1-35	198-199	,	_	_	_	
+1-36	200-203	and	_	_	_	
+1-37	204-209	being	_	_	_	
+1-38	210-214	also	_	_	_	
+1-39	215-218	the	_	_	_	
+1-40	219-223	only	_	_	_	
+1-41	224-229	house	_	_	_	
+1-42	230-237	visible	_	_	_	
+1-43	238-243	ahead	_	_	_	
+1-44	244-246	of	_	_	_	
+1-45	247-249	us	_	_	_	
+1-46	250-251	.	_	_	_	
+
+#Text=It is worthy of note that in our journey from the Dee to Glencoe we did not meet a single person , a circumstance which well shows how peculiar our route was .
+2-1	252-254	It	_	_	_	
+2-2	255-257	is	_	_	_	
+2-3	258-264	worthy	_	_	_	
+2-4	265-267	of	_	_	_	
+2-5	268-272	note	_	_	_	
+2-6	273-277	that	_	_	_	
+2-7	278-280	in	_	_	_	
+2-8	281-284	our	_	_	_	
+2-9	285-292	journey	_	_	_	
+2-10	293-297	from	linear construction frame[4]	_	_	
+2-11	298-301	the	linear construction frame[4]	*[5]	_	
+2-12	302-305	Dee	linear construction frame[4]	*[5]	_	
+2-13	306-308	to	linear construction frame[4]	_	_	
+2-14	309-316	Glencoe	linear construction frame[4]	*[6]	_	
+2-15	317-319	we	_	_	_	
+2-16	320-323	did	_	_	_	
+2-17	324-327	not	_	_	_	
+2-18	328-332	meet	_	_	_	
+2-19	333-334	a	_	_	_	
+2-20	335-341	single	_	_	_	
+2-21	342-348	person	_	_	_	
+2-22	349-350	,	_	_	_	
+2-23	351-352	a	_	_	_	
+2-24	353-365	circumstance	_	_	_	
+2-25	366-371	which	_	_	_	
+2-26	372-376	well	_	_	_	
+2-27	377-382	shows	_	_	_	
+2-28	383-386	how	_	_	_	
+2-29	387-395	peculiar	_	_	_	
+2-30	396-399	our	_	_	_	
+2-31	400-405	route	_	_	_	
+2-32	406-409	was	_	_	_	
+2-33	410-411	.	_	_	_	
+
+#Text=Yet every part of the way was enjoyable , much of it exceedingly so ; even the Moor of Rannoch was enjoyed because of its extreme ugliness , and its utter want of pretension to be considered beautiful .
+3-1	412-415	Yet	_	_	_	
+3-2	416-421	every	_	_	_	
+3-3	422-426	part	topological frame[7]	_	_	
+3-4	427-429	of	topological frame[7]	_	_	
+3-5	430-433	the	topological frame[7]	*[8]	_	
+3-6	434-437	way	topological frame[7]	*[8]	_	
+3-7	438-441	was	_	_	_	
+3-8	442-451	enjoyable	_	_	_	
+3-9	452-453	,	_	_	_	
+3-10	454-458	much	_	_	_	
+3-11	459-461	of	_	_	_	
+3-12	462-464	it	_	_	_	
+3-13	465-476	exceedingly	_	_	_	
+3-14	477-479	so	_	_	_	
+3-15	480-481	;	_	_	_	
+3-16	482-486	even	_	_	_	
+3-17	487-490	the	_	_	_	
+3-18	491-495	Moor	_	_	_	
+3-19	496-498	of	_	_	_	
+3-20	499-506	Rannoch	_	_	_	
+3-21	507-510	was	_	_	_	
+3-22	511-518	enjoyed	_	_	_	
+3-23	519-526	because	_	_	_	
+3-24	527-529	of	_	_	_	
+3-25	530-533	its	_	_	_	
+3-26	534-541	extreme	_	_	_	
+3-27	542-550	ugliness	_	_	_	
+3-28	551-552	,	_	_	_	
+3-29	553-556	and	_	_	_	
+3-30	557-560	its	_	_	_	
+3-31	561-566	utter	_	_	_	
+3-32	567-571	want	_	_	_	
+3-33	572-574	of	_	_	_	
+3-34	575-585	pretension	_	_	_	
+3-35	586-588	to	_	_	_	
+3-36	589-591	be	_	_	_	
+3-37	592-602	considered	_	_	_	
+3-38	603-612	beautiful	_	_	_	
+3-39	613-614	.	_	_	_	
+
+#Text=

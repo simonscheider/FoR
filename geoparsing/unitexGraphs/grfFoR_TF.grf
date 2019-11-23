@@ -1,0 +1,77 @@
+#Unigraph
+SIZE 1415 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+57
+"<E>" 38 307 1 7 
+"" 1151 308 0 
+"<E>" 1106 308 1 1 
+"<E>/{" 80 246 1 5 
+"<E>/,.target}" 215 247 1 22 
+":tools:target_GO" 111 246 1 4 
+"/Topological frame (TF)+ - TF SP (Topological frame with specific parthood)+ - TF P (Topological frame with unspecific parthood)+ - TF I (Topological frame with intersect)+ - TF T (Topological frame with touch)" 21 59 0 
+"<E>/{" 87 307 2 3 22 
+"<E>/,.GO}" 995 308 2 11 43 
+":tools:target_GO" 885 308 1 8 
+"<E>/{" 850 308 1 9 
+"<E>/,.FoR+TF+$a$}" 1048 308 1 2 
+"/Glen Coe" 902 285 0 
+"<DET>" 303 227 1 23 
+"/the" 319 202 0 
+"where" 265 440 1 30 
+"/where" 264 414 0 
+":tools:target_GO" 399 308 1 19 
+":joker" 599 308 2 18 48 
+"named" 523 308 1 18 
+"in" 303 308 1 21 
+"<DET>" 337 308 1 17 
+"<E>" 204 308 5 20 13 15 33 42 
+"<modifier+topological>" 379 227 1 45 
+"/mouth of" 421 201 0 
+"/in a ruin" 368 281 0 
+"/named on our map as" 525 275 0 
+"/the River Ba" 371 414 0 
+"<E>/,.GO}" 468 440 1 31 
+":tools:target_GO" 362 440 1 28 
+"<E>/{" 327 440 1 29 
+"<topological>" 535 440 1 51 
+"/flows into" 546 415 0 
+"<E>" 269 539 1 34 
+"linked" 304 539 1 39 
+"/linked" 303 513 0 
+"/Loch Ba" 410 513 0 
+"<E>/,.GO}" 507 539 1 40 
+":tools:target_GO" 401 539 1 37 
+"<E>/{" 366 539 1 38 
+"to" 593 539 1 54 
+"/to" 592 514 0 
+"<offset+inclusion>" 383 364 1 48 
+"to+-+by+and" 911 418 2 10 43 
+"<E>/SP" 723 227 1 46 
+"$|a(" 683 227 1 44 
+"$|a)" 773 227 1 10 
+"<E>/P" 721 308 1 49 
+"$|a(" 681 308 1 47 
+"$|a)" 771 308 1 10 
+"<E>/I" 722 440 1 52 
+"$|a(" 682 440 1 50 
+"$|a)" 772 440 1 10 
+"<E>/T" 716 539 1 55 
+"$|a(" 676 539 1 53 
+"$|a)" 766 539 1 10 
+"--------------------------------------------------------------------+PERDIDO vENG FoR+Authors:+  Ludovic Moncla, INSA Lyon, LIRIS - ludovic.moncla@liris.cnrs.fr+  Simon Scheider, Utrecht University - s.scheider@uul.nl+  Gabriel Viehhauser, Universitaet Stuttgart - viehhauser@ilw.uni-stuttgart.de+Website : https:\/\/github.com\/simonscheider\/FoR+Licence LGPL-LR+--------------------------------------------------------------------" 431 95 0 
