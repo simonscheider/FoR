@@ -18,8 +18,11 @@ BF = {Target} + *between* + GO + *and* + GO
 * Euclidean FoR parsing rule
 
 EF CP = {Target + (*at*|*in*)} + modifier orientation + modifier inclusion + GO
+
 EF CD = {Target + (*at*|*in*)} + modifier distance + modifier orientation + GO
+
 EF G = {Target + (*at*|*in*)} + modifier gravity + GO
+
 EF C = {Target + (*at*|*in*)} + modifier orientation + GO
 
 ![Euclidean FoR parsing rule](FoR_EF.png?raw=true "Euclidean FoR parsing rule")
@@ -28,6 +31,7 @@ EF C = {Target + (*at*|*in*)} + modifier orientation + GO
 * Linear construction FoR parsing rule
 
 LCF S = {Target} + *along* + modifier orientation + modifier inclusion + GO
+
 LCF M = {Target} + *from* + GO + *to* + GO
 
 ![Linear construction FoR parsing rule](FoR_LCF.png?raw=true "Linear construction FoR parsing rule")
@@ -36,8 +40,11 @@ LCF M = {Target} + *from* + GO + *to* + GO
 * Topological FoR parsing rule
 
 TF SP = {Target} + modifier topological + GO
+
 TF I = {Target} + modifier intersect + GO + modifier topological + GO
+
 TF T = {Target} + modifier touch + GO + *and* + GO
+
 TF P = {Target} + modifier inclusion + GO
 
 ![Topological FoR parsing rule](FoR_TF.png?raw=true "Topological FoR parsing rule")
@@ -46,7 +53,9 @@ TF P = {Target} + modifier inclusion + GO
 * Zonal FoR parsing rule
 
 ZF Dn = {Target} + modifier distance + GO
+
 ZF Do = {Target} + modifier location + GO + *and* + GO 
+
 ZF C = {Target} + *in* + modifier central + GO 
 
 ![Zonal FoR parsing rule](FoR_ZF.png?raw=true "Zonal FoR parsing rule")
@@ -55,7 +64,9 @@ ZF C = {Target} + *in* + modifier central + GO
 * Target and Ground object parsing rule
 
 Target = spatial entity
+
 GO = spatial entity + {separator + GO}
+
 
 
 
