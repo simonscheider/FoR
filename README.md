@@ -16,3 +16,4 @@ Authors:
 * Simon Scheider ([home](http://geographicknowledge.de/))
 * Ludovic Moncla ([home](https://lmoncla.ddns.net/))
 * Gabriel Viehhauser ([home](https://www.ilw.uni-stuttgart.de/institut/team/Viehhauser-00002/))
+* Han Kruiger ([home](https://www.hankruiger.com/))
