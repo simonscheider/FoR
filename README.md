@@ -1,5 +1,4 @@
-# Resources for discovering 
-# spatial Frames of Reference (FoR) in narratives
+# Resources for discovering spatial Frames of Reference (FoR) in narratives
 
 In order to transform locative expressions contained in narrative texts to coordinate systems in a GIS, it is necessary to identify the different types of cognitive *frames of reference (FoR)* used within parts of speech (PoS).
 
